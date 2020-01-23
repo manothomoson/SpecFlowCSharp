@@ -1,0 +1,84 @@
+﻿2019-12-16T19:00:43.6707281+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-16T19:00:43.6707281+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-16T19:00:43.6707281+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-16T19:00:43.7760161+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-16T19:00:43.7770186+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-16T19:00:43.7770186+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-16T19:00:43.7976104+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-16T190043.log
+2019-12-16T19:00:43.8051019+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-16T19:00:43.8101155+05:30;Thread#13;Info;Checking license
+2019-12-16T19:00:43.8211457+05:30;Thread#13;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-12-16T19:00:53.8235094+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-16T19:00:53.8285237+05:30;Thread#13;Info;License check completed
+2019-12-16T19:00:53.8285237+05:30;Thread#13;Info;starting test run
+2019-12-16T19:00:53.8355735+05:30;Thread#13;Info;Discovering target: Default
+2019-12-16T19:00:53.8355735+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-16T19:00:54.1910410+05:30:Appdomain Disposed
+2019-12-16T19:00:54.1910410+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-16T19:00:54.1920114+05:30:Test Suite Dump
+2019-12-16T19:00:54.1940529+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-16T19:00:54.1940529+05:30:#1: Default - 
+2019-12-16T19:00:54.1940529+05:30:#2: ConductorPOC - 
+2019-12-16T19:00:54.1940529+05:30:#3: Storefront: Corporate Funding - 
+2019-12-16T19:00:54.1940529+05:30:#12: Product Catalog - Search a product, Validate filters and Sort - 
+2019-12-16T19:00:54.1940529+05:30:#18: Administration - Create Product - 
+2019-12-16T19:00:54.1940529+05:30:#21: Product Customization - verify customization fields, preview, approve and Continue - 
+2019-12-16T19:00:54.1940529+05:30:#23: StoreFront - Product Delivery Options - 
+2019-12-16T19:00:54.1940529+05:30:#27: StoreFront - Order Workflow - Order Confirmation - 
+2019-12-16T19:00:54.1940529+05:30:#29: StoreFront - Product Payment Page and Options - 
+2019-12-16T19:00:54.1940529+05:30:#37: StoreFront - Product Shopping Cart - 
+2019-12-16T19:00:54.1940529+05:30:#43: StoreFront Dashboard - 
+2019-12-16T19:00:54.2229858+05:30:#4: Corporate Funding - Check the new tabs - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Check+the+new+tabs
+2019-12-16T19:00:54.2234888+05:30:#5: Corporate Funding - Validating the default view for Fund Administrator - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validating+the+default+view+for+Fund+Administrator
+2019-12-16T19:00:54.2234888+05:30:#6: Corporate Funding - Validate default view and Total funds Allocated to users - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validate+default+view+and+Total+funds+Allocated+to+users
+2019-12-16T19:00:54.2234888+05:30:#7: Corporate Funding - Validate Add, reset and transfer fund buttons - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validate+Add%2c+reset+and+transfer+fund+buttons
+2019-12-16T19:00:54.2234888+05:30:#8: Manage Funding tab - Check Search feature in Manage Individual Funding Account - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Search+feature+in+Manage+Individual+Funding+Account
+2019-12-16T19:00:54.2234888+05:30:#9: Manage Funding tab - Check Indicator for User Activity in search result table - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Indicator+for+User+Activity+in+search+result+table
+2019-12-16T19:00:54.2234888+05:30:#10: Manage Funding tab - Check Add action and add balance to user - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Add+action+and+add+balance+to+user
+2019-12-16T19:00:54.2234888+05:30:#11: Manage Funding tab - Check Reset action and reset balance to user - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Reset+action+and+reset+balance+to+user
+2019-12-16T19:00:54.2234888+05:30:#13: Product catalog - Validate filter and Sort by Name: A - Z - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Name%3a+A+-+Z
+2019-12-16T19:00:54.2234888+05:30:#14: Product catalog - Validate filter and Sort by Name: Z - A - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Name%3a+Z+-+A
+2019-12-16T19:00:54.2234888+05:30:#15: Product catalog - Validate filter and  Sort by Price: Low - High - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and++Sort+by+Price%3a+Low+-+High
+2019-12-16T19:00:54.2234888+05:30:#16: Product catalog - Validate filter and Sort by Price: High - Low - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Price%3a+High+-+Low
+2019-12-16T19:00:54.2234888+05:30:#17: Product catalog - Validate Grid, List view and product details - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+Grid%2c+List+view+and+product+details
+2019-12-16T19:00:54.2234888+05:30:#19: Create a product - TestAssembly:ConductorPOC/Feature:Administration+-+Create+Product/Scenario:Create+a+product
+2019-12-16T19:00:54.2234888+05:30:#20: Refresh and index a created product - TestAssembly:ConductorPOC/Feature:Administration+-+Create+Product/Scenario:Refresh+and+index+a+created+product
+2019-12-16T19:00:54.2234888+05:30:#22: Product Customization - Print Product verify customization fields - TestAssembly:ConductorPOC/Feature:Product+Customization+-+verify+customization+fields%2c+preview%2c+approve+and+Continue/Scenario:Product+Customization+-+Print+Product+verify+customization+fields
+2019-12-16T19:00:54.2234888+05:30:#24: Order Workflow - Delivery Options (Shipping to an Address) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Shipping+to+an+Address)
+2019-12-16T19:00:54.2234888+05:30:#25: Order Workflow - Delivery Options (Mail to Recipient List) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Mail+to+Recipient+List)
+2019-12-16T19:00:54.2234888+05:30:#26: Order Workflow - Delivery Options (Download) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Download)
+2019-12-16T19:00:54.2234888+05:30:#28: Order Workflow -  Order Confirmation, Order Detail - TestAssembly:ConductorPOC/Feature:StoreFront+-+Order+Workflow+-+Order+Confirmation/Scenario:Order+Workflow+-++Order+Confirmation%2c+Order+Detail
+2019-12-16T19:00:54.2234888+05:30:#30: Order Workflow -  Payment - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment
+2019-12-16T19:00:54.2234888+05:30:#31: Order Workflow -  Payment(Credit card - OneTime Payment) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Credit+card+-+OneTime+Payment)
+2019-12-16T19:00:54.2234888+05:30:#32: Order Workflow -  Payment(Existing Credit card Payment and billing address) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Existing+Credit+card+Payment+and+billing+address)
+2019-12-16T19:00:54.2234888+05:30:#33: Order Workflow -  Payment(Invoice) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Invoice)
+2019-12-16T19:00:54.2234888+05:30:#34: Order Workflow -  Payment(CoFunding) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding)
+2019-12-16T19:00:54.2234888+05:30:#35: Order Workflow -  Payment(CoFunding with existing credit card and existing billing info) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding+with+existing+credit+card+and+existing+billing+info)
+2019-12-16T19:00:54.2234888+05:30:#36: Order Workflow -  Payment(CoFunding with Invoice) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding+with+Invoice)
+2019-12-16T19:00:54.2234888+05:30:#38: Order Workflow -  Product Shopping Cart - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart
+2019-12-16T19:00:54.2234888+05:30:#39: Order Workflow -  Product Shopping Cart (Edit Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Edit+Button)
+2019-12-16T19:00:54.2234888+05:30:#40: Order Workflow -  Product Shopping Cart (Copy Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Copy+Button)
+2019-12-16T19:00:54.2234888+05:30:#41: Order Workflow -  Product Shopping Cart (Save for Later Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Save+for+Later+Button)
+2019-12-16T19:00:54.2234888+05:30:#42: Order Workflow -  Product Shopping Cart (Remove Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Remove+Button)
+2019-12-16T19:00:54.2234888+05:30:#44: Login and validate dashboard page - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+validate+dashboard+page
+2019-12-16T19:00:54.2234888+05:30:#45: Login and search a product - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+search+a+product
+2019-12-16T19:00:54.2234888+05:30:End: Test Suite Dump
+2019-12-16T19:00:54.2426008+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:00:54.2435999+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-12-16T19:00:54.2435999+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-16T19:00:54.2476105+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:00:54.2476105+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:00:54.2476105+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:00:54.2476105+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-16T19:00:54.2486153+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-16T19:00:54.2495841+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:00:54.2515891+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-16T19:00:54.2525916+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-16T19:00:54.2535944+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-16T19:00:54.2545969+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-16T19:00:54.3200456+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-12-16T19:00:54.5355707+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-16T19:00:54.5405536+05:30:Thread#0:T:-> Using default config
+2019-12-16T19:00:58.9648092+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:01:04.8181409+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.8s)
+2019-12-16T19:01:04.8196452+05:30:Thread#0:B:When I have logged in with FundAdministrator

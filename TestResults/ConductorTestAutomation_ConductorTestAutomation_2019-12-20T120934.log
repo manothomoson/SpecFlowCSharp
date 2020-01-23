@@ -1,0 +1,1359 @@
+﻿2019-12-20T12:09:34.1809951+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-20T12:09:34.1809951+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-20T12:09:34.1809951+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-20T12:09:34.2818416+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-20T12:09:34.2823434+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-20T12:09:34.2823434+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-20T12:09:34.3019422+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-20T120934.log
+2019-12-20T12:09:34.3109259+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-20T12:09:34.3159364+05:30;Thread#13;Info;Checking license
+2019-12-20T12:09:34.3259635+05:30;Thread#13;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-12-20T12:09:44.3273046+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-20T12:09:44.3513709+05:30;Thread#13;Info;License check completed
+2019-12-20T12:09:44.3513709+05:30;Thread#13;Info;starting test run
+2019-12-20T12:09:44.3664473+05:30;Thread#13;Info;Discovering target: Default
+2019-12-20T12:09:44.3664473+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-20T12:09:44.7309964+05:30:Appdomain Disposed
+2019-12-20T12:09:44.7309964+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-20T12:09:44.7319653+05:30:Test Suite Dump
+2019-12-20T12:09:44.7339714+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-20T12:09:44.7339714+05:30:#1: Default - 
+2019-12-20T12:09:44.7339714+05:30:#2: ConductorPOC - 
+2019-12-20T12:09:44.7339714+05:30:#3: Storefront: Corporate Funding - 
+2019-12-20T12:09:44.7339714+05:30:#12: Product Catalog - Search a product, Validate filters and Sort - 
+2019-12-20T12:09:44.7339714+05:30:#18: Administration - Create Product - 
+2019-12-20T12:09:44.7339714+05:30:#21: Product Customization - verify customization fields, preview, approve and Continue - 
+2019-12-20T12:09:44.7339714+05:30:#23: StoreFront - Product Delivery Options - 
+2019-12-20T12:09:44.7339714+05:30:#27: StoreFront - Order Workflow - Order Confirmation - 
+2019-12-20T12:09:44.7339714+05:30:#29: StoreFront - Product Payment Page and Options - 
+2019-12-20T12:09:44.7339714+05:30:#37: StoreFront - Product Shopping Cart - 
+2019-12-20T12:09:44.7339714+05:30:#43: StoreFront Dashboard - 
+2019-12-20T12:09:44.7632003+05:30:#4: Corporate Funding - Check the new tabs - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Check+the+new+tabs
+2019-12-20T12:09:44.7632003+05:30:#5: Corporate Funding - Validating the default view for Fund Administrator - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validating+the+default+view+for+Fund+Administrator
+2019-12-20T12:09:44.7632003+05:30:#6: Corporate Funding - Validate default view and Total funds Allocated to users - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validate+default+view+and+Total+funds+Allocated+to+users
+2019-12-20T12:09:44.7632003+05:30:#7: Corporate Funding - Validate Add, reset and transfer fund buttons - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validate+Add%2c+reset+and+transfer+fund+buttons
+2019-12-20T12:09:44.7632003+05:30:#8: Manage Funding tab - Check Search feature in Manage Individual Funding Account - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Search+feature+in+Manage+Individual+Funding+Account
+2019-12-20T12:09:44.7632003+05:30:#9: Manage Funding tab - Check Indicator for User Activity in search result table - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Indicator+for+User+Activity+in+search+result+table
+2019-12-20T12:09:44.7632003+05:30:#10: Manage Funding tab - Check Add action and add balance to user - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Add+action+and+add+balance+to+user
+2019-12-20T12:09:44.7632003+05:30:#11: Manage Funding tab - Check Reset action and reset balance to user - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Reset+action+and+reset+balance+to+user
+2019-12-20T12:09:44.7632003+05:30:#13: Product catalog - Validate filter and Sort by Name: A - Z - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Name%3a+A+-+Z
+2019-12-20T12:09:44.7632003+05:30:#14: Product catalog - Validate filter and Sort by Name: Z - A - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Name%3a+Z+-+A
+2019-12-20T12:09:44.7632003+05:30:#15: Product catalog - Validate filter and  Sort by Price: Low - High - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and++Sort+by+Price%3a+Low+-+High
+2019-12-20T12:09:44.7632003+05:30:#16: Product catalog - Validate filter and Sort by Price: High - Low - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Price%3a+High+-+Low
+2019-12-20T12:09:44.7632003+05:30:#17: Product catalog - Validate Grid, List view and product details - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+Grid%2c+List+view+and+product+details
+2019-12-20T12:09:44.7632003+05:30:#19: Create a product - TestAssembly:ConductorPOC/Feature:Administration+-+Create+Product/Scenario:Create+a+product
+2019-12-20T12:09:44.7632003+05:30:#20: Refresh and index a created product - TestAssembly:ConductorPOC/Feature:Administration+-+Create+Product/Scenario:Refresh+and+index+a+created+product
+2019-12-20T12:09:44.7632003+05:30:#22: Product Customization - Print Product verify customization fields - TestAssembly:ConductorPOC/Feature:Product+Customization+-+verify+customization+fields%2c+preview%2c+approve+and+Continue/Scenario:Product+Customization+-+Print+Product+verify+customization+fields
+2019-12-20T12:09:44.7632003+05:30:#24: Order Workflow - Delivery Options (Shipping to an Address) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Shipping+to+an+Address)
+2019-12-20T12:09:44.7632003+05:30:#25: Order Workflow - Delivery Options (Mail to Recipient List) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Mail+to+Recipient+List)
+2019-12-20T12:09:44.7632003+05:30:#26: Order Workflow - Delivery Options (Download) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Download)
+2019-12-20T12:09:44.7632003+05:30:#28: Order Workflow -  Order Confirmation, Order Detail - TestAssembly:ConductorPOC/Feature:StoreFront+-+Order+Workflow+-+Order+Confirmation/Scenario:Order+Workflow+-++Order+Confirmation%2c+Order+Detail
+2019-12-20T12:09:44.7632003+05:30:#30: Order Workflow -  Payment - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment
+2019-12-20T12:09:44.7632003+05:30:#31: Order Workflow -  Payment(Credit card - OneTime Payment) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Credit+card+-+OneTime+Payment)
+2019-12-20T12:09:44.7632003+05:30:#32: Order Workflow -  Payment(Existing Credit card Payment and billing address) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Existing+Credit+card+Payment+and+billing+address)
+2019-12-20T12:09:44.7632003+05:30:#33: Order Workflow -  Payment(Invoice) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Invoice)
+2019-12-20T12:09:44.7632003+05:30:#34: Order Workflow -  Payment(CoFunding) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding)
+2019-12-20T12:09:44.7632003+05:30:#35: Order Workflow -  Payment(CoFunding with existing credit card and existing billing info) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding+with+existing+credit+card+and+existing+billing+info)
+2019-12-20T12:09:44.7632003+05:30:#36: Order Workflow -  Payment(CoFunding with Invoice) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding+with+Invoice)
+2019-12-20T12:09:44.7632003+05:30:#38: Order Workflow -  Product Shopping Cart - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart
+2019-12-20T12:09:44.7632003+05:30:#39: Order Workflow -  Product Shopping Cart (Edit Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Edit+Button)
+2019-12-20T12:09:44.7632003+05:30:#40: Order Workflow -  Product Shopping Cart (Copy Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Copy+Button)
+2019-12-20T12:09:44.7632003+05:30:#41: Order Workflow -  Product Shopping Cart (Save for Later Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Save+for+Later+Button)
+2019-12-20T12:09:44.7632003+05:30:#42: Order Workflow -  Product Shopping Cart (Remove Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Remove+Button)
+2019-12-20T12:09:44.7632003+05:30:#44: Login and validate dashboard page - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+validate+dashboard+page
+2019-12-20T12:09:44.7632003+05:30:#45: Login and search a product - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+search+a+product
+2019-12-20T12:09:44.7632003+05:30:End: Test Suite Dump
+2019-12-20T12:09:44.7830535+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:09:44.7840563+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-12-20T12:09:44.7840563+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-20T12:09:44.7880704+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:09:44.7880704+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:09:44.7880704+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:09:44.7880704+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-20T12:09:44.7891061+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-20T12:09:44.7901063+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:09:44.7920799+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-20T12:09:44.7945976+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-20T12:09:44.7950911+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-20T12:09:44.7960921+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-20T12:09:44.9969482+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-12-20T12:09:45.2938710+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-20T12:09:45.2988849+05:30:Thread#0:T:-> Using default config
+2019-12-20T12:09:50.1272997+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:09:57.7975110+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (7.6s)
+2019-12-20T12:09:57.7985147+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-20T12:10:14.2010038+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (16.4s)
+2019-12-20T12:10:14.2020055+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-20T12:10:22.7050207+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (8.5s)
+2019-12-20T12:10:22.7058680+05:30:Thread#0:B:Then Validate the new tabs in CoFunding page
+2019-12-20T12:10:22.7841417+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheNewTabsInCoFundingPage() (0.1s)
+2019-12-20T12:10:22.7911915+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:10:22.7911915+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-12-20T12:10:22.7911915+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-12-20T12:10:22.7911915+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:10:22.7911915+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:10:22.7911915+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:10:22.7911915+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-12-20T12:10:22.7921615+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-12-20T12:10:22.7921615+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:10:23.0051050+05:30:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 38.0066526 seconds
+2019-12-20T12:10:23.0061079+05:30:Thread#0: Test #5/0 is started on thread #0
+2019-12-20T12:10:23.0061079+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:10:26.7078318+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:10:31.7847054+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.1s)
+2019-12-20T12:10:31.7852072+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-20T12:10:48.2649860+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (16.5s)
+2019-12-20T12:10:48.2659866+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-20T12:10:57.1892565+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (8.9s)
+2019-12-20T12:10:57.1902579+05:30:Thread#0:B:Then Validate the new tabs in CoFunding page
+2019-12-20T12:10:57.2691198+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheNewTabsInCoFundingPage() (0.1s)
+2019-12-20T12:10:57.2691198+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:10:57.2691198+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-12-20T12:10:57.2691198+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-12-20T12:10:57.2691198+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:10:57.2691198+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:10:57.2691198+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:10:57.2691198+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-12-20T12:10:57.2691198+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-12-20T12:10:57.2691198+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:10:57.4574402+05:30:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 34.4513323 seconds
+2019-12-20T12:10:57.4574402+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-12-20T12:10:57.4574402+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:11:01.1342728+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:11:06.1393619+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.0s)
+2019-12-20T12:11:06.1393619+05:30:Thread#0:B:When I have logged in with NonFundingUser
+2019-12-20T12:11:21.2938045+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("NonFundingUser") (15.2s)
+2019-12-20T12:11:21.2938045+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-20T12:11:29.8276401+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (8.5s)
+2019-12-20T12:11:29.8276401+05:30:Thread#0:B:When Validate MyFunding Account tab as default view for Non Fund Administrator
+2019-12-20T12:11:31.9204261+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenValidateMyFundingAccountTabAsDefaultViewForNonFundAdministrator() (2.1s)
+2019-12-20T12:11:31.9204261+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-20T12:11:44.6005086+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='row hidden-xs hidden-sm']//a[contains(@href,'CorporateFundHistory')]"}
+2019-12-20T12:11:44.6005086+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.88)
+2019-12-20T12:11:44.6005086+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-12-20T12:11:44.6005086+05:30:Thread#0:B:Then Validate the sections in manage funding tab
+2019-12-20T12:11:44.6005086+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:11:44.6014854+05:30:Thread#0:B:When Validate Total funds Allocated to users in CoFunding Balance section
+2019-12-20T12:11:44.6014854+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:11:45.5696142+05:30:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2019-12-20T12:11:45.5696142+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:11:45.5696142+05:30:Thread#:Scheduler: testitem #7 from normal test queue 
+2019-12-20T12:11:45.5696142+05:30:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-12-20T12:11:45.5706155+05:30:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:11:45.5706155+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:11:45.5706155+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:11:45.5706155+05:30:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-12-20T12:11:45.5706155+05:30:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-12-20T12:11:45.5706155+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:11:45.9129942+05:30:Thread#0: Test #6/0 is finished on thread #0 as Failed within 48.455554 seconds
+2019-12-20T12:11:45.9136670+05:30:Thread#0: Test #7/0 is started on thread #0
+2019-12-20T12:11:45.9136670+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:11:49.6012460+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:11:55.8611591+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (6.3s)
+2019-12-20T12:11:55.8611591+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:12:14.2908666+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.4s)
+2019-12-20T12:12:14.2908666+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-20T12:12:22.9881218+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (8.7s)
+2019-12-20T12:12:22.9881218+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-20T12:12:31.1591029+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (8.2s)
+2019-12-20T12:12:31.1591029+05:30:Thread#0:B:Then Validate AddMoreFund, ResetFund and TransferFund buttons
+2019-12-20T12:12:31.2951861+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateAddMoreFundResetFundAndTransferFundButtons() (0.1s)
+2019-12-20T12:12:31.2951861+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:12:31.2951861+05:30:Thread#:Scheduler: testitem #8 from normal test queue 
+2019-12-20T12:12:31.2951861+05:30:Thread#0:Scheduler: considering testitem #8 for thread 0
+2019-12-20T12:12:31.2951861+05:30:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:12:31.2951861+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:12:31.2951861+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:12:31.2951861+05:30:Thread#0:Scheduler: using testitem #8 for thread 0
+2019-12-20T12:12:31.2951861+05:30:Thread#0:Scheduler: Test #8 is scheduled for thread
+2019-12-20T12:12:31.2951861+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:12:31.4913439+05:30:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 45.5776769 seconds
+2019-12-20T12:12:31.4913439+05:30:Thread#0: Test #8/0 is started on thread #0
+2019-12-20T12:12:31.4913439+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:12:35.5615868+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:12:40.4864803+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.9s)
+2019-12-20T12:12:40.4864803+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-20T12:12:57.3209432+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (16.8s)
+2019-12-20T12:12:57.3209432+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-20T12:13:06.0600246+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (8.7s)
+2019-12-20T12:13:06.0610270+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-20T12:13:14.2694849+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (8.2s)
+2019-12-20T12:13:14.2694849+05:30:Thread#0:B:Then Validate Name search field and label
+2019-12-20T12:13:14.4232344+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.2s)
+2019-12-20T12:13:14.4232344+05:30:Thread#0:B:When Assert column names and tooltips in manage individual funding table
+2019-12-20T12:13:14.6043033+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenAssertColumnNamesAndTooltipMessages() (0.2s)
+2019-12-20T12:13:14.6043033+05:30:Thread#0:B:Then Search for a name Mano in manage individual funding accounts
+2019-12-20T12:13:14.8048580+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano") (0.2s)
+2019-12-20T12:13:14.8048580+05:30:Thread#0:B:Then Assert search results matching for Mano
+2019-12-20T12:13:16.9156833+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenAssertSearchResultsMatching("Mano") (2.1s)
+2019-12-20T12:13:16.9156833+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:13:16.9156833+05:30:Thread#:Scheduler: testitem #9 from normal test queue 
+2019-12-20T12:13:16.9156833+05:30:Thread#0:Scheduler: considering testitem #9 for thread 0
+2019-12-20T12:13:16.9156833+05:30:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:13:16.9156833+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:13:16.9156833+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:13:16.9156833+05:30:Thread#0:Scheduler: using testitem #9 for thread 0
+2019-12-20T12:13:16.9156833+05:30:Thread#0:Scheduler: Test #9 is scheduled for thread
+2019-12-20T12:13:16.9156833+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:13:17.2669766+05:30:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 45.7756327 seconds
+2019-12-20T12:13:17.2669766+05:30:Thread#0: Test #9/0 is started on thread #0
+2019-12-20T12:13:17.2669766+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:13:20.9010313+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:13:25.8969768+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.0s)
+2019-12-20T12:13:25.8969768+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-20T12:13:43.0339292+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (17.1s)
+2019-12-20T12:13:43.0349328+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-20T12:13:51.3954546+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (8.4s)
+2019-12-20T12:13:51.3954546+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-20T12:13:58.0189845+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (6.6s)
+2019-12-20T12:13:58.0189845+05:30:Thread#0:B:Then Validate Name search field and label
+2019-12-20T12:13:58.1523797+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.1s)
+2019-12-20T12:13:58.1523797+05:30:Thread#0:B:When Assert column names and tooltips in manage individual funding table
+2019-12-20T12:13:58.3748179+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenAssertColumnNamesAndTooltipMessages() (0.2s)
+2019-12-20T12:13:58.3748179+05:30:Thread#0:B:Then Validate Username AvailableBalance and CurrentBalance columns and hovers
+2019-12-20T12:14:01.4474154+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateUsernameAvailableBalanceAndCurrentBalanceColumnsAndHovers() (3.1s)
+2019-12-20T12:14:01.4474154+05:30:Thread#0:B:Then Search for a name Mano in manage individual funding accounts
+2019-12-20T12:14:01.6059004+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano") (0.2s)
+2019-12-20T12:14:01.6068961+05:30:Thread#0:B:When Check indicator column for activity of the each user
+2019-12-20T12:14:03.7061002+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenCheckIndicatorColumnForActivityOfTheEachUser() (2.1s)
+2019-12-20T12:14:03.7061002+05:30:Thread#0:B:When Click on the indicator and drilldown to first record of the table
+2019-12-20T12:14:05.8628779+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenClickOnTheIndicatorAndDrilldownToFirstRecordOfTheTable() (2.2s)
+2019-12-20T12:14:05.8628779+05:30:Thread#0:B:Then Validate the row expaned in light blue and its row details wih dark blue border
+2019-12-20T12:14:05.9626559+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheRowExpanedInLightBlueAndItsRowDetailsWihDarkBlueBorder() (0.1s)
+2019-12-20T12:14:05.9626559+05:30:Thread#0:B:Then Validate the Indicator table columns for user activity
+2019-12-20T12:14:06.1551685+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheIndicatorTableColumnsForUserActivity() (0.2s)
+2019-12-20T12:14:06.1551685+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:14:06.1551685+05:30:Thread#:Scheduler: testitem #10 from normal test queue 
+2019-12-20T12:14:06.1551685+05:30:Thread#0:Scheduler: considering testitem #10 for thread 0
+2019-12-20T12:14:06.1551685+05:30:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:14:06.1551685+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:14:06.1551685+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:14:06.1551685+05:30:Thread#0:Scheduler: using testitem #10 for thread 0
+2019-12-20T12:14:06.1551685+05:30:Thread#0:Scheduler: Test #10 is scheduled for thread
+2019-12-20T12:14:06.1551685+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:14:06.3454093+05:30:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 49.0784327 seconds
+2019-12-20T12:14:06.3454093+05:30:Thread#0: Test #10/0 is started on thread #0
+2019-12-20T12:14:06.3454093+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:14:09.9708086+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:14:14.9656044+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.0s)
+2019-12-20T12:14:14.9656044+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-20T12:14:31.2357488+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (16.3s)
+2019-12-20T12:14:31.2357488+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-20T12:14:39.7459898+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (8.5s)
+2019-12-20T12:14:39.7459898+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-20T12:14:47.5176919+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (7.8s)
+2019-12-20T12:14:47.5176919+05:30:Thread#0:B:Then Validate Name search field and label
+2019-12-20T12:14:47.6579617+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.1s)
+2019-12-20T12:14:47.6579617+05:30:Thread#0:B:Then Search for a name Mano Thomson in manage individual funding accounts
+2019-12-20T12:14:47.9321462+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano Thomson") (0.3s)
+2019-12-20T12:14:47.9321462+05:30:Thread#0:B:Then Validate Add and Reset links available
+2019-12-20T12:14:48.4307259+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateAddAndResetLinksAvailable() (0.5s)
+2019-12-20T12:14:48.4317280+05:30:Thread#0:B:When Add balance 10 to first user record and assert
+2019-12-20T12:14:53.1959658+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenAddBalanceToFirstUserRecord("10") (4.8s)
+2019-12-20T12:14:53.1959658+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:14:53.1959658+05:30:Thread#:Scheduler: testitem #11 from normal test queue 
+2019-12-20T12:14:53.1959658+05:30:Thread#0:Scheduler: considering testitem #11 for thread 0
+2019-12-20T12:14:53.1959658+05:30:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:14:53.1959658+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:14:53.1959658+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:14:53.1959658+05:30:Thread#0:Scheduler: using testitem #11 for thread 0
+2019-12-20T12:14:53.1959658+05:30:Thread#0:Scheduler: Test #11 is scheduled for thread
+2019-12-20T12:14:53.1959658+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:14:53.4149415+05:30:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 47.0695322 seconds
+2019-12-20T12:14:53.4149415+05:30:Thread#0: Test #11/0 is started on thread #0
+2019-12-20T12:14:53.4149415+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:14:57.0899199+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:15:02.9667583+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.9s)
+2019-12-20T12:15:02.9667583+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-20T12:15:18.3005515+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (15.3s)
+2019-12-20T12:15:18.3005515+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-20T12:15:27.2444524+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (8.9s)
+2019-12-20T12:15:27.2444524+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-20T12:15:33.8406417+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (6.6s)
+2019-12-20T12:15:33.8416438+05:30:Thread#0:B:Then Validate Name search field and label
+2019-12-20T12:15:33.9695245+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.1s)
+2019-12-20T12:15:33.9700395+05:30:Thread#0:B:Then Search for a name Mano Thomson in manage individual funding accounts
+2019-12-20T12:15:34.4671383+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano Thomson") (0.5s)
+2019-12-20T12:15:34.4671383+05:30:Thread#0:B:Then Validate Add and Reset links available
+2019-12-20T12:15:34.8224216+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateAddAndResetLinksAvailable() (0.4s)
+2019-12-20T12:15:34.8224216+05:30:Thread#0:B:When Reset balance 5 to first user record and assert
+2019-12-20T12:15:39.5845222+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenResetBalanceToFirstUserRecordAndAssert("5") (4.8s)
+2019-12-20T12:15:39.5845222+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:15:39.5845222+05:30:Thread#:Scheduler: testitem #13 from normal test queue 
+2019-12-20T12:15:39.5845222+05:30:Thread#0:Scheduler: considering testitem #13 for thread 0
+2019-12-20T12:15:39.5845222+05:30:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:15:39.5845222+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:15:39.5845222+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:15:39.5845222+05:30:Thread#0:Scheduler: using testitem #13 for thread 0
+2019-12-20T12:15:39.5845222+05:30:Thread#0:Scheduler: Test #13 is scheduled for thread
+2019-12-20T12:15:39.5845222+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:15:39.7667378+05:30:Thread#0: Test #11/0 is finished on thread #0 as Succeeded within 46.3517963 seconds
+2019-12-20T12:15:39.7667378+05:30:Thread#0: Test #13/0 is started on thread #0
+2019-12-20T12:15:43.4678584+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:15:48.3855865+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.9s)
+2019-12-20T12:15:48.3855865+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:16:06.0810830+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.7s)
+2019-12-20T12:16:06.0810830+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:16:13.4848057+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.4s)
+2019-12-20T12:16:13.4858056+05:30:Thread#0:B:Then Check Filter By catagories
+2019-12-20T12:16:13.7680847+05:30:Thread#0:T:error: Assert.IsTrue failed. Filter By catagories missing in product catalog page.
+2019-12-20T12:16:13.7690875+05:30:Thread#0:B:When Select the filter from catagory Email
+2019-12-20T12:16:13.7690875+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:16:13.7690875+05:30:Thread#0:B:When Sort the products by Name: A - Z
+2019-12-20T12:16:13.7690875+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:16:13.7690875+05:30:Thread#0:B:Then Assert the products sorted in Name: A - Z
+2019-12-20T12:16:13.7700896+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:16:13.7720938+05:30:Thread#0:TestItem#13:Scheduler: reschedule tests for testitem #13
+2019-12-20T12:16:13.7720938+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:16:13.7720938+05:30:Thread#:Scheduler: testitem #14 from normal test queue 
+2019-12-20T12:16:13.7720938+05:30:Thread#0:Scheduler: considering testitem #14 for thread 0
+2019-12-20T12:16:13.7720938+05:30:Thread#0:TestItem#14:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:16:13.7720938+05:30:Thread#0:TestItem#14:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:16:13.7720938+05:30:Thread#0:TestItem#14:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:16:13.7720938+05:30:Thread#0:Scheduler: using testitem #14 for thread 0
+2019-12-20T12:16:13.7720938+05:30:Thread#0:Scheduler: Test #14 is scheduled for thread
+2019-12-20T12:16:13.7720938+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:16:13.9837502+05:30:Thread#0: Test #13/0 is finished on thread #0 as Failed within 34.2170124 seconds
+2019-12-20T12:16:13.9837502+05:30:Thread#0: Test #14/0 is started on thread #0
+2019-12-20T12:16:13.9837502+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:16:17.6577910+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:16:22.6141985+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.0s)
+2019-12-20T12:16:22.6141985+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:16:38.8674213+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.3s)
+2019-12-20T12:16:38.8674213+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:16:45.5030440+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.6s)
+2019-12-20T12:16:45.5030440+05:30:Thread#0:B:Then Check Filter By catagories
+2019-12-20T12:16:45.6329356+05:30:Thread#0:T:error: Assert.IsTrue failed. Filter By catagories missing in product catalog page.
+2019-12-20T12:16:45.6329356+05:30:Thread#0:B:When Select the filter from catagory Email
+2019-12-20T12:16:45.6329356+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:16:45.6329356+05:30:Thread#0:B:When Sort the products by Name: Z - A
+2019-12-20T12:16:45.6339366+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:16:45.6339366+05:30:Thread#0:B:Then Assert the products sorted in Name: Z - A
+2019-12-20T12:16:45.6339366+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:16:45.6339366+05:30:Thread#0:TestItem#14:Scheduler: reschedule tests for testitem #14
+2019-12-20T12:16:45.6339366+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:16:45.6339366+05:30:Thread#:Scheduler: testitem #15 from normal test queue 
+2019-12-20T12:16:45.6339366+05:30:Thread#0:Scheduler: considering testitem #15 for thread 0
+2019-12-20T12:16:45.6339366+05:30:Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:16:45.6339366+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:16:45.6339366+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:16:45.6339366+05:30:Thread#0:Scheduler: using testitem #15 for thread 0
+2019-12-20T12:16:45.6339366+05:30:Thread#0:Scheduler: Test #15 is scheduled for thread
+2019-12-20T12:16:45.6339366+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:16:45.8201459+05:30:Thread#0: Test #14/0 is finished on thread #0 as Failed within 31.8363957 seconds
+2019-12-20T12:16:45.8201459+05:30:Thread#0: Test #15/0 is started on thread #0
+2019-12-20T12:16:45.8201459+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:16:49.4610902+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:16:54.3302007+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.9s)
+2019-12-20T12:16:54.3302007+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:17:09.7548085+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (15.4s)
+2019-12-20T12:17:09.7548085+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:17:16.8240852+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-20T12:17:16.8245862+05:30:Thread#0:B:Then Check Filter By catagories
+2019-12-20T12:17:16.9565987+05:30:Thread#0:T:error: Assert.IsTrue failed. Filter By catagories missing in product catalog page.
+2019-12-20T12:17:16.9565987+05:30:Thread#0:B:When Select the filter from catagory Email
+2019-12-20T12:17:16.9565987+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:17:16.9565987+05:30:Thread#0:B:When Sort the products by Price: Low - High
+2019-12-20T12:17:16.9565987+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:17:16.9565987+05:30:Thread#0:B:Then Assert the products sorted in Price: Low - High
+2019-12-20T12:17:16.9576020+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:17:16.9576020+05:30:Thread#0:TestItem#15:Scheduler: reschedule tests for testitem #15
+2019-12-20T12:17:16.9576020+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:17:16.9576020+05:30:Thread#:Scheduler: testitem #16 from normal test queue 
+2019-12-20T12:17:16.9576020+05:30:Thread#0:Scheduler: considering testitem #16 for thread 0
+2019-12-20T12:17:16.9576020+05:30:Thread#0:TestItem#16:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:17:16.9576020+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:17:16.9576020+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:17:16.9576020+05:30:Thread#0:Scheduler: using testitem #16 for thread 0
+2019-12-20T12:17:16.9576020+05:30:Thread#0:Scheduler: Test #16 is scheduled for thread
+2019-12-20T12:17:16.9576020+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:17:17.1330612+05:30:Thread#0: Test #15/0 is finished on thread #0 as Failed within 31.3129153 seconds
+2019-12-20T12:17:17.1330612+05:30:Thread#0: Test #16/0 is started on thread #0
+2019-12-20T12:17:17.1330612+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:17:20.7660850+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:17:25.3172987+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.6s)
+2019-12-20T12:17:25.3172987+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:17:42.2155433+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.9s)
+2019-12-20T12:17:42.2155433+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:17:48.7900750+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.6s)
+2019-12-20T12:17:48.7900750+05:30:Thread#0:B:Then Check Filter By catagories
+2019-12-20T12:17:48.9175924+05:30:Thread#0:T:error: Assert.IsTrue failed. Filter By catagories missing in product catalog page.
+2019-12-20T12:17:48.9175924+05:30:Thread#0:B:When Select the filter from catagory Email
+2019-12-20T12:17:48.9175924+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:17:48.9185971+05:30:Thread#0:B:When Sort the products by Price: High - Low
+2019-12-20T12:17:48.9185971+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:17:48.9185971+05:30:Thread#0:B:Then Assert the products sorted in Price: High - Low
+2019-12-20T12:17:48.9185971+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:17:48.9185971+05:30:Thread#0:TestItem#16:Scheduler: reschedule tests for testitem #16
+2019-12-20T12:17:48.9185971+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:17:48.9185971+05:30:Thread#:Scheduler: testitem #17 from normal test queue 
+2019-12-20T12:17:48.9185971+05:30:Thread#0:Scheduler: considering testitem #17 for thread 0
+2019-12-20T12:17:48.9185971+05:30:Thread#0:TestItem#17:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:17:48.9185971+05:30:Thread#0:TestItem#17:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:17:48.9185971+05:30:Thread#0:TestItem#17:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:17:48.9185971+05:30:Thread#0:Scheduler: using testitem #17 for thread 0
+2019-12-20T12:17:48.9185971+05:30:Thread#0:Scheduler: Test #17 is scheduled for thread
+2019-12-20T12:17:48.9185971+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:17:49.4602826+05:30:Thread#0: Test #16/0 is finished on thread #0 as Failed within 32.3272214 seconds
+2019-12-20T12:17:49.4602826+05:30:Thread#0: Test #17/0 is started on thread #0
+2019-12-20T12:17:49.4602826+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:17:53.1191428+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:17:58.0998786+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.0s)
+2019-12-20T12:17:58.0998786+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:18:14.4408587+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.3s)
+2019-12-20T12:18:14.4408587+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:18:21.5775347+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-20T12:18:21.5775347+05:30:Thread#0:B:When Validate Grid view and List view icons
+2019-12-20T12:18:28.0205949+05:30:Thread#0:T:done: ProductCatalogSteps.WhenValidateGridViewAndListViewIcons() (6.4s)
+2019-12-20T12:18:28.0205949+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:18:34.6223139+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (6.6s)
+2019-12-20T12:18:34.6223139+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:18:43.7956609+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.2s)
+2019-12-20T12:18:43.7956609+05:30:Thread#0:B:Then Assert product details thumbnail, name, SKU, delivery methods and Price
+2019-12-20T12:18:45.9745629+05:30:Thread#0:T:done: ProductCatalogSteps.ThenAssertProductDetailsThumbnailNameSKUDeliveryMethodsAndPrice() (2.2s)
+2019-12-20T12:18:45.9745629+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:18:45.9745629+05:30:Thread#:Scheduler: testitem #19 from normal test queue 
+2019-12-20T12:18:45.9745629+05:30:Thread#0:Scheduler: considering testitem #19 for thread 0
+2019-12-20T12:18:45.9745629+05:30:Thread#0:TestItem#19:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:18:45.9745629+05:30:Thread#0:TestItem#19:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:18:45.9745629+05:30:Thread#0:TestItem#19:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:18:45.9745629+05:30:Thread#0:Scheduler: using testitem #19 for thread 0
+2019-12-20T12:18:45.9745629+05:30:Thread#0:Scheduler: Test #19 is scheduled for thread
+2019-12-20T12:18:45.9745629+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:18:46.1546682+05:30:Thread#0: Test #17/0 is finished on thread #0 as Succeeded within 56.6943856 seconds
+2019-12-20T12:18:46.1546682+05:30:Thread#0: Test #19/0 is started on thread #0
+2019-12-20T12:18:50.5208537+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:18:55.3570531+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.8s)
+2019-12-20T12:18:55.3570531+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:19:12.8190509+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.5s)
+2019-12-20T12:19:12.8190509+05:30:Thread#0:B:When Navigate to Administration menu
+2019-12-20T12:19:33.3192263+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToAdministrationMenu() (20.5s)
+2019-12-20T12:19:33.3202284+05:30:Thread#0:B:Then Navigate to Add/Edit Products from Admin page
+2019-12-20T12:20:04.0972034+05:30:Thread#0:T:done: ProductCreationSteps.ThenNavigateToAddEditProductsFromAdminPage("Add/Edit Products") (30.8s)
+2019-12-20T12:20:04.0977049+05:30:Thread#0:B:When Add product for type Print
+2019-12-20T12:20:55.6062365+05:30:Thread#0:T:done: ProductCreationSteps.WhenAddProductForTypePrint("Print") (51.5s)
+2019-12-20T12:20:55.6072359+05:30:Thread#0:B:When Fill General details for Print product
+2019-12-20T12:21:07.9312687+05:30:Thread#0:T:New product name for creation is: TestAuto845
+2019-12-20T12:21:18.3518493+05:30:Thread#0:T:done: ProductCreationSteps.WhenFillGeneralDetailsForProduct("Print") (22.7s)
+2019-12-20T12:21:18.3518493+05:30:Thread#0:B:When Navigate to Images tab
+2019-12-20T12:21:42.6407564+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToImagesTabAndUploadImagesForProduct() (24.3s)
+2019-12-20T12:21:42.6407564+05:30:Thread#0:B:When Navigate to Visibility tab
+2019-12-20T12:22:06.9271425+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToVisibilityTab() (24.3s)
+2019-12-20T12:22:06.9281450+05:30:Thread#0:B:Then Fill visiblity details for Print product
+2019-12-20T12:22:31.4077267+05:30:Thread#0:T:done: ProductCreationSteps.WhenSelectProductCatagoriesAsPrint("Print") (24.5s)
+2019-12-20T12:22:31.4087296+05:30:Thread#0:B:When Navigate to Pricing and Delivery tab
+2019-12-20T12:22:43.5404978+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToPricingAndDeliveryTab() (12.1s)
+2019-12-20T12:22:43.5409996+05:30:Thread#0:B:Then Fill Pricing and Delivery details for Print product
+2019-12-20T12:24:10.0722586+05:30:Thread#0:T:done: ProductCreationSteps.ThenFillPricingAndDeliveryDetailsForPrintProduct("Print") (86.5s)
+2019-12-20T12:24:10.0722586+05:30:Thread#0:B:When Navigate to Customization tab
+2019-12-20T12:24:22.2393015+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToCustomizationTab() (12.2s)
+2019-12-20T12:24:22.2402953+05:30:Thread#0:B:Then Fill Customization tab fields for Print product
+2019-12-20T12:25:53.7389543+05:30:Thread#0:T:done: ProductCreationSteps.ThenFillCustomizationTabFieldsForPrintProduct("Print") (91.5s)
+2019-12-20T12:25:53.7399609+05:30:Thread#0:B:Then Save and publish now the product
+2019-12-20T12:27:00.4997953+05:30:Thread#0:T:done: ProductCreationSteps.ThenSaveAndPublishNowTheProduct() (66.8s)
+2019-12-20T12:27:00.4997953+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:27:00.4997953+05:30:Thread#:Scheduler: testitem #20 from normal test queue 
+2019-12-20T12:27:00.4997953+05:30:Thread#0:Scheduler: considering testitem #20 for thread 0
+2019-12-20T12:27:00.4997953+05:30:Thread#0:TestItem#20:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:27:00.4997953+05:30:Thread#0:TestItem#20:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:27:00.4997953+05:30:Thread#0:TestItem#20:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:27:00.4997953+05:30:Thread#0:Scheduler: using testitem #20 for thread 0
+2019-12-20T12:27:00.4997953+05:30:Thread#0:Scheduler: Test #20 is scheduled for thread
+2019-12-20T12:27:00.4997953+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:27:00.7008420+05:30:Thread#0: Test #19/0 is finished on thread #0 as Succeeded within 494.5461738 seconds
+2019-12-20T12:27:00.7008420+05:30:Thread#0: Test #20/0 is started on thread #0
+2019-12-20T12:27:00.7018453+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:27:04.3615101+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:27:09.2700222+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.9s)
+2019-12-20T12:27:09.2705233+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:27:27.5953905+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.3s)
+2019-12-20T12:27:27.5953905+05:30:Thread#0:B:When Navigate to Administration menu
+2019-12-20T12:27:48.0866984+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToAdministrationMenu() (20.5s)
+2019-12-20T12:27:48.0866984+05:30:Thread#0:B:When Navigate to SOLR for index
+2019-12-20T12:28:16.7203222+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToSOLRForIndex() (28.6s)
+2019-12-20T12:28:16.7203222+05:30:Thread#0:B:Then Refresh the product TestAuto7315 for AdminUser
+2019-12-20T12:28:42.5168185+05:30:Thread#0:T:done: ProductCreationSteps.ThenRefreshTheProductCreatedProductForCurrentUser("TestAuto7315", "AdminUser") (25.8s)
+2019-12-20T12:28:42.5173203+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:28:42.5173203+05:30:Thread#:Scheduler: testitem #22 from normal test queue 
+2019-12-20T12:28:42.5173203+05:30:Thread#0:Scheduler: considering testitem #22 for thread 0
+2019-12-20T12:28:42.5178191+05:30:Thread#0:TestItem#22:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:28:42.5178191+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:28:42.5178191+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:28:42.5178191+05:30:Thread#0:Scheduler: using testitem #22 for thread 0
+2019-12-20T12:28:42.5178191+05:30:Thread#0:Scheduler: Test #22 is scheduled for thread
+2019-12-20T12:28:42.5178191+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:28:42.7123458+05:30:Thread#0: Test #20/0 is finished on thread #0 as Succeeded within 102.0115038 seconds
+2019-12-20T12:28:42.7123458+05:30:Thread#0: Test #22/0 is started on thread #0
+2019-12-20T12:28:46.3489295+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:28:51.4025735+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.1s)
+2019-12-20T12:28:51.4025735+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:29:09.4131662+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.0s)
+2019-12-20T12:29:09.4136676+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:29:16.2934904+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.9s)
+2019-12-20T12:29:16.2944910+05:30:Thread#0:B:Then search the product TestAuto
+2019-12-20T12:29:22.7922691+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto") (6.5s)
+2019-12-20T12:29:22.7922691+05:30:Thread#0:B:When Navigate to the first product
+2019-12-20T12:29:31.9808198+05:30:Thread#0:T:done: ProductCustomizationSteps.WhenNavigateToTheFirstProduct() (9.2s)
+2019-12-20T12:29:31.9818272+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:29:42.9761737+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (11.0s)
+2019-12-20T12:29:42.9761737+05:30:Thread#0:B:When Fill product customization fields for Print
+2019-12-20T12:29:43.0579354+05:30:Thread#0:T:json data..1 Hardman Dr
+2019-12-20T12:29:43.1586313+05:30:Thread#0:T:done: ProductCustomizationSteps.WhenFillProductCustomizationFields("Print") (0.2s)
+2019-12-20T12:29:43.1591350+05:30:Thread#0:B:Then Preview and approve from customization
+2019-12-20T12:29:55.4317828+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='message-Message' and text()='An error occured while generating preview.']"}
+2019-12-20T12:29:55.4317828+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.88)
+2019-12-20T12:29:55.4317828+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-12-20T12:29:55.4327894+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:29:55.4327894+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:29:55.4337926+05:30:Thread#0:TestItem#22:Scheduler: reschedule tests for testitem #22
+2019-12-20T12:29:55.4337926+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:29:55.4337926+05:30:Thread#:Scheduler: testitem #24 from normal test queue 
+2019-12-20T12:29:55.4337926+05:30:Thread#0:Scheduler: considering testitem #24 for thread 0
+2019-12-20T12:29:55.4337926+05:30:Thread#0:TestItem#24:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:29:55.4337926+05:30:Thread#0:TestItem#24:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:29:55.4337926+05:30:Thread#0:TestItem#24:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:29:55.4337926+05:30:Thread#0:Scheduler: using testitem #24 for thread 0
+2019-12-20T12:29:55.4337926+05:30:Thread#0:Scheduler: Test #24 is scheduled for thread
+2019-12-20T12:29:55.4337926+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:29:55.6397487+05:30:Thread#0: Test #22/0 is finished on thread #0 as Failed within 72.9274029 seconds
+2019-12-20T12:29:55.6397487+05:30:Thread#0: Test #24/0 is started on thread #0
+2019-12-20T12:29:59.2808558+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:30:04.2223636+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.9s)
+2019-12-20T12:30:04.2223636+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:30:22.3270267+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.1s)
+2019-12-20T12:30:22.3280292+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:30:29.2881578+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.0s)
+2019-12-20T12:30:29.2886581+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:30:36.3910626+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.1s)
+2019-12-20T12:30:36.3915655+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:30:45.8408724+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.4s)
+2019-12-20T12:30:45.8408724+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:30:56.2531402+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.4s)
+2019-12-20T12:30:56.2531402+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T12:31:24.1779114+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.9s)
+2019-12-20T12:31:24.1779114+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:31:33.8364449+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (9.7s)
+2019-12-20T12:31:33.8364449+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:31:43.4456623+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (9.6s)
+2019-12-20T12:31:43.4466621+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:31:43.4466621+05:30:Thread#:Scheduler: testitem #25 from normal test queue 
+2019-12-20T12:31:43.4466621+05:30:Thread#0:Scheduler: considering testitem #25 for thread 0
+2019-12-20T12:31:43.4466621+05:30:Thread#0:TestItem#25:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:31:43.4466621+05:30:Thread#0:TestItem#25:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:31:43.4466621+05:30:Thread#0:TestItem#25:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:31:43.4466621+05:30:Thread#0:Scheduler: using testitem #25 for thread 0
+2019-12-20T12:31:43.4466621+05:30:Thread#0:Scheduler: Test #25 is scheduled for thread
+2019-12-20T12:31:43.4466621+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:31:43.6595094+05:30:Thread#0: Test #24/0 is finished on thread #0 as Succeeded within 108.0197607 seconds
+2019-12-20T12:31:43.6595094+05:30:Thread#0: Test #25/0 is started on thread #0
+2019-12-20T12:31:43.6595094+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:31:47.2861351+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:31:52.1153152+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.8s)
+2019-12-20T12:31:52.1153152+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:32:09.1532093+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.0s)
+2019-12-20T12:32:09.1542129+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:32:16.3847139+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.2s)
+2019-12-20T12:32:16.3847139+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:32:23.1813224+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (6.8s)
+2019-12-20T12:32:23.1813224+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:32:36.5429705+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (13.4s)
+2019-12-20T12:32:36.5429705+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:32:46.5340196+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.0s)
+2019-12-20T12:32:46.5340196+05:30:Thread#0:B:When Fill Delivery Options page details for MailToRecipientList
+2019-12-20T12:33:48.9737907+05:30:Thread#0:T:error: Cannot locate element with text: FIRST CLASS
+2019-12-20T12:33:48.9746516+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:33:48.9746516+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:33:48.9746516+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:33:48.9746516+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T12:33:48.9766377+05:30:Thread#0:TestItem#25:Scheduler: reschedule tests for testitem #25
+2019-12-20T12:33:48.9766377+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:33:48.9766377+05:30:Thread#:Scheduler: testitem #26 from normal test queue 
+2019-12-20T12:33:48.9766377+05:30:Thread#0:Scheduler: considering testitem #26 for thread 0
+2019-12-20T12:33:48.9766377+05:30:Thread#0:TestItem#26:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:33:48.9766377+05:30:Thread#0:TestItem#26:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:33:48.9766377+05:30:Thread#0:TestItem#26:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:33:48.9766377+05:30:Thread#0:Scheduler: using testitem #26 for thread 0
+2019-12-20T12:33:48.9766377+05:30:Thread#0:Scheduler: Test #26 is scheduled for thread
+2019-12-20T12:33:48.9766377+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:33:50.2037768+05:30:Thread#0: Test #25/0 is finished on thread #0 as Failed within 126.5442674 seconds
+2019-12-20T12:33:50.2060053+05:30:Thread#0: Test #26/0 is started on thread #0
+2019-12-20T12:33:50.2060053+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:33:53.8261558+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:33:59.0469282+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.2s)
+2019-12-20T12:33:59.0479314+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:34:16.8009285+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.8s)
+2019-12-20T12:34:16.8019329+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:34:23.3629071+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.6s)
+2019-12-20T12:34:23.3629071+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:34:29.9276628+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (6.6s)
+2019-12-20T12:34:29.9276628+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:34:39.2084127+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.3s)
+2019-12-20T12:34:39.2084127+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:34:50.7034028+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (11.5s)
+2019-12-20T12:34:50.7034028+05:30:Thread#0:B:When Fill Delivery Options page details for Download
+2019-12-20T12:34:52.8874165+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("Download") (2.2s)
+2019-12-20T12:34:52.8879156+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:35:00.5782264+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (7.7s)
+2019-12-20T12:35:00.5782264+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:35:10.3479379+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (9.8s)
+2019-12-20T12:35:10.3489408+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:35:10.3489408+05:30:Thread#:Scheduler: testitem #28 from normal test queue 
+2019-12-20T12:35:10.3489408+05:30:Thread#0:Scheduler: considering testitem #28 for thread 0
+2019-12-20T12:35:10.3489408+05:30:Thread#0:TestItem#28:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:35:10.3489408+05:30:Thread#0:TestItem#28:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:35:10.3489408+05:30:Thread#0:TestItem#28:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:35:10.3489408+05:30:Thread#0:Scheduler: using testitem #28 for thread 0
+2019-12-20T12:35:10.3489408+05:30:Thread#0:Scheduler: Test #28 is scheduled for thread
+2019-12-20T12:35:10.3489408+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:35:10.5659361+05:30:Thread#0: Test #26/0 is finished on thread #0 as Succeeded within 80.3599308 seconds
+2019-12-20T12:35:10.5659361+05:30:Thread#0: Test #28/0 is started on thread #0
+2019-12-20T12:35:14.2928704+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:35:18.5992207+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.3s)
+2019-12-20T12:35:18.5992207+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:35:34.8937440+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.3s)
+2019-12-20T12:35:34.8942454+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:35:41.3973942+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.5s)
+2019-12-20T12:35:41.3973942+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T12:36:12.1903141+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (30.8s)
+2019-12-20T12:36:12.1903141+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:36:19.3097543+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.1s)
+2019-12-20T12:36:19.3107632+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:36:28.5968540+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.3s)
+2019-12-20T12:36:28.5968540+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:36:38.3116464+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (9.7s)
+2019-12-20T12:36:38.3126515+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T12:37:06.1805106+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.9s)
+2019-12-20T12:37:06.1815116+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:37:16.6518713+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (10.5s)
+2019-12-20T12:37:16.6518713+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T12:37:18.9163494+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.3s)
+2019-12-20T12:37:18.9163494+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-20T12:37:21.1579630+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (2.2s)
+2019-12-20T12:37:21.1579630+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-20T12:37:33.4078898+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddGeneralLedgerCodeToTheProduct() (12.2s)
+2019-12-20T12:37:33.4078898+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-20T12:37:39.8461669+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddProductNickNameTestNickNameToTheProduct("TestNickName") (6.4s)
+2019-12-20T12:37:39.8471675+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-20T12:37:54.9357627+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenNavigateFromShoppingCartPageToPaymentPage() (15.1s)
+2019-12-20T12:37:54.9367652+05:30:Thread#0:B:Then Validate payment methods available
+2019-12-20T12:37:55.0827134+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentMethodsAvailable() (0.1s)
+2019-12-20T12:37:55.0827134+05:30:Thread#0:B:Then Validate payment summary section
+2019-12-20T12:37:55.2380947+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentSummarySection() (0.2s)
+2019-12-20T12:37:55.2380947+05:30:Thread#0:B:When Fill one time payment Credit card details for payment
+2019-12-20T12:38:04.1744565+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillOneTimePaymentCreditCardDetailsForPayment() (8.9s)
+2019-12-20T12:38:04.1744565+05:30:Thread#0:B:When Fill billing information new Address
+2019-12-20T12:38:13.1904946+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillBillingInformationNewAddress() (9.0s)
+2019-12-20T12:38:13.1904946+05:30:Thread#0:B:Then Validate payment breakdown for CreditCard from summary
+2019-12-20T12:38:13.2692070+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentBreakdownForCreditcardFromSummary("CreditCard") (0.1s)
+2019-12-20T12:38:13.2692070+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-20T12:38:15.4136510+05:30:Thread#0:T:done: ProductPaymentSteps.WhenCheckTermsOfUseCheckBoxBeforePlacingOrder() (2.1s)
+2019-12-20T12:38:15.4146542+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-20T12:38:27.1021320+05:30:Thread#0:T:done: ProductPaymentSteps.ThenPlaceTheOrderFromPaymentPage() (11.7s)
+2019-12-20T12:38:27.1031326+05:30:Thread#0:B:Then Validate Order number link, thankyou message and disclaimer
+2019-12-20T12:38:27.2421145+05:30:Thread#0:T:done: ProductOrderConfirmationSteps.ThenValidateOrderNumberLinkThankyouMessageAndDisclaimer() (0.1s)
+2019-12-20T12:38:27.2421145+05:30:Thread#0:B:When Navigate from order confirmation page to Order details page
+2019-12-20T12:38:36.2674932+05:30:Thread#0:T:done: ProductOrderConfirmationSteps.WhenNavigateFromOrderConfirmationPageToOrderDetailsPage() (9.0s)
+2019-12-20T12:38:36.2684847+05:30:Thread#0:B:Then Validate Order detail page elements from product section
+2019-12-20T12:38:36.6667435+05:30:Thread#0:T:done: ProductOrderConfirmationSteps.ThenValidateOrderDetailPageElementsFromProductSection() (0.4s)
+2019-12-20T12:38:36.6667435+05:30:Thread#0:B:Then Validate Estimated delivery and its elements
+2019-12-20T12:38:39.0386788+05:30:Thread#0:T:done: ProductOrderConfirmationSteps.ThenValidateEstimatedDeliveryAndItsElements() (2.4s)
+2019-12-20T12:38:39.0386788+05:30:Thread#0:B:Then Validate payment breakdown modal under Estd delivery and Cost
+2019-12-20T12:38:43.2600616+05:30:Thread#0:T:done: ProductOrderConfirmationSteps.ThenValidatePaymentBreakdownModalUnderEstdDeliveryAndCost() (4.2s)
+2019-12-20T12:38:43.2600616+05:30:Thread#0:B:Then Validate the order details from order summary panel
+2019-12-20T12:38:43.5851286+05:30:Thread#0:T:done: ProductOrderConfirmationSteps.ThenValidateTheOrderDetailsFromOrderSummaryPanel() (0.3s)
+2019-12-20T12:38:43.5861311+05:30:Thread#0:B:Then Cancel Delivery for estimated section
+2019-12-20T12:38:55.6000800+05:30:Thread#0:T:done: ProductOrderConfirmationSteps.ThenCancelDeliveryForEstimatedSection() (12.0s)
+2019-12-20T12:38:55.6000800+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:39:06.1110414+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (10.5s)
+2019-12-20T12:39:06.1120450+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:39:06.1120450+05:30:Thread#:Scheduler: testitem #30 from normal test queue 
+2019-12-20T12:39:06.1120450+05:30:Thread#0:Scheduler: considering testitem #30 for thread 0
+2019-12-20T12:39:06.1120450+05:30:Thread#0:TestItem#30:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:39:06.1120450+05:30:Thread#0:TestItem#30:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:39:06.1120450+05:30:Thread#0:TestItem#30:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:39:06.1120450+05:30:Thread#0:Scheduler: using testitem #30 for thread 0
+2019-12-20T12:39:06.1130475+05:30:Thread#0:Scheduler: Test #30 is scheduled for thread
+2019-12-20T12:39:06.1130475+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:39:06.3381861+05:30:Thread#0: Test #28/0 is finished on thread #0 as Succeeded within 235.77225 seconds
+2019-12-20T12:39:06.3381861+05:30:Thread#0: Test #30/0 is started on thread #0
+2019-12-20T12:39:09.9557665+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:39:14.8598599+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.9s)
+2019-12-20T12:39:14.8608797+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:39:33.0186187+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.2s)
+2019-12-20T12:39:33.0186187+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T12:39:33.0594654+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-20T12:39:33.0594654+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:39:39.9845484+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.9s)
+2019-12-20T12:39:39.9845484+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:39:46.6975650+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (6.7s)
+2019-12-20T12:39:46.6975650+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:39:56.1173829+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.4s)
+2019-12-20T12:39:56.1173829+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:40:06.1849291+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.1s)
+2019-12-20T12:40:06.1854301+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T12:40:34.1359421+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (28.0s)
+2019-12-20T12:40:34.1359421+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:40:42.4794343+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.3s)
+2019-12-20T12:40:42.4794343+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T12:40:44.7255158+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.2s)
+2019-12-20T12:40:44.7260165+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-20T12:40:46.9401132+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (2.2s)
+2019-12-20T12:40:46.9401132+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-20T12:40:59.2079185+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddGeneralLedgerCodeToTheProduct() (12.3s)
+2019-12-20T12:40:59.2079185+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-20T12:41:05.6153656+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddProductNickNameTestNickNameToTheProduct("TestNickName") (6.4s)
+2019-12-20T12:41:05.6163632+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-20T12:41:20.0647417+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenNavigateFromShoppingCartPageToPaymentPage() (14.4s)
+2019-12-20T12:41:20.0652431+05:30:Thread#0:B:Then Validate payment methods available
+2019-12-20T12:41:20.2202680+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentMethodsAvailable() (0.2s)
+2019-12-20T12:41:20.2202680+05:30:Thread#0:B:Then Validate payment summary section
+2019-12-20T12:41:20.3702522+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentSummarySection() (0.1s)
+2019-12-20T12:41:20.3702522+05:30:Thread#0:B:When Fill existing Credit card details for payment
+2019-12-20T12:41:22.6086964+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillExistingCreditCardDetailsForPayment() (2.2s)
+2019-12-20T12:41:22.6086964+05:30:Thread#0:B:When Fill billing information exisiting Address
+2019-12-20T12:41:22.7223951+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillBillingInformationExisitingAddress() (0.1s)
+2019-12-20T12:41:22.7223951+05:30:Thread#0:B:Then Validate payment breakdown for CreditCard from summary
+2019-12-20T12:41:22.7660393+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentBreakdownForCreditcardFromSummary("CreditCard") (0.0s)
+2019-12-20T12:41:22.7660393+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-20T12:41:24.8888656+05:30:Thread#0:T:done: ProductPaymentSteps.WhenCheckTermsOfUseCheckBoxBeforePlacingOrder() (2.1s)
+2019-12-20T12:41:24.8888656+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-20T12:41:35.5425227+05:30:Thread#0:T:done: ProductPaymentSteps.ThenPlaceTheOrderFromPaymentPage() (10.7s)
+2019-12-20T12:41:35.5435211+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:41:45.2747507+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (9.7s)
+2019-12-20T12:41:45.2747507+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:41:45.2747507+05:30:Thread#:Scheduler: testitem #31 from normal test queue 
+2019-12-20T12:41:45.2747507+05:30:Thread#0:Scheduler: considering testitem #31 for thread 0
+2019-12-20T12:41:45.2747507+05:30:Thread#0:TestItem#31:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:41:45.2747507+05:30:Thread#0:TestItem#31:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:41:45.2747507+05:30:Thread#0:TestItem#31:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:41:45.2747507+05:30:Thread#0:Scheduler: using testitem #31 for thread 0
+2019-12-20T12:41:45.2747507+05:30:Thread#0:Scheduler: Test #31 is scheduled for thread
+2019-12-20T12:41:45.2747507+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:41:45.4853812+05:30:Thread#0: Test #30/0 is finished on thread #0 as Succeeded within 159.1471951 seconds
+2019-12-20T12:41:45.4853812+05:30:Thread#0: Test #31/0 is started on thread #0
+2019-12-20T12:41:45.4863908+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:41:49.1358926+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:41:53.9610666+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.8s)
+2019-12-20T12:41:53.9610666+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:42:09.6704668+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (15.7s)
+2019-12-20T12:42:09.6704668+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T12:42:09.7044219+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-20T12:42:09.7044219+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:42:16.3018768+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.6s)
+2019-12-20T12:42:16.3028842+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:42:23.0140752+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (6.7s)
+2019-12-20T12:42:23.0150792+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:42:32.2554974+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.2s)
+2019-12-20T12:42:32.2554974+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:42:42.4300153+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.2s)
+2019-12-20T12:42:42.4310208+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T12:43:10.3593782+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.9s)
+2019-12-20T12:43:10.3603781+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:43:19.7318928+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (9.4s)
+2019-12-20T12:43:19.7318928+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T12:43:21.9761038+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.2s)
+2019-12-20T12:43:21.9761038+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-20T12:43:24.2307844+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (2.3s)
+2019-12-20T12:43:24.2312851+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-20T12:43:38.4364085+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddGeneralLedgerCodeToTheProduct() (14.2s)
+2019-12-20T12:43:38.4364085+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-20T12:43:44.7993827+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddProductNickNameTestNickNameToTheProduct("TestNickName") (6.4s)
+2019-12-20T12:43:44.7993827+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-20T12:44:00.0844287+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenNavigateFromShoppingCartPageToPaymentPage() (15.3s)
+2019-12-20T12:44:00.0849302+05:30:Thread#0:B:Then Validate payment methods available
+2019-12-20T12:44:00.2165602+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentMethodsAvailable() (0.1s)
+2019-12-20T12:44:00.2165602+05:30:Thread#0:B:Then Validate payment summary section
+2019-12-20T12:44:00.3645383+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentSummarySection() (0.1s)
+2019-12-20T12:44:00.3645383+05:30:Thread#0:B:Then Validate security code message hint
+2019-12-20T12:44:00.3901424+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidateSecurityCodeMessageHint() (0.0s)
+2019-12-20T12:44:00.3901424+05:30:Thread#0:B:Then Validate Payment profile message hint
+2019-12-20T12:44:00.4142751+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentProfileMessageHint() (0.0s)
+2019-12-20T12:44:00.4152780+05:30:Thread#0:B:When Fill one time payment Credit card details for payment
+2019-12-20T12:44:09.3377300+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillOneTimePaymentCreditCardDetailsForPayment() (8.9s)
+2019-12-20T12:44:09.3377300+05:30:Thread#0:B:When Fill billing information new Address
+2019-12-20T12:44:18.4539804+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillBillingInformationNewAddress() (9.1s)
+2019-12-20T12:44:18.4539804+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-20T12:44:20.5998697+05:30:Thread#0:T:done: ProductPaymentSteps.WhenCheckTermsOfUseCheckBoxBeforePlacingOrder() (2.1s)
+2019-12-20T12:44:20.6008733+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-20T12:44:31.7033918+05:30:Thread#0:T:done: ProductPaymentSteps.ThenPlaceTheOrderFromPaymentPage() (11.1s)
+2019-12-20T12:44:31.7043856+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:44:42.3259015+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (10.6s)
+2019-12-20T12:44:42.3259015+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:44:42.3259015+05:30:Thread#:Scheduler: testitem #32 from normal test queue 
+2019-12-20T12:44:42.3259015+05:30:Thread#0:Scheduler: considering testitem #32 for thread 0
+2019-12-20T12:44:42.3259015+05:30:Thread#0:TestItem#32:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:44:42.3259015+05:30:Thread#0:TestItem#32:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:44:42.3259015+05:30:Thread#0:TestItem#32:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:44:42.3259015+05:30:Thread#0:Scheduler: using testitem #32 for thread 0
+2019-12-20T12:44:42.3268957+05:30:Thread#0:Scheduler: Test #32 is scheduled for thread
+2019-12-20T12:44:42.3268957+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:44:42.5387186+05:30:Thread#0: Test #31/0 is finished on thread #0 as Succeeded within 177.0533374 seconds
+2019-12-20T12:44:42.5392125+05:30:Thread#0: Test #32/0 is started on thread #0
+2019-12-20T12:44:42.5397128+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:44:46.3690047+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:44:51.5172127+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.1s)
+2019-12-20T12:44:51.5177126+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:45:08.7439482+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.2s)
+2019-12-20T12:45:08.7449529+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T12:45:08.7761188+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-20T12:45:08.7761188+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:45:16.0771418+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.3s)
+2019-12-20T12:45:16.0776429+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:45:23.5126553+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.4s)
+2019-12-20T12:45:23.5136567+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:45:32.8991573+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.4s)
+2019-12-20T12:45:32.8991573+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:45:45.0488776+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (12.1s)
+2019-12-20T12:45:45.0498842+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T12:46:12.9947695+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.9s)
+2019-12-20T12:46:12.9957724+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:46:23.2719834+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (10.3s)
+2019-12-20T12:46:23.2719834+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T12:46:25.5545124+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.3s)
+2019-12-20T12:46:25.5545124+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-20T12:46:27.7832472+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (2.2s)
+2019-12-20T12:46:27.7832472+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-20T12:46:44.3633342+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddGeneralLedgerCodeToTheProduct() (16.6s)
+2019-12-20T12:46:44.3633342+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-20T12:46:50.7653026+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddProductNickNameTestNickNameToTheProduct("TestNickName") (6.4s)
+2019-12-20T12:46:50.7653026+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-20T12:47:06.1124800+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenNavigateFromShoppingCartPageToPaymentPage() (15.3s)
+2019-12-20T12:47:06.1129803+05:30:Thread#0:B:Then Validate payment methods available
+2019-12-20T12:47:06.2472983+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentMethodsAvailable() (0.1s)
+2019-12-20T12:47:06.2483019+05:30:Thread#0:B:Then Validate payment summary section
+2019-12-20T12:47:06.4037995+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentSummarySection() (0.2s)
+2019-12-20T12:47:06.4037995+05:30:Thread#0:B:Then Validate security code message hint
+2019-12-20T12:47:06.4308796+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidateSecurityCodeMessageHint() (0.0s)
+2019-12-20T12:47:06.4308796+05:30:Thread#0:B:Then Validate Payment profile message hint
+2019-12-20T12:47:06.4559461+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentProfileMessageHint() (0.0s)
+2019-12-20T12:47:06.4559461+05:30:Thread#0:B:When Fill existing Credit card details for payment
+2019-12-20T12:47:08.6985731+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillExistingCreditCardDetailsForPayment() (2.2s)
+2019-12-20T12:47:08.6985731+05:30:Thread#0:B:When Fill billing information exisiting Address
+2019-12-20T12:47:08.8172363+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillBillingInformationExisitingAddress() (0.1s)
+2019-12-20T12:47:08.8172363+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-20T12:47:10.9417349+05:30:Thread#0:T:done: ProductPaymentSteps.WhenCheckTermsOfUseCheckBoxBeforePlacingOrder() (2.1s)
+2019-12-20T12:47:10.9427381+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-20T12:47:21.2918358+05:30:Thread#0:T:done: ProductPaymentSteps.ThenPlaceTheOrderFromPaymentPage() (10.3s)
+2019-12-20T12:47:21.2918358+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:47:30.9482840+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (9.7s)
+2019-12-20T12:47:30.9482840+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:47:30.9482840+05:30:Thread#:Scheduler: testitem #33 from normal test queue 
+2019-12-20T12:47:30.9482840+05:30:Thread#0:Scheduler: considering testitem #33 for thread 0
+2019-12-20T12:47:30.9482840+05:30:Thread#0:TestItem#33:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:47:30.9482840+05:30:Thread#0:TestItem#33:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:47:30.9482840+05:30:Thread#0:TestItem#33:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:47:30.9482840+05:30:Thread#0:Scheduler: using testitem #33 for thread 0
+2019-12-20T12:47:30.9482840+05:30:Thread#0:Scheduler: Test #33 is scheduled for thread
+2019-12-20T12:47:30.9482840+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:47:31.1521513+05:30:Thread#0: Test #32/0 is finished on thread #0 as Succeeded within 168.6129388 seconds
+2019-12-20T12:47:31.1531541+05:30:Thread#0: Test #33/0 is started on thread #0
+2019-12-20T12:47:31.1531541+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:47:34.8246874+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:47:40.1346002+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.3s)
+2019-12-20T12:47:40.1346002+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:47:56.6128306+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.5s)
+2019-12-20T12:47:56.6128306+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:48:05.9842448+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (9.4s)
+2019-12-20T12:48:05.9842448+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:48:13.1573985+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.2s)
+2019-12-20T12:48:13.1578996+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:48:22.5989239+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.4s)
+2019-12-20T12:48:22.5989239+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:48:32.7041504+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.1s)
+2019-12-20T12:48:32.7051487+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T12:49:00.6548353+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.9s)
+2019-12-20T12:49:00.6548353+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:49:10.3103229+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (9.7s)
+2019-12-20T12:49:10.3103229+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T12:49:12.5761527+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.3s)
+2019-12-20T12:49:12.5761527+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-20T12:49:14.8085829+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (2.2s)
+2019-12-20T12:49:14.8085829+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-20T12:49:27.5528020+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddGeneralLedgerCodeToTheProduct() (12.7s)
+2019-12-20T12:49:27.5533049+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-20T12:49:41.9517574+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddProductNickNameTestNickNameToTheProduct("TestNickName") (14.4s)
+2019-12-20T12:49:41.9527591+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-20T12:49:51.7107369+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenNavigateFromShoppingCartPageToPaymentPage() (9.8s)
+2019-12-20T12:49:51.7107369+05:30:Thread#0:B:When Navigate to Invoice payment method
+2019-12-20T12:49:53.8853451+05:30:Thread#0:T:done: ProductPaymentSteps.WhenNavigateToInvoicePaymentMethod() (2.2s)
+2019-12-20T12:49:53.8858480+05:30:Thread#0:B:Then Validate Invoice amount to be paid
+2019-12-20T12:49:53.9231130+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidateInvoiceAmountToBePaid() (0.0s)
+2019-12-20T12:49:53.9231130+05:30:Thread#0:B:Then Validate payment breakdown for Invoice from summary
+2019-12-20T12:49:53.9499446+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentBreakdownForCreditcardFromSummary("Invoice") (0.0s)
+2019-12-20T12:49:53.9499446+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-20T12:49:56.0842947+05:30:Thread#0:T:done: ProductPaymentSteps.WhenCheckTermsOfUseCheckBoxBeforePlacingOrder() (2.1s)
+2019-12-20T12:49:56.0847988+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-20T12:50:08.7152264+05:30:Thread#0:T:done: ProductPaymentSteps.ThenPlaceTheOrderFromPaymentPage() (12.6s)
+2019-12-20T12:50:08.7162300+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:50:19.3428874+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (10.6s)
+2019-12-20T12:50:19.3428874+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:50:19.3428874+05:30:Thread#:Scheduler: testitem #34 from normal test queue 
+2019-12-20T12:50:19.3428874+05:30:Thread#0:Scheduler: considering testitem #34 for thread 0
+2019-12-20T12:50:19.3438850+05:30:Thread#0:TestItem#34:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:50:19.3438850+05:30:Thread#0:TestItem#34:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:50:19.3438850+05:30:Thread#0:TestItem#34:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:50:19.3438850+05:30:Thread#0:Scheduler: using testitem #34 for thread 0
+2019-12-20T12:50:19.3438850+05:30:Thread#0:Scheduler: Test #34 is scheduled for thread
+2019-12-20T12:50:19.3438850+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:50:19.5603914+05:30:Thread#0: Test #33/0 is finished on thread #0 as Succeeded within 168.4072373 seconds
+2019-12-20T12:50:19.5613942+05:30:Thread#0: Test #34/0 is started on thread #0
+2019-12-20T12:50:19.5613942+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:50:23.2596202+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:50:28.7861938+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.5s)
+2019-12-20T12:50:28.7871955+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:50:46.3370122+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.5s)
+2019-12-20T12:50:46.3370122+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T12:50:46.3840905+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-20T12:50:46.3840905+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:50:53.6031853+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.2s)
+2019-12-20T12:50:53.6031853+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:51:00.5253088+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (6.9s)
+2019-12-20T12:51:00.5253088+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:51:09.3133795+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (8.8s)
+2019-12-20T12:51:09.3133795+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:51:19.4447833+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.1s)
+2019-12-20T12:51:19.4457865+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T12:51:47.3847785+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.9s)
+2019-12-20T12:51:47.3847785+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:51:56.3442040+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (9.0s)
+2019-12-20T12:51:56.3442040+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T12:51:58.6032540+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.3s)
+2019-12-20T12:51:58.6032540+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-20T12:52:00.8735158+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (2.3s)
+2019-12-20T12:52:00.8735158+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-20T12:52:13.2822351+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddGeneralLedgerCodeToTheProduct() (12.4s)
+2019-12-20T12:52:13.2827373+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-20T12:52:19.6632372+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddProductNickNameTestNickNameToTheProduct("TestNickName") (6.4s)
+2019-12-20T12:52:19.6632372+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-20T12:52:33.8917677+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenNavigateFromShoppingCartPageToPaymentPage() (14.2s)
+2019-12-20T12:52:33.8917677+05:30:Thread#0:B:When Navigate to Cofunding payment method
+2019-12-20T12:52:36.0090394+05:30:Thread#0:T:done: ProductPaymentSteps.WhenNavigateToCofundingPaymentMethod() (2.1s)
+2019-12-20T12:52:36.0090394+05:30:Thread#0:B:Then Validate Cofunding amount to be paid
+2019-12-20T12:52:36.0416296+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidateCofundingAmountToBePaid() (0.0s)
+2019-12-20T12:52:36.0416296+05:30:Thread#0:B:Then Validate payment breakdown for CoFunding from summary
+2019-12-20T12:52:36.0767227+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentBreakdownForCreditcardFromSummary("CoFunding") (0.0s)
+2019-12-20T12:52:36.0767227+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-20T12:52:38.1751392+05:30:Thread#0:T:done: ProductPaymentSteps.WhenCheckTermsOfUseCheckBoxBeforePlacingOrder() (2.1s)
+2019-12-20T12:52:38.1751392+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-20T12:52:45.9363887+05:30:Thread#0:T:done: ProductPaymentSteps.ThenPlaceTheOrderFromPaymentPage() (7.8s)
+2019-12-20T12:52:45.9363887+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:52:48.0923523+05:30:Thread#0:T:error: unknown error: Element <div class="dropdown" id="profile-dropdown" data-cofunding-history-url="/Funding/CorporateFundHistory">...</div> is not clickable at point (1224, 39). Other element would receive the click: <div class="message message-Error template alert alert-danger">...</div>
+2019-12-20T12:52:48.0923523+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.88)
+2019-12-20T12:52:48.0923523+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-12-20T12:52:48.0943663+05:30:Thread#0:TestItem#34:Scheduler: reschedule tests for testitem #34
+2019-12-20T12:52:48.0943663+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:52:48.0943663+05:30:Thread#:Scheduler: testitem #35 from normal test queue 
+2019-12-20T12:52:48.0943663+05:30:Thread#0:Scheduler: considering testitem #35 for thread 0
+2019-12-20T12:52:48.0943663+05:30:Thread#0:TestItem#35:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:52:48.0943663+05:30:Thread#0:TestItem#35:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:52:48.0943663+05:30:Thread#0:TestItem#35:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:52:48.0943663+05:30:Thread#0:Scheduler: using testitem #35 for thread 0
+2019-12-20T12:52:48.0943663+05:30:Thread#0:Scheduler: Test #35 is scheduled for thread
+2019-12-20T12:52:48.0943663+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:52:48.2880804+05:30:Thread#0: Test #34/0 is finished on thread #0 as Failed within 148.7266862 seconds
+2019-12-20T12:52:48.2890802+05:30:Thread#0: Test #35/0 is started on thread #0
+2019-12-20T12:52:48.2890802+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:52:52.0414982+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:52:57.3792617+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.3s)
+2019-12-20T12:52:57.3797646+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:53:14.4984330+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.1s)
+2019-12-20T12:53:14.4994313+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T12:53:34.9472381+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (20.4s)
+2019-12-20T12:53:34.9472381+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:53:42.1951204+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.2s)
+2019-12-20T12:53:42.1951204+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:53:49.9798324+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.8s)
+2019-12-20T12:53:49.9808368+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:53:59.3744532+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.4s)
+2019-12-20T12:53:59.3744532+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:54:09.6102777+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.2s)
+2019-12-20T12:54:09.6102777+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T12:54:37.3580367+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.7s)
+2019-12-20T12:54:37.3580367+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:54:45.8772165+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.5s)
+2019-12-20T12:54:45.8777168+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T12:54:48.1527781+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.3s)
+2019-12-20T12:54:48.1527781+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-20T12:54:51.3836590+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (3.2s)
+2019-12-20T12:54:51.3836590+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-20T12:55:05.1936693+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddGeneralLedgerCodeToTheProduct() (13.8s)
+2019-12-20T12:55:05.1936693+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-20T12:55:11.5906820+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddProductNickNameTestNickNameToTheProduct("TestNickName") (6.4s)
+2019-12-20T12:55:11.5906820+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-20T12:55:25.3963321+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenNavigateFromShoppingCartPageToPaymentPage() (13.8s)
+2019-12-20T12:55:25.3963321+05:30:Thread#0:B:When Navigate to CofundingAndCreditCard payment method
+2019-12-20T12:55:27.5363346+05:30:Thread#0:T:done: ProductPaymentSteps.WhenNavigateToCofundingAndCreditCardPaymentMethod() (2.1s)
+2019-12-20T12:55:27.5363346+05:30:Thread#0:B:When Fill Cofunding amount with credit card payment
+2019-12-20T12:55:27.6197830+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillCofundingAmountWithCreditCardPayment() (0.1s)
+2019-12-20T12:55:27.6197830+05:30:Thread#0:B:When Fill existing Credit card details for payment
+2019-12-20T12:55:29.8966989+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillExistingCreditCardDetailsForPayment() (2.3s)
+2019-12-20T12:55:29.8976999+05:30:Thread#0:B:When Fill billing information exisiting Address
+2019-12-20T12:55:30.0164619+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillBillingInformationExisitingAddress() (0.1s)
+2019-12-20T12:55:30.0164619+05:30:Thread#0:B:Then Validate payment breakdown for CoFundingAndCreditCard from summary
+2019-12-20T12:55:30.1056873+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentBreakdownForCreditcardFromSummary("CoFundingAndCredi...") (0.1s)
+2019-12-20T12:55:30.1056873+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-20T12:55:32.2433601+05:30:Thread#0:T:done: ProductPaymentSteps.WhenCheckTermsOfUseCheckBoxBeforePlacingOrder() (2.1s)
+2019-12-20T12:55:32.2443630+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-20T12:55:44.9675667+05:30:Thread#0:T:done: ProductPaymentSteps.ThenPlaceTheOrderFromPaymentPage() (12.7s)
+2019-12-20T12:55:44.9675667+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:55:55.2816876+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (10.3s)
+2019-12-20T12:55:55.2826859+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:55:55.2826859+05:30:Thread#:Scheduler: testitem #36 from normal test queue 
+2019-12-20T12:55:55.2826859+05:30:Thread#0:Scheduler: considering testitem #36 for thread 0
+2019-12-20T12:55:55.2826859+05:30:Thread#0:TestItem#36:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:55:55.2826859+05:30:Thread#0:TestItem#36:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:55:55.2826859+05:30:Thread#0:TestItem#36:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:55:55.2826859+05:30:Thread#0:Scheduler: using testitem #36 for thread 0
+2019-12-20T12:55:55.2826859+05:30:Thread#0:Scheduler: Test #36 is scheduled for thread
+2019-12-20T12:55:55.2826859+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:55:55.4842737+05:30:Thread#0: Test #35/0 is finished on thread #0 as Succeeded within 187.1951935 seconds
+2019-12-20T12:55:55.4842737+05:30:Thread#0: Test #36/0 is started on thread #0
+2019-12-20T12:55:55.4842737+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T12:55:59.1432487+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:56:04.3319296+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.2s)
+2019-12-20T12:56:04.3319296+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:56:22.9270217+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.6s)
+2019-12-20T12:56:22.9280177+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T12:56:22.9769870+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-20T12:56:22.9769870+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:56:30.2294821+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.3s)
+2019-12-20T12:56:30.2294821+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:56:38.1753310+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.9s)
+2019-12-20T12:56:38.1763331+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:56:47.5089078+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.3s)
+2019-12-20T12:56:47.5089078+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:56:58.3094054+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.8s)
+2019-12-20T12:56:58.3094054+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T12:57:26.3463876+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (28.0s)
+2019-12-20T12:57:26.3463876+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T12:57:34.9272709+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.6s)
+2019-12-20T12:57:34.9272709+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T12:57:37.2003234+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.3s)
+2019-12-20T12:57:37.2003234+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-20T12:57:39.4170832+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (2.2s)
+2019-12-20T12:57:39.4170832+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-20T12:57:51.9183822+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddGeneralLedgerCodeToTheProduct() (12.5s)
+2019-12-20T12:57:51.9183822+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-20T12:58:05.2378312+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddProductNickNameTestNickNameToTheProduct("TestNickName") (13.3s)
+2019-12-20T12:58:05.2378312+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-20T12:58:15.0669116+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenNavigateFromShoppingCartPageToPaymentPage() (9.8s)
+2019-12-20T12:58:15.0669116+05:30:Thread#0:B:When Navigate to CofundingAndInvoice payment method
+2019-12-20T12:58:17.2109599+05:30:Thread#0:T:done: ProductPaymentSteps.WhenNavigateToCofundingAndInvoicePaymentMethod() (2.1s)
+2019-12-20T12:58:17.2119620+05:30:Thread#0:B:When Fill Cofunding amount with Invoice payment
+2019-12-20T12:58:17.2855861+05:30:Thread#0:T:done: ProductPaymentSteps.WhenFillCofundingAmountWithInvoicePayment() (0.1s)
+2019-12-20T12:58:17.2855861+05:30:Thread#0:B:Then Validate payment breakdown for CoFundingAndInvoice from summary
+2019-12-20T12:58:17.3467587+05:30:Thread#0:T:done: ProductPaymentSteps.ThenValidatePaymentBreakdownForCreditcardFromSummary("CoFundingAndInvoice") (0.1s)
+2019-12-20T12:58:17.3467587+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-20T12:58:19.4972470+05:30:Thread#0:T:done: ProductPaymentSteps.WhenCheckTermsOfUseCheckBoxBeforePlacingOrder() (2.1s)
+2019-12-20T12:58:19.4972470+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-20T12:58:30.6060636+05:30:Thread#0:T:done: ProductPaymentSteps.ThenPlaceTheOrderFromPaymentPage() (11.1s)
+2019-12-20T12:58:30.6070668+05:30:Thread#0:B:Then signout the application
+2019-12-20T12:58:40.3025157+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (9.7s)
+2019-12-20T12:58:40.3035212+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T12:58:40.3035212+05:30:Thread#:Scheduler: testitem #38 from normal test queue 
+2019-12-20T12:58:40.3035212+05:30:Thread#0:Scheduler: considering testitem #38 for thread 0
+2019-12-20T12:58:40.3035212+05:30:Thread#0:TestItem#38:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T12:58:40.3035212+05:30:Thread#0:TestItem#38:runsOnOneOtherThreadSpecific:False
+2019-12-20T12:58:40.3035212+05:30:Thread#0:TestItem#38:runsOnOneOtherThreadUnspecific:False
+2019-12-20T12:58:40.3035212+05:30:Thread#0:Scheduler: using testitem #38 for thread 0
+2019-12-20T12:58:40.3035212+05:30:Thread#0:Scheduler: Test #38 is scheduled for thread
+2019-12-20T12:58:40.3035212+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T12:58:40.5634030+05:30:Thread#0: Test #36/0 is finished on thread #0 as Succeeded within 165.0791293 seconds
+2019-12-20T12:58:40.5634030+05:30:Thread#0: Test #38/0 is started on thread #0
+2019-12-20T12:58:44.1929432+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T12:58:49.0565021+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.9s)
+2019-12-20T12:58:49.0575050+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T12:59:07.1565297+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.1s)
+2019-12-20T12:59:07.1565297+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T12:59:07.1989022+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-20T12:59:07.1989022+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T12:59:13.8785550+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.7s)
+2019-12-20T12:59:13.8785550+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T12:59:21.0841550+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.2s)
+2019-12-20T12:59:21.0841550+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T12:59:30.4628199+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.4s)
+2019-12-20T12:59:30.4628199+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T12:59:40.6741010+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.2s)
+2019-12-20T12:59:40.6741010+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T13:00:08.4889988+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.8s)
+2019-12-20T13:00:08.4889988+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T13:00:16.9068936+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.4s)
+2019-12-20T13:00:16.9068936+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T13:00:19.1463883+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.2s)
+2019-12-20T13:00:19.1463883+05:30:Thread#0:B:Then Validate product details from cart section
+2019-12-20T13:00:21.4479810+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateProductDetailsFromCartSection() (2.3s)
+2019-12-20T13:00:21.4479810+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-20T13:00:23.6527711+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (2.2s)
+2019-12-20T13:00:23.6537736+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-20T13:00:36.0199519+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddGeneralLedgerCodeToTheProduct() (12.4s)
+2019-12-20T13:00:36.0204533+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-20T13:00:42.4584755+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenAddProductNickNameTestNickNameToTheProduct("TestNickName") (6.4s)
+2019-12-20T13:00:42.4584755+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-20T13:00:56.6116646+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenNavigateFromShoppingCartPageToPaymentPage() (14.2s)
+2019-12-20T13:00:56.6116646+05:30:Thread#0:B:Then signout the application
+2019-12-20T13:01:07.2536371+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (10.6s)
+2019-12-20T13:01:07.2546392+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T13:01:07.2546392+05:30:Thread#:Scheduler: testitem #39 from normal test queue 
+2019-12-20T13:01:07.2546392+05:30:Thread#0:Scheduler: considering testitem #39 for thread 0
+2019-12-20T13:01:07.2546392+05:30:Thread#0:TestItem#39:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T13:01:07.2551406+05:30:Thread#0:TestItem#39:runsOnOneOtherThreadSpecific:False
+2019-12-20T13:01:07.2551406+05:30:Thread#0:TestItem#39:runsOnOneOtherThreadUnspecific:False
+2019-12-20T13:01:07.2551406+05:30:Thread#0:Scheduler: using testitem #39 for thread 0
+2019-12-20T13:01:07.2551406+05:30:Thread#0:Scheduler: Test #39 is scheduled for thread
+2019-12-20T13:01:07.2551406+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T13:01:07.4866630+05:30:Thread#0: Test #38/0 is finished on thread #0 as Succeeded within 146.92326 seconds
+2019-12-20T13:01:07.4866630+05:30:Thread#0: Test #39/0 is started on thread #0
+2019-12-20T13:01:07.4866630+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T13:01:11.2093831+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T13:01:16.3875243+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.2s)
+2019-12-20T13:01:16.3885260+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T13:01:33.8245651+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.4s)
+2019-12-20T13:01:33.8255638+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T13:01:53.6382051+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (19.8s)
+2019-12-20T13:01:53.6382051+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T13:02:00.6651006+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.0s)
+2019-12-20T13:02:00.6651006+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T13:02:07.3641388+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (6.7s)
+2019-12-20T13:02:07.3651360+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T13:02:16.7035731+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.3s)
+2019-12-20T13:02:16.7035731+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T13:02:28.7123835+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (12.0s)
+2019-12-20T13:02:28.7133841+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T13:02:56.5631556+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.8s)
+2019-12-20T13:02:56.5641615+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T13:03:05.2046467+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.6s)
+2019-12-20T13:03:05.2051448+05:30:Thread#0:B:When Get current item count from cart
+2019-12-20T13:03:05.2427461+05:30:Thread#0:T:item count..1
+2019-12-20T13:03:05.2427461+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenGetCurrentItemCountFromCart() (0.0s)
+2019-12-20T13:03:05.2427461+05:30:Thread#0:B:When Edit product from the shopping cart page
+2019-12-20T13:03:13.8308216+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenEditProductFromTheShoppingCartPage() (8.6s)
+2019-12-20T13:03:13.8308216+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T13:03:24.2774258+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.4s)
+2019-12-20T13:03:24.2784268+05:30:Thread#0:B:When Update Delivery Options page details for MailToRecipientList
+2019-12-20T13:04:26.5591401+05:30:Thread#0:T:error: Cannot locate element with text: FIRST CLASS
+2019-12-20T13:04:26.5591401+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T13:04:26.5601444+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T13:04:26.5601444+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T13:04:26.5601444+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T13:04:26.5601444+05:30:Thread#0:B:Then Validate product details from cart section
+2019-12-20T13:04:26.5601444+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T13:04:26.5611458+05:30:Thread#0:B:Then Validate cart count after edit product
+2019-12-20T13:04:26.5611458+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T13:04:26.5631515+05:30:Thread#0:TestItem#39:Scheduler: reschedule tests for testitem #39
+2019-12-20T13:04:26.5631515+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T13:04:26.5631515+05:30:Thread#:Scheduler: testitem #40 from normal test queue 
+2019-12-20T13:04:26.5631515+05:30:Thread#0:Scheduler: considering testitem #40 for thread 0
+2019-12-20T13:04:26.5631515+05:30:Thread#0:TestItem#40:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T13:04:26.5631515+05:30:Thread#0:TestItem#40:runsOnOneOtherThreadSpecific:False
+2019-12-20T13:04:26.5631515+05:30:Thread#0:TestItem#40:runsOnOneOtherThreadUnspecific:False
+2019-12-20T13:04:26.5631515+05:30:Thread#0:Scheduler: using testitem #40 for thread 0
+2019-12-20T13:04:26.5631515+05:30:Thread#0:Scheduler: Test #40 is scheduled for thread
+2019-12-20T13:04:26.5631515+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T13:04:26.7836750+05:30:Thread#0: Test #39/0 is finished on thread #0 as Failed within 199.297012 seconds
+2019-12-20T13:04:26.7836750+05:30:Thread#0: Test #40/0 is started on thread #0
+2019-12-20T13:04:26.7836750+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T13:04:30.3952809+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T13:04:35.4174898+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.0s)
+2019-12-20T13:04:35.4174898+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T13:04:53.5038018+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.1s)
+2019-12-20T13:04:53.5043029+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T13:05:13.0286714+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (19.5s)
+2019-12-20T13:05:13.0291720+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T13:05:20.0911410+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-20T13:05:20.0921442+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T13:05:27.2593691+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.2s)
+2019-12-20T13:05:27.2603799+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T13:05:36.4473890+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.2s)
+2019-12-20T13:05:36.4473890+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T13:05:46.4283173+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.0s)
+2019-12-20T13:05:46.4283173+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T13:06:14.1880520+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.8s)
+2019-12-20T13:06:14.1880520+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T13:06:22.5633595+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.4s)
+2019-12-20T13:06:22.5638595+05:30:Thread#0:B:When Get current item count from cart
+2019-12-20T13:06:22.5949423+05:30:Thread#0:T:item count..1
+2019-12-20T13:06:22.5954437+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenGetCurrentItemCountFromCart() (0.0s)
+2019-12-20T13:06:22.5954437+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T13:06:24.8364623+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.2s)
+2019-12-20T13:06:24.8369641+05:30:Thread#0:B:When Copy product from the shopping cart page
+2019-12-20T13:06:33.6157406+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenCopyProductFromTheShoppingCartPage() (8.8s)
+2019-12-20T13:06:33.6157406+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T13:06:43.9428506+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.3s)
+2019-12-20T13:06:43.9438641+05:30:Thread#0:B:When Update Delivery Options page details for ShipToAnAddress
+2019-12-20T13:07:11.5762290+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenUpdateDeliveryOptionsPageDetailsForShipToAnAddress("ShipToAnAddress") (27.6s)
+2019-12-20T13:07:11.5762290+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T13:07:19.7044377+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.1s)
+2019-12-20T13:07:19.7044377+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T13:07:21.9370691+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.2s)
+2019-12-20T13:07:21.9370691+05:30:Thread#0:B:Then Validate product details from cart section
+2019-12-20T13:07:24.2038580+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateProductDetailsFromCartSection() (2.3s)
+2019-12-20T13:07:24.2038580+05:30:Thread#0:B:Then Validate cart items after copy the product
+2019-12-20T13:07:24.2319326+05:30:Thread#0:T:item count..2
+2019-12-20T13:07:24.2329355+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartItemsAfterCopyProduct() (0.0s)
+2019-12-20T13:07:24.2329355+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T13:07:24.2329355+05:30:Thread#:Scheduler: testitem #41 from normal test queue 
+2019-12-20T13:07:24.2329355+05:30:Thread#0:Scheduler: considering testitem #41 for thread 0
+2019-12-20T13:07:24.2329355+05:30:Thread#0:TestItem#41:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T13:07:24.2329355+05:30:Thread#0:TestItem#41:runsOnOneOtherThreadSpecific:False
+2019-12-20T13:07:24.2329355+05:30:Thread#0:TestItem#41:runsOnOneOtherThreadUnspecific:False
+2019-12-20T13:07:24.2329355+05:30:Thread#0:Scheduler: using testitem #41 for thread 0
+2019-12-20T13:07:24.2329355+05:30:Thread#0:Scheduler: Test #41 is scheduled for thread
+2019-12-20T13:07:24.2329355+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T13:07:24.4285473+05:30:Thread#0: Test #40/0 is finished on thread #0 as Succeeded within 177.6448723 seconds
+2019-12-20T13:07:24.4285473+05:30:Thread#0: Test #41/0 is started on thread #0
+2019-12-20T13:07:24.4290517+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T13:07:28.0918928+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T13:07:33.8334896+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.7s)
+2019-12-20T13:07:33.8334896+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T13:07:52.4249089+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.6s)
+2019-12-20T13:07:52.4259110+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T13:08:24.5380012+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (32.1s)
+2019-12-20T13:08:24.5380012+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T13:08:31.9042562+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.4s)
+2019-12-20T13:08:31.9042562+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T13:08:39.0152589+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.1s)
+2019-12-20T13:08:39.0162603+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T13:08:48.2180361+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.2s)
+2019-12-20T13:08:48.2180361+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T13:08:57.8010709+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (9.6s)
+2019-12-20T13:08:57.8010709+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T13:09:26.7839812+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (29.0s)
+2019-12-20T13:09:26.7839812+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T13:09:36.3088696+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (9.5s)
+2019-12-20T13:09:36.3088696+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T13:09:38.5562648+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.2s)
+2019-12-20T13:09:38.5562648+05:30:Thread#0:B:When Get current item count from cart
+2019-12-20T13:09:38.5883501+05:30:Thread#0:T:item count..1
+2019-12-20T13:09:38.5893533+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenGetCurrentItemCountFromCart() (0.0s)
+2019-12-20T13:09:38.5893533+05:30:Thread#0:B:When Save for Later product from the shopping cart page
+2019-12-20T13:09:49.4832410+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenSaveForLaterProductFromTheShoppingCartPage() (10.9s)
+2019-12-20T13:09:49.4832410+05:30:Thread#0:B:Then Validate copy, remove, add to cart button of Save Later section
+2019-12-20T13:09:49.5664021+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCopyRemoveAddToCartButtonOfSaveLaterSection() (0.1s)
+2019-12-20T13:09:49.5664021+05:30:Thread#0:B:Then Validate cart count after Save a product for Later
+2019-12-20T13:09:49.5974993+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartCountAfterSaveAProductForLater() (0.0s)
+2019-12-20T13:09:49.5974993+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T13:09:49.5974993+05:30:Thread#:Scheduler: testitem #42 from normal test queue 
+2019-12-20T13:09:49.5974993+05:30:Thread#0:Scheduler: considering testitem #42 for thread 0
+2019-12-20T13:09:49.5974993+05:30:Thread#0:TestItem#42:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T13:09:49.5974993+05:30:Thread#0:TestItem#42:runsOnOneOtherThreadSpecific:False
+2019-12-20T13:09:49.5974993+05:30:Thread#0:TestItem#42:runsOnOneOtherThreadUnspecific:False
+2019-12-20T13:09:49.5974993+05:30:Thread#0:Scheduler: using testitem #42 for thread 0
+2019-12-20T13:09:49.5974993+05:30:Thread#0:Scheduler: Test #42 is scheduled for thread
+2019-12-20T13:09:49.5974993+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T13:09:49.8050982+05:30:Thread#0: Test #41/0 is finished on thread #0 as Succeeded within 145.3765509 seconds
+2019-12-20T13:09:49.8050982+05:30:Thread#0: Test #42/0 is started on thread #0
+2019-12-20T13:09:49.8050982+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T13:09:53.4920051+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T13:09:58.3217123+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.8s)
+2019-12-20T13:09:58.3217123+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T13:10:15.1663808+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.8s)
+2019-12-20T13:10:15.1663808+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T13:10:15.2175135+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.1s)
+2019-12-20T13:10:15.2175135+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T13:10:22.2396179+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.0s)
+2019-12-20T13:10:22.2396179+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T13:10:28.8373904+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (6.6s)
+2019-12-20T13:10:28.8383925+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T13:10:38.0076628+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.2s)
+2019-12-20T13:10:38.0076628+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T13:10:48.4976121+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.5s)
+2019-12-20T13:10:48.4976121+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T13:11:16.3334634+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.8s)
+2019-12-20T13:11:16.3339648+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T13:11:24.7783673+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.4s)
+2019-12-20T13:11:24.7783673+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T13:11:27.0575831+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.3s)
+2019-12-20T13:11:27.0585856+05:30:Thread#0:B:When Get current item count from cart
+2019-12-20T13:11:27.0861022+05:30:Thread#0:T:item count..1
+2019-12-20T13:11:27.0861022+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenGetCurrentItemCountFromCart() (0.0s)
+2019-12-20T13:11:27.0861022+05:30:Thread#0:B:When Remove the product from the cart
+2019-12-20T13:11:39.9233505+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveTheProductFromTheCart() (12.8s)
+2019-12-20T13:11:39.9233505+05:30:Thread#0:B:Then Validate cart count after removing a product
+2019-12-20T13:11:39.9624573+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartCountAfterRemovingAProduct() (0.0s)
+2019-12-20T13:11:39.9624573+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T13:11:39.9624573+05:30:Thread#:Scheduler: testitem #44 from normal test queue 
+2019-12-20T13:11:39.9624573+05:30:Thread#0:Scheduler: considering testitem #44 for thread 0
+2019-12-20T13:11:39.9624573+05:30:Thread#0:TestItem#44:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T13:11:39.9624573+05:30:Thread#0:TestItem#44:runsOnOneOtherThreadSpecific:False
+2019-12-20T13:11:39.9624573+05:30:Thread#0:TestItem#44:runsOnOneOtherThreadUnspecific:False
+2019-12-20T13:11:39.9624573+05:30:Thread#0:Scheduler: using testitem #44 for thread 0
+2019-12-20T13:11:39.9629579+05:30:Thread#0:Scheduler: Test #44 is scheduled for thread
+2019-12-20T13:11:39.9629579+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T13:11:40.1789863+05:30:Thread#0: Test #42/0 is finished on thread #0 as Succeeded within 110.3738881 seconds
+2019-12-20T13:11:40.1789863+05:30:Thread#0: Test #44/0 is started on thread #0
+2019-12-20T13:11:43.8881037+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T13:11:48.8561543+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.0s)
+2019-12-20T13:11:48.8561543+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T13:12:07.3264041+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.5s)
+2019-12-20T13:12:07.3274081+05:30:Thread#0:B:And assert KLIC logo on upper left corner of the page
+2019-12-20T13:12:09.4165153+05:30:Thread#0:T:done: SF_DashboardSteps.AssertLogo() (2.1s)
+2019-12-20T13:12:09.4165153+05:30:Thread#0:B:Then assert upper right for shoppingCart, CoFund, Profile icons
+2019-12-20T13:12:09.5113055+05:30:Thread#0:T:done: SF_DashboardSteps.AssertIcons() (0.1s)
+2019-12-20T13:12:09.5113055+05:30:Thread#0:B:When assert the main menu widgets and product search form
+2019-12-20T13:12:09.6799935+05:30:Thread#0:T:done: SF_DashboardSteps.AssertMainMenuWidgets() (0.2s)
+2019-12-20T13:12:09.6809964+05:30:Thread#0:B:When assert home page layer
+2019-12-20T13:12:09.8397756+05:30:Thread#0:T:done: SF_DashboardSteps.AssertHomePageLayer() (0.2s)
+2019-12-20T13:12:09.8402774+05:30:Thread#0:B:When assert the footer sections
+2019-12-20T13:12:19.9156814+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='footer-quad']//h1[contains(text(),'My Tools')]"}
+2019-12-20T13:12:19.9166850+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.88)
+2019-12-20T13:12:19.9166850+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-12-20T13:12:19.9166850+05:30:Thread#0:B:When assert MyTools footer section links
+2019-12-20T13:12:19.9176879+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T13:12:19.9176879+05:30:Thread#0:B:When assert Products footer section links
+2019-12-20T13:12:19.9186919+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T13:12:19.9186919+05:30:Thread#0:B:When assert Compaigns footer section links
+2019-12-20T13:12:19.9196928+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T13:12:19.9196928+05:30:Thread#0:B:When assert Contacts footer section links
+2019-12-20T13:12:19.9206968+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T13:12:19.9206968+05:30:Thread#0:B:Then signout the application
+2019-12-20T13:12:19.9206968+05:30:Thread#0:T:skipped because of previous errors
+2019-12-20T13:12:19.9227014+05:30:Thread#0:TestItem#44:Scheduler: reschedule tests for testitem #44
+2019-12-20T13:12:19.9227014+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T13:12:19.9227014+05:30:Thread#:Scheduler: testitem #45 from normal test queue 
+2019-12-20T13:12:19.9227014+05:30:Thread#0:Scheduler: considering testitem #45 for thread 0
+2019-12-20T13:12:19.9227014+05:30:Thread#0:TestItem#45:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T13:12:19.9227014+05:30:Thread#0:TestItem#45:runsOnOneOtherThreadSpecific:False
+2019-12-20T13:12:19.9227014+05:30:Thread#0:TestItem#45:runsOnOneOtherThreadUnspecific:False
+2019-12-20T13:12:19.9227014+05:30:Thread#0:Scheduler: using testitem #45 for thread 0
+2019-12-20T13:12:19.9237035+05:30:Thread#0:Scheduler: Test #45 is scheduled for thread
+2019-12-20T13:12:19.9237035+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T13:12:20.1051187+05:30:Thread#0: Test #44/0 is finished on thread #0 as Failed within 39.9261324 seconds
+2019-12-20T13:12:20.1051187+05:30:Thread#0: Test #45/0 is started on thread #0
+2019-12-20T13:12:20.1061249+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-20T13:12:23.7078314+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T13:12:28.5584593+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.9s)
+2019-12-20T13:12:28.5584593+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T13:12:47.0064005+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.4s)
+2019-12-20T13:12:47.0064005+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T13:12:53.5947777+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.6s)
+2019-12-20T13:12:53.5947777+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T13:13:00.1887041+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (6.6s)
+2019-12-20T13:13:00.1887041+05:30:Thread#0:B:Then signout the application
+2019-12-20T13:13:10.5118828+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (10.3s)
+2019-12-20T13:13:10.5128857+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T13:13:10.5128857+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-20T13:13:10.5128857+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-20T13:13:10.5128857+05:30:Thread#0:Scheduler: No more tests for thread
+2019-12-20T13:13:10.7178196+05:30:Thread#0: Test #45/0 is finished on thread #0 as Succeeded within 50.6127009 seconds
+2019-12-20T13:13:10.7540466+05:30:Appdomain Disposed
+2019-12-20T13:13:10.7560519+05:30:Trying to cancel thread
+2019-12-20T13:13:10.7560519+05:30:Thread cancelled
+2019-12-20T13:13:10.7620683+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-12-20T13:13:10.7620683+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-20T13:13:10.7620683+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-20T13:13:10.7630715+05:30;Thread#13;Info;test run finished
+2019-12-20T13:13:10.7630715+05:30;Thread#13;Info;publishing test results
+2019-12-20T13:13:10.7901418+05:30;Thread#13;Info;test results published
+2019-12-20T13:13:10.7901418+05:30;Thread#13;Info;generating reports
+2019-12-20T13:13:10.9233418+05:30;Thread#13;Info;Starting external report generation process
+2019-12-20T13:13:13.4647818+05:30;Thread#13;Info;Successfully generated reports.
+2019-12-20T13:13:13.4667872+05:30;Thread#13;Info;Successfully generated reports
+2019-12-20T13:13:13.4758117+05:30:Total: 34
+2019-12-20T13:13:13.4778163+05:30:Succeeded: 24
+2019-12-20T13:13:13.4778163+05:30:Ignored: 0
+2019-12-20T13:13:13.4788207+05:30:Pending: 0
+2019-12-20T13:13:13.4788207+05:30:Skipped: 0
+2019-12-20T13:13:13.4788207+05:30:Failed: 10
+2019-12-20T13:13:13.4888455+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-20T13:13:13.4888455+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-20T120934.html'
+========== End of log file ==========

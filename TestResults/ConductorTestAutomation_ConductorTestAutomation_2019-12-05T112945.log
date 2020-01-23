@@ -1,0 +1,89 @@
+﻿2019-12-05T11:29:45.5981989+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-05T11:29:45.5981989+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-05T11:29:45.5981989+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-05T11:29:45.7267172+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-05T11:29:45.7267172+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-05T11:29:45.7277212+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-05T11:29:45.7467713+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-05T112945.log
+2019-12-05T11:29:45.7538260+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-05T11:29:45.7588867+05:30;Thread#13;Info;Checking license
+2019-12-05T11:29:45.7699120+05:30;Thread#13;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-12-05T11:29:54.7711943+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-05T11:29:54.7832248+05:30;Thread#13;Info;License check completed
+2019-12-05T11:29:54.7842594+05:30;Thread#13;Info;starting test run
+2019-12-05T11:29:54.9494978+05:30;Thread#13;Info;Discovering target: Default
+2019-12-05T11:29:54.9514967+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-05T11:29:55.3765008+05:30:Appdomain Disposed
+2019-12-05T11:29:55.3765008+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-05T11:29:55.3775033+05:30:Test Suite Dump
+2019-12-05T11:29:55.3795117+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-05T11:29:55.3795117+05:30:#1: Default - 
+2019-12-05T11:29:55.3795117+05:30:#2: ConductorPOC - 
+2019-12-05T11:29:55.3795117+05:30:#3: Storefront: Corporate Funding - 
+2019-12-05T11:29:55.4076244+05:30:#9: Manage Funding tab - Check Indicator for User Activity in search result table - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Indicator+for+User+Activity+in+search+result+table
+2019-12-05T11:29:55.4076244+05:30:End: Test Suite Dump
+2019-12-05T11:29:55.4301483+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T11:29:55.4316514+05:30:Thread#:Scheduler: testitem #9 from normal test queue 
+2019-12-05T11:29:55.4316514+05:30:Thread#0:Scheduler: considering testitem #9 for thread 0
+2019-12-05T11:29:55.4346626+05:30:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-05T11:29:55.4346626+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2019-12-05T11:29:55.4346626+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2019-12-05T11:29:55.4346626+05:30:Thread#0:Scheduler: using testitem #9 for thread 0
+2019-12-05T11:29:55.4356655+05:30:Thread#0:Scheduler: Test #9 is scheduled for thread
+2019-12-05T11:29:55.4366680+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-05T11:29:55.4386733+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-05T11:29:55.4406786+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-05T11:29:55.4406786+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-05T11:29:55.4416815+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-05T11:29:56.2952602+05:30:Thread#0: Test #9/0 is started on thread #0
+2019-12-05T11:29:57.0146127+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-05T11:29:57.0749252+05:30:Thread#0:T:-> Using default config
+2019-12-05T11:30:06.3772416+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-05T11:30:13.9103800+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (7.5s)
+2019-12-05T11:30:13.9123336+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-05T11:31:01.9579533+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (48.0s)
+2019-12-05T11:31:01.9579533+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-05T11:31:20.4912522+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (18.5s)
+2019-12-05T11:31:20.4912522+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-05T11:31:31.5903973+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (11.1s)
+2019-12-05T11:31:31.5913994+05:30:Thread#0:B:Then Validate Name search field and label
+2019-12-05T11:31:31.7538373+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.2s)
+2019-12-05T11:31:31.7543380+05:30:Thread#0:B:When Assert column names and tooltips in manage individual funding table
+2019-12-05T11:31:31.9765174+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenAssertColumnNamesAndTooltipMessages() (0.2s)
+2019-12-05T11:31:31.9765174+05:30:Thread#0:B:Then Search for a name Chris in manage individual funding accounts
+2019-12-05T11:31:32.2508707+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Chris") (0.3s)
+2019-12-05T11:31:32.2513728+05:30:Thread#0:B:When Check indicator column for activity of the each user
+2019-12-05T11:31:34.4484428+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenCheckIndicatorColumnForActivityOfTheEachUser() (2.2s)
+2019-12-05T11:31:34.4484428+05:30:Thread#0:B:When Click on the indicator and drilldown to first record of the table
+2019-12-05T11:31:36.6311893+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenClickOnTheIndicatorAndDrilldownToFirstRecordOfTheTable() (2.2s)
+2019-12-05T11:31:36.6317579+05:30:Thread#0:B:Then Validate the row expaned in light blue and its row details wih dark blue border
+2019-12-05T11:31:36.8051660+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheRowExpanedInLightBlueAndItsRowDetailsWihDarkBlueBorder() (0.2s)
+2019-12-05T11:31:36.8051660+05:30:Thread#0:B:Then Validate the Indicator table columns for user activity
+2019-12-05T11:31:37.0304062+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheIndicatorTableColumnsForUserActivity() (0.2s)
+2019-12-05T11:31:37.0402372+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T11:31:37.0402372+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-05T11:31:37.0402372+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-05T11:31:37.0402372+05:30:Thread#0:Scheduler: No more tests for thread
+2019-12-05T11:31:37.2723686+05:30:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 100.9751035 seconds
+2019-12-05T11:31:37.3266915+05:30:Appdomain Disposed
+2019-12-05T11:31:37.3286817+05:30:Trying to cancel thread
+2019-12-05T11:31:37.3286817+05:30:Thread cancelled
+2019-12-05T11:31:37.3367926+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-12-05T11:31:37.3367926+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-05T11:31:37.3367926+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-05T11:31:37.3387088+05:30;Thread#13;Info;test run finished
+2019-12-05T11:31:37.3390867+05:30;Thread#13;Info;publishing test results
+2019-12-05T11:31:37.6374930+05:30;Thread#13;Info;test results published
+2019-12-05T11:31:37.6384954+05:30;Thread#13;Info;generating reports
+2019-12-05T11:31:37.9267349+05:30;Thread#13;Info;Starting external report generation process
+2019-12-05T11:31:42.9209636+05:30;Thread#13;Info;Successfully generated reports.
+2019-12-05T11:31:42.9249671+05:30;Thread#13;Info;Successfully generated reports
+2019-12-05T11:31:42.9410143+05:30:Total: 1
+2019-12-05T11:31:42.9440262+05:30:Succeeded: 1
+2019-12-05T11:31:42.9448135+05:30:Ignored: 0
+2019-12-05T11:31:42.9456461+05:30:Pending: 0
+2019-12-05T11:31:42.9456461+05:30:Skipped: 0
+2019-12-05T11:31:42.9460282+05:30:Failed: 0
+2019-12-05T11:31:42.9620716+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-05T11:31:42.9620716+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-05T112945.html'
+========== End of log file ==========

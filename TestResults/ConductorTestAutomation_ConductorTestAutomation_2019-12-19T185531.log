@@ -1,0 +1,10 @@
+﻿2019-12-19T18:55:31.3440840+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-19T18:55:31.3440840+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-19T18:55:31.3440840+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-19T18:55:31.4728481+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T18:55:31.4728481+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-19T18:55:31.4738192+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-19T18:55:31.5169669+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-19T185531.log
+2019-12-19T18:55:31.5249554+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-19T18:55:31.5339871+05:30;Thread#13;Info;Checking license
+2019-12-19T18:55:31.5505286+05:30;Thread#13;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)

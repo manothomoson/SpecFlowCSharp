@@ -1,0 +1,86 @@
+﻿2019-12-19T19:14:42.4711471+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-19T19:14:42.4711471+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-19T19:14:42.4711471+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-19T19:14:42.6052253+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T19:14:42.6062286+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-19T19:14:42.6062286+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-19T19:14:42.6343040+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-19T191442.log
+2019-12-19T19:14:42.6453324+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-19T19:14:42.6541862+05:30;Thread#13;Info;Checking license
+2019-12-19T19:14:42.6665886+05:30;Thread#13;Info;Evaluation mode: test execution starts in 6 seconds... (this delay is removed in the registered version)
+2019-12-19T19:14:48.6678196+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-19T19:14:48.6778474+05:30;Thread#13;Info;License check completed
+2019-12-19T19:14:48.6778474+05:30;Thread#13;Info;starting test run
+2019-12-19T19:14:48.6954003+05:30;Thread#13;Info;Discovering target: Default
+2019-12-19T19:14:48.6984142+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T19:14:49.0834697+05:30:Appdomain Disposed
+2019-12-19T19:14:49.0834697+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T19:14:49.0839707+05:30:Test Suite Dump
+2019-12-19T19:14:49.0854746+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-19T19:14:49.0854746+05:30:#1: Default - 
+2019-12-19T19:14:49.0854746+05:30:#2: ConductorPOC - 
+2019-12-19T19:14:49.0854746+05:30:#3: Storefront: Corporate Funding - 
+2019-12-19T19:14:49.1165654+05:30:#6: Corporate Funding - Validate default view and Total funds Allocated to users - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validate+default+view+and+Total+funds+Allocated+to+users
+2019-12-19T19:14:49.1165654+05:30:End: Test Suite Dump
+2019-12-19T19:14:49.1378723+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-19T19:14:49.1399135+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-12-19T19:14:49.1399135+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-12-19T19:14:49.1429172+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-19T19:14:49.1429172+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-12-19T19:14:49.1429172+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-12-19T19:14:49.1429172+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-12-19T19:14:49.1438883+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-12-19T19:14:49.1448964+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-19T19:14:49.1479394+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-19T19:14:49.1503993+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-19T19:14:49.1503993+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-19T19:14:49.1524046+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-19T19:14:49.3862650+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-12-19T19:14:49.6741576+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-19T19:14:49.6781343+05:30:Thread#0:T:-> Using default config
+2019-12-19T19:14:54.5780376+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-19T19:15:00.7142371+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (6.1s)
+2019-12-19T19:15:00.7152433+05:30:Thread#0:B:When I have logged in with NonFundingUser
+2019-12-19T19:15:16.9714554+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("NonFundingUser") (16.3s)
+2019-12-19T19:15:16.9714554+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-19T19:15:26.4279900+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (9.5s)
+2019-12-19T19:15:26.4279900+05:30:Thread#0:B:Then Validate the new tabs in CoFunding page
+2019-12-19T19:15:36.7491241+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='row hidden-xs hidden-sm']//a[contains(@href,'CorporateFundHistory')]"}
+2019-12-19T19:15:36.7491241+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.88)
+2019-12-19T19:15:36.7501280+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-12-19T19:15:36.7521319+05:30:Thread#0:B:When Validate MyFunding Account tab as default view for Non Fund Administrator
+2019-12-19T19:15:36.7521319+05:30:Thread#0:T:skipped because of previous errors
+2019-12-19T19:15:36.7521319+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-19T19:15:36.7531347+05:30:Thread#0:T:skipped because of previous errors
+2019-12-19T19:15:36.7531347+05:30:Thread#0:B:Then Validate the sections in manage funding tab
+2019-12-19T19:15:36.7531347+05:30:Thread#0:T:skipped because of previous errors
+2019-12-19T19:15:36.7541368+05:30:Thread#0:B:When Validate Total funds Allocated to users in CoFunding Balance section
+2019-12-19T19:15:36.7541368+05:30:Thread#0:T:skipped because of previous errors
+2019-12-19T19:15:37.0617746+05:30:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2019-12-19T19:15:37.0637807+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-19T19:15:37.0637807+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-19T19:15:37.0637807+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-19T19:15:37.0637807+05:30:Thread#0:Scheduler: No more tests for thread
+2019-12-19T19:15:37.4579816+05:30:Thread#0: Test #6/0 is finished on thread #0 as Failed within 48.0697558 seconds
+2019-12-19T19:15:37.5244189+05:30:Appdomain Disposed
+2019-12-19T19:15:37.5264291+05:30:Trying to cancel thread
+2019-12-19T19:15:37.5264291+05:30:Thread cancelled
+2019-12-19T19:15:37.5339834+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-12-19T19:15:37.5339834+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-19T19:15:37.5339834+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-19T19:15:37.5350236+05:30;Thread#13;Info;test run finished
+2019-12-19T19:15:37.5350236+05:30;Thread#13;Info;publishing test results
+2019-12-19T19:15:37.6131757+05:30;Thread#13;Info;test results published
+2019-12-19T19:15:37.6141789+05:30;Thread#13;Info;generating reports
+2019-12-19T19:15:37.7719394+05:30;Thread#13;Info;Starting external report generation process
+2019-12-19T19:15:41.7456126+05:30;Thread#13;Info;Successfully generated reports.
+2019-12-19T19:15:41.7476190+05:30;Thread#13;Info;Successfully generated reports
+2019-12-19T19:15:41.7576483+05:30:Total: 1
+2019-12-19T19:15:41.7596544+05:30:Succeeded: 0
+2019-12-19T19:15:41.7606576+05:30:Ignored: 0
+2019-12-19T19:15:41.7606576+05:30:Pending: 0
+2019-12-19T19:15:41.7606576+05:30:Skipped: 0
+2019-12-19T19:15:41.7616654+05:30:Failed: 1
+2019-12-19T19:15:41.7941336+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-19T19:15:41.7941336+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-19T191442.html'
+========== End of log file ==========

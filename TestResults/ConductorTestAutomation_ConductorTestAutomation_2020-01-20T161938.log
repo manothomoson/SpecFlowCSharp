@@ -1,0 +1,572 @@
+﻿2020-01-20T16:19:38.6935330+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-01-20T16:19:38.6935330+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2020-01-20T16:19:38.6935330+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-01-20T16:19:38.8670052+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2020-01-20T16:19:38.8680088+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2020-01-20T16:19:38.8680088+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2020-01-20T16:19:38.8990912+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2020-01-20T161938.log
+2020-01-20T16:19:38.9131308+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-01-20T16:19:38.9221580+05:30;Thread#13;Info;Checking license
+2020-01-20T16:19:38.9392031+05:30;Thread#13;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2020-01-20T16:19:46.9405552+05:30;Thread#13;Info;Evaluation delay finished.
+2020-01-20T16:19:46.9480777+05:30;Thread#13;Info;License check completed
+2020-01-20T16:19:46.9480777+05:30;Thread#13;Info;starting test run
+2020-01-20T16:19:46.9831708+05:30;Thread#13;Info;Discovering target: Default
+2020-01-20T16:19:46.9831708+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2020-01-20T16:19:47.5683484+05:30:Appdomain Disposed
+2020-01-20T16:19:47.5683484+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2020-01-20T16:19:47.5693513+05:30:Test Suite Dump
+2020-01-20T16:19:47.5713559+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2020-01-20T16:19:47.5713559+05:30:#1: Default - 
+2020-01-20T16:19:47.5713559+05:30:#2: ConductorPOC - 
+2020-01-20T16:19:47.5713559+05:30:#3: Storefront: Corporate Funding - 
+2020-01-20T16:19:47.5713559+05:30:#12: Product Catalog - Search a product, Validate filters and Sort - 
+2020-01-20T16:19:47.5713559+05:30:#18: Administration - Create Product - 
+2020-01-20T16:19:47.5713559+05:30:#21: Product Customization - verify customization fields, preview, approve and Continue - 
+2020-01-20T16:19:47.5713559+05:30:#23: StoreFront - Product Delivery Options - 
+2020-01-20T16:19:47.5713559+05:30:#27: StoreFront - Order Workflow - Order Confirmation - 
+2020-01-20T16:19:47.5713559+05:30:#29: StoreFront - Product Payment Page and Options - 
+2020-01-20T16:19:47.5713559+05:30:#37: StoreFront - Product Shopping Cart - 
+2020-01-20T16:19:47.5713559+05:30:#43: StoreFront Dashboard - 
+2020-01-20T16:19:47.6184813+05:30:#4: Corporate Funding - Check the new tabs - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Check+the+new+tabs
+2020-01-20T16:19:47.6184813+05:30:#5: Corporate Funding - Validating the default view for Fund Administrator - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validating+the+default+view+for+Fund+Administrator
+2020-01-20T16:19:47.6184813+05:30:#6: Corporate Funding - Validate default view and Total funds Allocated to users - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validate+default+view+and+Total+funds+Allocated+to+users
+2020-01-20T16:19:47.6184813+05:30:#7: Corporate Funding - Validate Add, reset and transfer fund buttons - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validate+Add%2c+reset+and+transfer+fund+buttons
+2020-01-20T16:19:47.6184813+05:30:#8: Manage Funding tab - Check Search feature in Manage Individual Funding Account - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Search+feature+in+Manage+Individual+Funding+Account
+2020-01-20T16:19:47.6184813+05:30:#9: Manage Funding tab - Check Indicator for User Activity in search result table - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Indicator+for+User+Activity+in+search+result+table
+2020-01-20T16:19:47.6184813+05:30:#10: Manage Funding tab - Check Add action and add balance to user - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Add+action+and+add+balance+to+user
+2020-01-20T16:19:47.6184813+05:30:#11: Manage Funding tab - Check Reset action and reset balance to user - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Reset+action+and+reset+balance+to+user
+2020-01-20T16:19:47.6184813+05:30:#13: Product catalog - Validate filter and Sort by Name: A - Z - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Name%3a+A+-+Z
+2020-01-20T16:19:47.6184813+05:30:#14: Product catalog - Validate filter and Sort by Name: Z - A - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Name%3a+Z+-+A
+2020-01-20T16:19:47.6184813+05:30:#15: Product catalog - Validate filter and  Sort by Price: Low - High - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and++Sort+by+Price%3a+Low+-+High
+2020-01-20T16:19:47.6184813+05:30:#16: Product catalog - Validate filter and Sort by Price: High - Low - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Price%3a+High+-+Low
+2020-01-20T16:19:47.6184813+05:30:#17: Product catalog - Validate Grid, List view and product details - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+Grid%2c+List+view+and+product+details
+2020-01-20T16:19:47.6184813+05:30:#19: Create a product - TestAssembly:ConductorPOC/Feature:Administration+-+Create+Product/Scenario:Create+a+product
+2020-01-20T16:19:47.6184813+05:30:#20: Refresh and index a created product - TestAssembly:ConductorPOC/Feature:Administration+-+Create+Product/Scenario:Refresh+and+index+a+created+product
+2020-01-20T16:19:47.6184813+05:30:#22: Product Customization - Print Product verify customization fields - TestAssembly:ConductorPOC/Feature:Product+Customization+-+verify+customization+fields%2c+preview%2c+approve+and+Continue/Scenario:Product+Customization+-+Print+Product+verify+customization+fields
+2020-01-20T16:19:47.6184813+05:30:#24: Order Workflow - Delivery Options (Shipping to an Address) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Shipping+to+an+Address)
+2020-01-20T16:19:47.6184813+05:30:#25: Order Workflow - Delivery Options (Mail to Recipient List) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Mail+to+Recipient+List)
+2020-01-20T16:19:47.6184813+05:30:#26: Order Workflow - Delivery Options (Download) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Download)
+2020-01-20T16:19:47.6184813+05:30:#28: Order Workflow -  Order Confirmation, Order Detail - TestAssembly:ConductorPOC/Feature:StoreFront+-+Order+Workflow+-+Order+Confirmation/Scenario:Order+Workflow+-++Order+Confirmation%2c+Order+Detail
+2020-01-20T16:19:47.6184813+05:30:#30: Order Workflow -  Payment - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment
+2020-01-20T16:19:47.6184813+05:30:#31: Order Workflow -  Payment(Credit card - OneTime Payment) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Credit+card+-+OneTime+Payment)
+2020-01-20T16:19:47.6184813+05:30:#32: Order Workflow -  Payment(Existing Credit card Payment and billing address) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Existing+Credit+card+Payment+and+billing+address)
+2020-01-20T16:19:47.6184813+05:30:#33: Order Workflow -  Payment(Invoice) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Invoice)
+2020-01-20T16:19:47.6184813+05:30:#34: Order Workflow -  Payment(CoFunding) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding)
+2020-01-20T16:19:47.6184813+05:30:#35: Order Workflow -  Payment(CoFunding with existing credit card and existing billing info) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding+with+existing+credit+card+and+existing+billing+info)
+2020-01-20T16:19:47.6184813+05:30:#36: Order Workflow -  Payment(CoFunding with Invoice) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding+with+Invoice)
+2020-01-20T16:19:47.6184813+05:30:#38: Order Workflow -  Product Shopping Cart - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart
+2020-01-20T16:19:47.6184813+05:30:#39: Order Workflow -  Product Shopping Cart (Edit Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Edit+Button)
+2020-01-20T16:19:47.6184813+05:30:#40: Order Workflow -  Product Shopping Cart (Copy Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Copy+Button)
+2020-01-20T16:19:47.6184813+05:30:#41: Order Workflow -  Product Shopping Cart (Save for Later Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Save+for+Later+Button)
+2020-01-20T16:19:47.6184813+05:30:#42: Order Workflow -  Product Shopping Cart (Remove Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Remove+Button)
+2020-01-20T16:19:47.6184813+05:30:#44: Login and validate dashboard page - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+validate+dashboard+page
+2020-01-20T16:19:47.6184813+05:30:#45: Login and search a product - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+search+a+product
+2020-01-20T16:19:47.6184813+05:30:End: Test Suite Dump
+2020-01-20T16:19:47.6535812+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:19:47.6575915+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-01-20T16:19:47.6585939+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-01-20T16:19:47.6666149+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:19:47.6666149+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:19:47.6676177+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:19:47.6676177+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-01-20T16:19:47.6736349+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-01-20T16:19:47.6856665+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:19:47.6916825+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-01-20T16:19:47.6956927+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-01-20T16:19:47.6977098+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-01-20T16:19:47.7027116+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-01-20T16:19:48.1980605+05:30:Thread#0: Test #4/0 is started on thread #0
+2020-01-20T16:19:48.7004299+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-01-20T16:19:48.7370318+05:30:Thread#0:T:-> Using default config
+2020-01-20T16:19:56.0441300+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:20:04.0542435+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (8.0s)
+2020-01-20T16:20:04.0562489+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2020-01-20T16:20:20.1931758+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (16.1s)
+2020-01-20T16:20:20.1931758+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2020-01-20T16:20:41.8599338+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (21.7s)
+2020-01-20T16:20:41.8609371+05:30:Thread#0:B:Then Validate the new tabs in CoFunding page
+2020-01-20T16:20:41.9787539+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheNewTabsInCoFundingPage() (0.1s)
+2020-01-20T16:20:41.9917880+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:20:41.9917880+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-01-20T16:20:41.9917880+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-01-20T16:20:41.9917880+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:20:41.9917880+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:20:41.9917880+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:20:41.9917880+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-01-20T16:20:41.9917880+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-01-20T16:20:41.9917880+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:20:42.4428505+05:30:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 54.243786 seconds
+2020-01-20T16:20:42.4448543+05:30:Thread#0: Test #5/0 is started on thread #0
+2020-01-20T16:20:42.4448543+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:20:46.6695487+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:20:50.6225399+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.0s)
+2020-01-20T16:20:50.6225399+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2020-01-20T16:21:05.2079962+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (14.6s)
+2020-01-20T16:21:05.2089994+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2020-01-20T16:21:13.0085733+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (7.8s)
+2020-01-20T16:21:13.0085733+05:30:Thread#0:B:Then Validate the new tabs in CoFunding page
+2020-01-20T16:21:13.1229802+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheNewTabsInCoFundingPage() (0.1s)
+2020-01-20T16:21:13.1239827+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:21:13.1239827+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2020-01-20T16:21:13.1239827+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-01-20T16:21:13.1239827+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:21:13.1239827+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:21:13.1239827+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:21:13.1239827+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-01-20T16:21:13.1239827+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-01-20T16:21:13.1239827+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:21:13.6903424+05:30:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 31.2454881 seconds
+2020-01-20T16:21:13.6913460+05:30:Thread#0: Test #6/0 is started on thread #0
+2020-01-20T16:21:13.6913460+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:21:17.7504970+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:21:21.6758528+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (3.9s)
+2020-01-20T16:21:21.6758528+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2020-01-20T16:21:36.4882866+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (14.8s)
+2020-01-20T16:21:36.4882866+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2020-01-20T16:21:44.1856249+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (7.7s)
+2020-01-20T16:21:44.1856249+05:30:Thread#0:B:When Validate MyFunding Account tab as default view for Non Fund Administrator
+2020-01-20T16:21:56.5415787+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='row hidden-xs hidden-sm']//a[contains(@href,'AccountSummary')]/parent::li[contains(@class,'active')]"}
+2020-01-20T16:21:56.5415787+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.130)
+2020-01-20T16:21:56.5415787+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2020-01-20T16:21:56.5425820+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2020-01-20T16:21:56.5425820+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:21:56.5425820+05:30:Thread#0:B:Then Validate the sections in manage funding tab
+2020-01-20T16:21:56.5435852+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:21:56.5435852+05:30:Thread#0:B:When Validate Total funds Allocated to users in CoFunding Balance section
+2020-01-20T16:21:56.5435852+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:21:56.6604169+05:30:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2020-01-20T16:21:56.6614198+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:21:56.6614198+05:30:Thread#:Scheduler: testitem #7 from normal test queue 
+2020-01-20T16:21:56.6614198+05:30:Thread#0:Scheduler: considering testitem #7 for thread 0
+2020-01-20T16:21:56.6614198+05:30:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:21:56.6614198+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:21:56.6614198+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:21:56.6614198+05:30:Thread#0:Scheduler: using testitem #7 for thread 0
+2020-01-20T16:21:56.6614198+05:30:Thread#0:Scheduler: Test #7 is scheduled for thread
+2020-01-20T16:21:56.6614198+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:21:57.0549806+05:30:Thread#0: Test #6/0 is finished on thread #0 as Failed within 43.3636346 seconds
+2020-01-20T16:21:57.0549806+05:30:Thread#0: Test #7/0 is started on thread #0
+2020-01-20T16:21:57.0549806+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:22:01.2011609+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:22:05.0252718+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (3.8s)
+2020-01-20T16:22:05.0252718+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:22:14.5614516+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (9.5s)
+2020-01-20T16:22:14.5619530+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2020-01-20T16:22:26.6423459+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"id","selector":"linkCofunding"}
+2020-01-20T16:22:26.6423459+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.130)
+2020-01-20T16:22:26.6423459+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2020-01-20T16:22:26.6428470+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2020-01-20T16:22:26.6428470+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:22:26.6428470+05:30:Thread#0:B:Then Validate AddMoreFund, ResetFund and TransferFund buttons
+2020-01-20T16:22:26.6428470+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:22:26.6438491+05:30:Thread#0:TestItem#7:Scheduler: reschedule tests for testitem #7
+2020-01-20T16:22:26.6438491+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:22:26.6438491+05:30:Thread#:Scheduler: testitem #8 from normal test queue 
+2020-01-20T16:22:26.6438491+05:30:Thread#0:Scheduler: considering testitem #8 for thread 0
+2020-01-20T16:22:26.6438491+05:30:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:22:26.6438491+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:22:26.6438491+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:22:26.6438491+05:30:Thread#0:Scheduler: using testitem #8 for thread 0
+2020-01-20T16:22:26.6438491+05:30:Thread#0:Scheduler: Test #8 is scheduled for thread
+2020-01-20T16:22:26.6438491+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:22:27.0379151+05:30:Thread#0: Test #7/0 is finished on thread #0 as Failed within 29.9829345 seconds
+2020-01-20T16:22:27.0379151+05:30:Thread#0: Test #8/0 is started on thread #0
+2020-01-20T16:22:27.0384173+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:22:31.1305544+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:22:35.3387504+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.2s)
+2020-01-20T16:22:35.3392515+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2020-01-20T16:22:54.4175575+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (19.1s)
+2020-01-20T16:22:54.4175575+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2020-01-20T16:23:02.2325540+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (7.8s)
+2020-01-20T16:23:02.2325540+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2020-01-20T16:23:07.8834216+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (5.6s)
+2020-01-20T16:23:07.8834216+05:30:Thread#0:B:Then Validate Name search field and label
+2020-01-20T16:23:08.0152825+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.1s)
+2020-01-20T16:23:08.0152825+05:30:Thread#0:B:When Assert column names and tooltips in manage individual funding table
+2020-01-20T16:23:08.3728403+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenAssertColumnNamesAndTooltipMessages() (0.4s)
+2020-01-20T16:23:08.3728403+05:30:Thread#0:B:Then Search for a name Mano in manage individual funding accounts
+2020-01-20T16:23:08.6325703+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano") (0.3s)
+2020-01-20T16:23:08.6335736+05:30:Thread#0:B:Then Assert search results matching for Mano
+2020-01-20T16:23:10.7486756+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenAssertSearchResultsMatching("Mano") (2.1s)
+2020-01-20T16:23:10.7491747+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:23:10.7491747+05:30:Thread#:Scheduler: testitem #9 from normal test queue 
+2020-01-20T16:23:10.7491747+05:30:Thread#0:Scheduler: considering testitem #9 for thread 0
+2020-01-20T16:23:10.7491747+05:30:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:23:10.7491747+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:23:10.7491747+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:23:10.7491747+05:30:Thread#0:Scheduler: using testitem #9 for thread 0
+2020-01-20T16:23:10.7491747+05:30:Thread#0:Scheduler: Test #9 is scheduled for thread
+2020-01-20T16:23:10.7491747+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:23:11.0693902+05:30:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 44.0314751 seconds
+2020-01-20T16:23:11.0693902+05:30:Thread#0: Test #9/0 is started on thread #0
+2020-01-20T16:23:11.0693902+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:23:14.9526910+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:23:19.0026506+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.0s)
+2020-01-20T16:23:19.0026506+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2020-01-20T16:23:33.1340384+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (14.1s)
+2020-01-20T16:23:33.1340384+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2020-01-20T16:23:40.7397303+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (7.6s)
+2020-01-20T16:23:40.7397303+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2020-01-20T16:23:46.3494216+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (5.6s)
+2020-01-20T16:23:46.3494216+05:30:Thread#0:B:Then Validate Name search field and label
+2020-01-20T16:23:46.4822907+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.1s)
+2020-01-20T16:23:46.4822907+05:30:Thread#0:B:When Assert column names and tooltips in manage individual funding table
+2020-01-20T16:23:46.7981904+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenAssertColumnNamesAndTooltipMessages() (0.3s)
+2020-01-20T16:23:46.7981904+05:30:Thread#0:B:Then Validate Username AvailableBalance and CurrentBalance columns and hovers
+2020-01-20T16:23:49.3985618+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateUsernameAvailableBalanceAndCurrentBalanceColumnsAndHovers() (2.6s)
+2020-01-20T16:23:49.3985618+05:30:Thread#0:B:Then Search for a name Mano in manage individual funding accounts
+2020-01-20T16:23:49.5964212+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano") (0.2s)
+2020-01-20T16:23:49.5964212+05:30:Thread#0:B:When Check indicator column for activity of the each user
+2020-01-20T16:23:51.6748782+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenCheckIndicatorColumnForActivityOfTheEachUser() (2.1s)
+2020-01-20T16:23:51.6758807+05:30:Thread#0:B:When Click on the indicator and drilldown to first record of the table
+2020-01-20T16:23:53.8259822+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenClickOnTheIndicatorAndDrilldownToFirstRecordOfTheTable() (2.1s)
+2020-01-20T16:23:53.8259822+05:30:Thread#0:B:Then Validate the row expaned in light blue and its row details wih dark blue border
+2020-01-20T16:23:53.9232748+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheRowExpanedInLightBlueAndItsRowDetailsWihDarkBlueBorder() (0.1s)
+2020-01-20T16:23:53.9232748+05:30:Thread#0:B:Then Validate the Indicator table columns for user activity
+2020-01-20T16:23:54.1638653+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheIndicatorTableColumnsForUserActivity() (0.2s)
+2020-01-20T16:23:54.1638653+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:23:54.1638653+05:30:Thread#:Scheduler: testitem #10 from normal test queue 
+2020-01-20T16:23:54.1638653+05:30:Thread#0:Scheduler: considering testitem #10 for thread 0
+2020-01-20T16:23:54.1638653+05:30:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:23:54.1638653+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:23:54.1638653+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:23:54.1638653+05:30:Thread#0:Scheduler: using testitem #10 for thread 0
+2020-01-20T16:23:54.1638653+05:30:Thread#0:Scheduler: Test #10 is scheduled for thread
+2020-01-20T16:23:54.1638653+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:23:54.4406133+05:30:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 43.3712231 seconds
+2020-01-20T16:23:54.4406133+05:30:Thread#0: Test #10/0 is started on thread #0
+2020-01-20T16:23:54.4406133+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:23:58.3789582+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:24:02.3027723+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (3.9s)
+2020-01-20T16:24:02.3027723+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2020-01-20T16:24:16.8561308+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (14.6s)
+2020-01-20T16:24:16.8561308+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2020-01-20T16:24:24.3026077+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (7.4s)
+2020-01-20T16:24:24.3026077+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2020-01-20T16:24:30.0749459+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (5.8s)
+2020-01-20T16:24:30.0749459+05:30:Thread#0:B:Then Validate Name search field and label
+2020-01-20T16:24:30.2469146+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.2s)
+2020-01-20T16:24:30.2474160+05:30:Thread#0:B:Then Search for a name Mano Thomson in manage individual funding accounts
+2020-01-20T16:24:30.6685575+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano Thomson") (0.4s)
+2020-01-20T16:24:30.6690597+05:30:Thread#0:B:Then Validate Add and Reset links available
+2020-01-20T16:24:31.3850950+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateAddAndResetLinksAvailable() (0.7s)
+2020-01-20T16:24:31.3850950+05:30:Thread#0:B:When Add balance 10 to first user record and assert
+2020-01-20T16:24:36.8875108+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenAddBalanceToFirstUserRecord("10") (5.5s)
+2020-01-20T16:24:36.8875108+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:24:36.8875108+05:30:Thread#:Scheduler: testitem #11 from normal test queue 
+2020-01-20T16:24:36.8875108+05:30:Thread#0:Scheduler: considering testitem #11 for thread 0
+2020-01-20T16:24:36.8875108+05:30:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:24:36.8875108+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:24:36.8875108+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:24:36.8875108+05:30:Thread#0:Scheduler: using testitem #11 for thread 0
+2020-01-20T16:24:36.8875108+05:30:Thread#0:Scheduler: Test #11 is scheduled for thread
+2020-01-20T16:24:36.8875108+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:24:37.1523106+05:30:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 42.7116973 seconds
+2020-01-20T16:24:37.1533131+05:30:Thread#0: Test #11/0 is started on thread #0
+2020-01-20T16:24:37.1533131+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:24:41.0996276+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:24:44.8849119+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (3.8s)
+2020-01-20T16:24:44.8854130+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2020-01-20T16:24:58.9070615+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (14.0s)
+2020-01-20T16:24:58.9075630+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2020-01-20T16:25:11.6352636+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (12.7s)
+2020-01-20T16:25:11.6352636+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2020-01-20T16:25:17.3400618+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (5.7s)
+2020-01-20T16:25:17.3410646+05:30:Thread#0:B:Then Validate Name search field and label
+2020-01-20T16:25:17.4994966+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.2s)
+2020-01-20T16:25:17.4994966+05:30:Thread#0:B:Then Search for a name Mano Thomson in manage individual funding accounts
+2020-01-20T16:25:17.9522319+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano Thomson") (0.5s)
+2020-01-20T16:25:17.9522319+05:30:Thread#0:B:Then Validate Add and Reset links available
+2020-01-20T16:25:18.5687336+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateAddAndResetLinksAvailable() (0.6s)
+2020-01-20T16:25:18.5687336+05:30:Thread#0:B:When Reset balance 5 to first user record and assert
+2020-01-20T16:25:23.4590219+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenResetBalanceToFirstUserRecordAndAssert("5") (4.9s)
+2020-01-20T16:25:23.4590219+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:25:23.4600259+05:30:Thread#:Scheduler: testitem #13 from normal test queue 
+2020-01-20T16:25:23.4600259+05:30:Thread#0:Scheduler: considering testitem #13 for thread 0
+2020-01-20T16:25:23.4600259+05:30:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:25:23.4600259+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:25:23.4600259+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:25:23.4600259+05:30:Thread#0:Scheduler: using testitem #13 for thread 0
+2020-01-20T16:25:23.4600259+05:30:Thread#0:Scheduler: Test #13 is scheduled for thread
+2020-01-20T16:25:23.4600259+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:25:23.7553248+05:30:Thread#0: Test #11/0 is finished on thread #0 as Succeeded within 46.6020117 seconds
+2020-01-20T16:25:23.7563273+05:30:Thread#0: Test #13/0 is started on thread #0
+2020-01-20T16:25:27.7189464+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:25:31.7661085+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.0s)
+2020-01-20T16:25:31.7666095+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:25:41.4975804+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (9.7s)
+2020-01-20T16:25:41.4975804+05:30:Thread#0:B:When navigate to products menu
+2020-01-20T16:26:44.3173371+05:30:Thread#0:T:error: Timed out after 60 seconds
+2020-01-20T16:26:44.3183407+05:30:Thread#0:B:Then Check Filter By catagories
+2020-01-20T16:26:44.3183407+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:26:44.3183407+05:30:Thread#0:B:When Select the filter from catagory Email
+2020-01-20T16:26:44.3183407+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:26:44.3183407+05:30:Thread#0:B:When Sort the products by Name: A - Z
+2020-01-20T16:26:44.3193435+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:26:44.3193435+05:30:Thread#0:B:Then Assert the products sorted in Name: A - Z
+2020-01-20T16:26:44.3193435+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:26:44.3313752+05:30:Thread#0:TestItem#13:Scheduler: reschedule tests for testitem #13
+2020-01-20T16:26:44.3313752+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:26:44.3313752+05:30:Thread#:Scheduler: testitem #14 from normal test queue 
+2020-01-20T16:26:44.3313752+05:30:Thread#0:Scheduler: considering testitem #14 for thread 0
+2020-01-20T16:26:44.3313752+05:30:Thread#0:TestItem#14:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:26:44.3313752+05:30:Thread#0:TestItem#14:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:26:44.3313752+05:30:Thread#0:TestItem#14:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:26:44.3313752+05:30:Thread#0:Scheduler: using testitem #14 for thread 0
+2020-01-20T16:26:44.3313752+05:30:Thread#0:Scheduler: Test #14 is scheduled for thread
+2020-01-20T16:26:44.3313752+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:26:44.5782361+05:30:Thread#0: Test #13/0 is finished on thread #0 as Failed within 80.8219088 seconds
+2020-01-20T16:26:44.5782361+05:30:Thread#0: Test #14/0 is started on thread #0
+2020-01-20T16:26:44.5782361+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:26:48.5317046+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:26:52.7138914+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.2s)
+2020-01-20T16:26:52.7138914+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:27:01.9031052+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (9.2s)
+2020-01-20T16:27:01.9031052+05:30:Thread#0:B:When navigate to products menu
+2020-01-20T16:28:04.5862469+05:30:Thread#0:T:error: Timed out after 60 seconds
+2020-01-20T16:28:04.5862469+05:30:Thread#0:B:Then Check Filter By catagories
+2020-01-20T16:28:04.5867491+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:28:04.5867491+05:30:Thread#0:B:When Select the filter from catagory Email
+2020-01-20T16:28:04.5867491+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:28:04.5872501+05:30:Thread#0:B:When Sort the products by Name: Z - A
+2020-01-20T16:28:04.5872501+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:28:04.5872501+05:30:Thread#0:B:Then Assert the products sorted in Name: Z - A
+2020-01-20T16:28:04.5877508+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:28:04.5902579+05:30:Thread#0:TestItem#14:Scheduler: reschedule tests for testitem #14
+2020-01-20T16:28:04.5902579+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:28:04.5902579+05:30:Thread#:Scheduler: testitem #15 from normal test queue 
+2020-01-20T16:28:04.5902579+05:30:Thread#0:Scheduler: considering testitem #15 for thread 0
+2020-01-20T16:28:04.5902579+05:30:Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:28:04.5902579+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:28:04.5902579+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:28:04.5902579+05:30:Thread#0:Scheduler: using testitem #15 for thread 0
+2020-01-20T16:28:04.5902579+05:30:Thread#0:Scheduler: Test #15 is scheduled for thread
+2020-01-20T16:28:04.5902579+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:28:04.8444712+05:30:Thread#0: Test #14/0 is finished on thread #0 as Failed within 80.2662351 seconds
+2020-01-20T16:28:04.8444712+05:30:Thread#0: Test #15/0 is started on thread #0
+2020-01-20T16:28:04.8444712+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:28:08.7816818+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:28:13.2746388+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.5s)
+2020-01-20T16:28:13.2746388+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:28:22.4668163+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (9.2s)
+2020-01-20T16:28:22.4668163+05:30:Thread#0:B:When navigate to products menu
+2020-01-20T16:28:35.0458699+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2020-01-20T16:28:35.0458699+05:30:Thread#0:B:Then Check Filter By catagories
+2020-01-20T16:28:35.0468701+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:28:35.0468701+05:30:Thread#0:B:When Select the filter from catagory Email
+2020-01-20T16:28:35.0468701+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:28:35.0468701+05:30:Thread#0:B:When Sort the products by Price: Low - High
+2020-01-20T16:28:35.0468701+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:28:35.0468701+05:30:Thread#0:B:Then Assert the products sorted in Price: Low - High
+2020-01-20T16:28:35.0468701+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:28:35.0478730+05:30:Thread#0:TestItem#15:Scheduler: reschedule tests for testitem #15
+2020-01-20T16:28:35.0478730+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:28:35.0478730+05:30:Thread#:Scheduler: testitem #16 from normal test queue 
+2020-01-20T16:28:35.0478730+05:30:Thread#0:Scheduler: considering testitem #16 for thread 0
+2020-01-20T16:28:35.0478730+05:30:Thread#0:TestItem#16:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:28:35.0478730+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:28:35.0478730+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:28:35.0478730+05:30:Thread#0:Scheduler: using testitem #16 for thread 0
+2020-01-20T16:28:35.0478730+05:30:Thread#0:Scheduler: Test #16 is scheduled for thread
+2020-01-20T16:28:35.0478730+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:28:35.2424278+05:30:Thread#0: Test #15/0 is finished on thread #0 as Failed within 30.396953 seconds
+2020-01-20T16:28:35.2424278+05:30:Thread#0: Test #16/0 is started on thread #0
+2020-01-20T16:28:35.2424278+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:28:39.1984276+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:28:43.0258136+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (3.8s)
+2020-01-20T16:28:43.0258136+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:28:52.2541445+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (9.2s)
+2020-01-20T16:28:52.2541445+05:30:Thread#0:B:When navigate to products menu
+2020-01-20T16:29:54.9748531+05:30:Thread#0:T:error: Timed out after 60 seconds
+2020-01-20T16:29:54.9748531+05:30:Thread#0:B:Then Check Filter By catagories
+2020-01-20T16:29:54.9758529+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:29:54.9758529+05:30:Thread#0:B:When Select the filter from catagory Email
+2020-01-20T16:29:54.9758529+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:29:54.9758529+05:30:Thread#0:B:When Sort the products by Price: High - Low
+2020-01-20T16:29:54.9758529+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:29:54.9768565+05:30:Thread#0:B:Then Assert the products sorted in Price: High - Low
+2020-01-20T16:29:54.9768565+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:29:54.9778598+05:30:Thread#0:TestItem#16:Scheduler: reschedule tests for testitem #16
+2020-01-20T16:29:54.9778598+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:29:54.9778598+05:30:Thread#:Scheduler: testitem #17 from normal test queue 
+2020-01-20T16:29:54.9778598+05:30:Thread#0:Scheduler: considering testitem #17 for thread 0
+2020-01-20T16:29:54.9778598+05:30:Thread#0:TestItem#17:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:29:54.9778598+05:30:Thread#0:TestItem#17:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:29:54.9778598+05:30:Thread#0:TestItem#17:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:29:54.9778598+05:30:Thread#0:Scheduler: using testitem #17 for thread 0
+2020-01-20T16:29:54.9778598+05:30:Thread#0:Scheduler: Test #17 is scheduled for thread
+2020-01-20T16:29:54.9778598+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:29:55.2019964+05:30:Thread#0: Test #16/0 is finished on thread #0 as Failed within 79.9595686 seconds
+2020-01-20T16:29:55.2019964+05:30:Thread#0: Test #17/0 is started on thread #0
+2020-01-20T16:29:55.2030001+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:29:59.1594760+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:30:03.6259559+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.5s)
+2020-01-20T16:30:03.6279608+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:30:12.8150678+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (9.2s)
+2020-01-20T16:30:12.8160703+05:30:Thread#0:B:When navigate to products menu
+2020-01-20T16:30:54.0066454+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2020-01-20T16:30:54.0066454+05:30:Thread#0:B:When Validate Grid view and List view icons
+2020-01-20T16:30:54.0066454+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:30:54.0066454+05:30:Thread#0:B:Then search the product testAuto3333
+2020-01-20T16:30:54.0066454+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:30:54.0066454+05:30:Thread#0:B:When Navigate to the product testAuto3333
+2020-01-20T16:30:54.0076482+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:30:54.0076482+05:30:Thread#0:B:Then Assert product details thumbnail, name, SKU, delivery methods and Price
+2020-01-20T16:30:54.0076482+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:30:54.0076482+05:30:Thread#0:TestItem#17:Scheduler: reschedule tests for testitem #17
+2020-01-20T16:30:54.0076482+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:30:54.0076482+05:30:Thread#:Scheduler: testitem #19 from normal test queue 
+2020-01-20T16:30:54.0076482+05:30:Thread#0:Scheduler: considering testitem #19 for thread 0
+2020-01-20T16:30:54.0086503+05:30:Thread#0:TestItem#19:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:30:54.0086503+05:30:Thread#0:TestItem#19:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:30:54.0086503+05:30:Thread#0:TestItem#19:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:30:54.0086503+05:30:Thread#0:Scheduler: using testitem #19 for thread 0
+2020-01-20T16:30:54.0086503+05:30:Thread#0:Scheduler: Test #19 is scheduled for thread
+2020-01-20T16:30:54.0086503+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:30:54.3451206+05:30:Thread#0: Test #17/0 is finished on thread #0 as Failed within 59.1431242 seconds
+2020-01-20T16:30:54.3451206+05:30:Thread#0: Test #19/0 is started on thread #0
+2020-01-20T16:30:58.2838155+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:31:02.4806844+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.2s)
+2020-01-20T16:31:02.4806844+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:31:11.7222155+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (9.2s)
+2020-01-20T16:31:11.7222155+05:30:Thread#0:B:When Navigate to Administration menu
+2020-01-20T16:31:58.5223878+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2020-01-20T16:31:58.5223878+05:30:Thread#0:B:Then Navigate to Add/Edit Products from Admin page
+2020-01-20T16:31:58.5223878+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5223878+05:30:Thread#0:B:When Add product for type Print
+2020-01-20T16:31:58.5233907+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5233907+05:30:Thread#0:B:When Fill General details for Print product
+2020-01-20T16:31:58.5233907+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5233907+05:30:Thread#0:B:When Navigate to Images tab
+2020-01-20T16:31:58.5233907+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5233907+05:30:Thread#0:B:When Navigate to Visibility tab
+2020-01-20T16:31:58.5243947+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5243947+05:30:Thread#0:B:Then Fill visiblity details for Print product
+2020-01-20T16:31:58.5243947+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5243947+05:30:Thread#0:B:When Navigate to Pricing and Delivery tab
+2020-01-20T16:31:58.5243947+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5243947+05:30:Thread#0:B:Then Fill Pricing and Delivery details for Print product
+2020-01-20T16:31:58.5253975+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5253975+05:30:Thread#0:B:When Navigate to Customization tab
+2020-01-20T16:31:58.5253975+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5253975+05:30:Thread#0:B:Then Fill Customization tab fields for Print product
+2020-01-20T16:31:58.5253975+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5253975+05:30:Thread#0:B:Then Save and publish now the product
+2020-01-20T16:31:58.5253975+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:31:58.5263996+05:30:Thread#0:TestItem#19:Scheduler: reschedule tests for testitem #19
+2020-01-20T16:31:58.5263996+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:31:58.5263996+05:30:Thread#:Scheduler: testitem #20 from normal test queue 
+2020-01-20T16:31:58.5263996+05:30:Thread#0:Scheduler: considering testitem #20 for thread 0
+2020-01-20T16:31:58.5263996+05:30:Thread#0:TestItem#20:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:31:58.5263996+05:30:Thread#0:TestItem#20:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:31:58.5263996+05:30:Thread#0:TestItem#20:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:31:58.5263996+05:30:Thread#0:Scheduler: using testitem #20 for thread 0
+2020-01-20T16:31:58.5263996+05:30:Thread#0:Scheduler: Test #20 is scheduled for thread
+2020-01-20T16:31:58.5263996+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:31:58.7858186+05:30:Thread#0: Test #19/0 is finished on thread #0 as Failed within 64.440698 seconds
+2020-01-20T16:31:58.7858186+05:30:Thread#0: Test #20/0 is started on thread #0
+2020-01-20T16:31:58.7858186+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:32:07.6176997+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:32:11.6313156+05:30:Thread#0:T:error: chrome not reachable
+2020-01-20T16:32:11.6313156+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.130)
+2020-01-20T16:32:11.6313156+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (100)
+2020-01-20T16:32:11.6313156+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:32:11.6313156+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:11.6313156+05:30:Thread#0:B:When Navigate to Administration menu
+2020-01-20T16:32:11.6323181+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:11.6323181+05:30:Thread#0:B:When Navigate to SOLR for index
+2020-01-20T16:32:11.6323181+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:11.6323181+05:30:Thread#0:B:Then Refresh the product testAuto3333 for AdminUser
+2020-01-20T16:32:11.6323181+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:11.6323181+05:30:Thread#0:TestItem#20:Scheduler: reschedule tests for testitem #20
+2020-01-20T16:32:11.6323181+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:32:11.6323181+05:30:Thread#:Scheduler: testitem #22 from normal test queue 
+2020-01-20T16:32:11.6323181+05:30:Thread#0:Scheduler: considering testitem #22 for thread 0
+2020-01-20T16:32:11.6343235+05:30:Thread#0:TestItem#22:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:32:11.6343235+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:32:11.6343235+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:32:11.6343235+05:30:Thread#0:Scheduler: using testitem #22 for thread 0
+2020-01-20T16:32:11.6343235+05:30:Thread#0:Scheduler: Test #22 is scheduled for thread
+2020-01-20T16:32:11.6343235+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:32:11.6804517+05:30:Thread#0: Test #20/0 is finished on thread #0 as Failed within 12.8946331 seconds
+2020-01-20T16:32:11.6814557+05:30:Thread#0: Test #22/0 is started on thread #0
+2020-01-20T16:32:20.4462865+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:32:24.4578136+05:30:Thread#0:T:error: chrome not reachable
+2020-01-20T16:32:24.4588161+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.130)
+2020-01-20T16:32:24.4588161+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (100)
+2020-01-20T16:32:24.4588161+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:32:24.4588161+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:24.4588161+05:30:Thread#0:B:When navigate to products menu
+2020-01-20T16:32:24.4588161+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:24.4598182+05:30:Thread#0:B:Then search the product TestAuto
+2020-01-20T16:32:24.4598182+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:24.4598182+05:30:Thread#0:B:When Navigate to the first product
+2020-01-20T16:32:24.4598182+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:24.4598182+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2020-01-20T16:32:24.4608211+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:24.4608211+05:30:Thread#0:B:When Fill product customization fields for Print
+2020-01-20T16:32:24.4608211+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:24.4608211+05:30:Thread#0:B:Then Preview and approve from customization
+2020-01-20T16:32:24.4608211+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:24.4608211+05:30:Thread#0:B:Then signout the application
+2020-01-20T16:32:24.4618239+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:24.4628275+05:30:Thread#0:TestItem#22:Scheduler: reschedule tests for testitem #22
+2020-01-20T16:32:24.4628275+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:32:24.4628275+05:30:Thread#:Scheduler: testitem #24 from normal test queue 
+2020-01-20T16:32:24.4628275+05:30:Thread#0:Scheduler: considering testitem #24 for thread 0
+2020-01-20T16:32:24.4628275+05:30:Thread#0:TestItem#24:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:32:24.4628275+05:30:Thread#0:TestItem#24:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:32:24.4628275+05:30:Thread#0:TestItem#24:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:32:24.4628275+05:30:Thread#0:Scheduler: using testitem #24 for thread 0
+2020-01-20T16:32:24.4628275+05:30:Thread#0:Scheduler: Test #24 is scheduled for thread
+2020-01-20T16:32:24.4628275+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:32:24.5290064+05:30:Thread#0: Test #22/0 is finished on thread #0 as Failed within 12.8475507 seconds
+2020-01-20T16:32:24.5290064+05:30:Thread#0: Test #24/0 is started on thread #0
+2020-01-20T16:32:27.4905850+05:30:Thread#0:TestItem#24:Scheduler: reschedule tests for testitem #24
+2020-01-20T16:32:27.4905850+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:32:27.4905850+05:30:Thread#:Scheduler: testitem #25 from normal test queue 
+2020-01-20T16:32:27.4905850+05:30:Thread#0:Scheduler: considering testitem #25 for thread 0
+2020-01-20T16:32:27.4905850+05:30:Thread#0:TestItem#25:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:32:27.4905850+05:30:Thread#0:TestItem#25:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:32:27.4905850+05:30:Thread#0:TestItem#25:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:32:27.4905850+05:30:Thread#0:Scheduler: using testitem #25 for thread 0
+2020-01-20T16:32:27.4905850+05:30:Thread#0:Scheduler: Test #25 is scheduled for thread
+2020-01-20T16:32:27.4905850+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:32:27.4915859+05:30:Thread#0: Test #24/0 is finished on thread #0 as Failed within 2.9625795 seconds
+2020-01-20T16:32:27.4915859+05:30:Thread#0: Test #25/0 is started on thread #0
+2020-01-20T16:32:27.4925892+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:32:36.4235127+05:30:Thread#0:B:Given I have launched the KLIC test site
+2020-01-20T16:32:40.4383052+05:30:Thread#0:T:error: chrome not reachable
+2020-01-20T16:32:40.4383052+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.130)
+2020-01-20T16:32:40.4383052+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (100)
+2020-01-20T16:32:40.4383052+05:30:Thread#0:B:When I have logged in with AdminUser
+2020-01-20T16:32:40.4393080+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:40.4393080+05:30:Thread#0:B:When navigate to products menu
+2020-01-20T16:32:40.4393080+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:40.4393080+05:30:Thread#0:B:Then search the product testAuto3333
+2020-01-20T16:32:40.4393080+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:40.4393080+05:30:Thread#0:B:When Navigate to the product testAuto3333
+2020-01-20T16:32:40.4403101+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:40.4403101+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2020-01-20T16:32:40.4403101+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:40.4403101+05:30:Thread#0:B:When Fill Delivery Options page details for MailToRecipientList
+2020-01-20T16:32:40.4403101+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:40.4403101+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2020-01-20T16:32:40.4413122+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:40.4413122+05:30:Thread#0:B:Then signout the application
+2020-01-20T16:32:40.4413122+05:30:Thread#0:T:skipped because of previous errors
+2020-01-20T16:32:40.4423155+05:30:Thread#0:TestItem#25:Scheduler: reschedule tests for testitem #25
+2020-01-20T16:32:40.4423155+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-01-20T16:32:40.4423155+05:30:Thread#:Scheduler: testitem #26 from normal test queue 
+2020-01-20T16:32:40.4423155+05:30:Thread#0:Scheduler: considering testitem #26 for thread 0
+2020-01-20T16:32:40.4423155+05:30:Thread#0:TestItem#26:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-20T16:32:40.4423155+05:30:Thread#0:TestItem#26:runsOnOneOtherThreadSpecific:False
+2020-01-20T16:32:40.4423155+05:30:Thread#0:TestItem#26:runsOnOneOtherThreadUnspecific:False
+2020-01-20T16:32:40.4423155+05:30:Thread#0:Scheduler: using testitem #26 for thread 0
+2020-01-20T16:32:40.4423155+05:30:Thread#0:Scheduler: Test #26 is scheduled for thread
+2020-01-20T16:32:40.4423155+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-20T16:32:40.4984640+05:30:Thread#0: Test #25/0 is finished on thread #0 as Failed within 13.0068781 seconds
+2020-01-20T16:32:40.4984640+05:30:Thread#0: Test #26/0 is started on thread #0
+2020-01-20T16:32:40.4984640+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2020-01-20T16:32:44.6486945+05:30:Thread#0:B:Given I have launched the KLIC test site

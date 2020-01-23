@@ -1,0 +1,128 @@
+﻿2019-12-17T13:11:06.5111276+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-17T13:11:06.5111276+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-17T13:11:06.5111276+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-17T13:11:06.7467303+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-17T13:11:06.7467303+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-17T13:11:06.7467303+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-17T13:11:06.8052142+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-17T131106.log
+2019-12-17T13:11:06.8132351+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-17T13:11:06.8193263+05:30;Thread#13;Info;Checking license
+2019-12-17T13:11:06.8298623+05:30;Thread#13;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2019-12-17T13:11:14.8314334+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-17T13:11:14.8495290+05:30;Thread#13;Info;License check completed
+2019-12-17T13:11:14.8504933+05:30;Thread#13;Info;starting test run
+2019-12-17T13:11:14.8899702+05:30;Thread#13;Info;Discovering target: Default
+2019-12-17T13:11:14.8899702+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-17T13:11:15.3124381+05:30:Appdomain Disposed
+2019-12-17T13:11:15.3124381+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-17T13:11:15.3134421+05:30:Test Suite Dump
+2019-12-17T13:11:15.3144445+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-17T13:11:15.3144445+05:30:#1: Default - 
+2019-12-17T13:11:15.3144445+05:30:#2: ConductorPOC - 
+2019-12-17T13:11:15.3144445+05:30:#27: StoreFront - Order Workflow - Order Confirmation - 
+2019-12-17T13:11:15.3448364+05:30:#28: Order Workflow -  Order Confirmation, Order Detail - TestAssembly:ConductorPOC/Feature:StoreFront+-+Order+Workflow+-+Order+Confirmation/Scenario:Order+Workflow+-++Order+Confirmation%2c+Order+Detail
+2019-12-17T13:11:15.3448364+05:30:End: Test Suite Dump
+2019-12-17T13:11:15.3786401+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-17T13:11:15.3801448+05:30:Thread#:Scheduler: testitem #28 from normal test queue 
+2019-12-17T13:11:15.3801448+05:30:Thread#0:Scheduler: considering testitem #28 for thread 0
+2019-12-17T13:11:15.3836982+05:30:Thread#0:TestItem#28:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-17T13:11:15.3836982+05:30:Thread#0:TestItem#28:runsOnOneOtherThreadSpecific:False
+2019-12-17T13:11:15.3836982+05:30:Thread#0:TestItem#28:runsOnOneOtherThreadUnspecific:False
+2019-12-17T13:11:15.3836982+05:30:Thread#0:Scheduler: using testitem #28 for thread 0
+2019-12-17T13:11:15.3846557+05:30:Thread#0:Scheduler: Test #28 is scheduled for thread
+2019-12-17T13:11:15.3861612+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-17T13:11:15.3892052+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-17T13:11:15.3902492+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-17T13:11:15.3912109+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-17T13:11:15.3922538+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-17T13:11:15.9176046+05:30:Thread#0: Test #28/0 is started on thread #0
+2019-12-17T13:11:16.3322739+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-17T13:11:16.3899313+05:30:Thread#0:T:-> Using default config
+2019-12-17T13:11:23.2665948+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-17T13:11:29.5223052+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (6.2s)
+2019-12-17T13:11:29.5233005+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-17T13:12:46.7480903+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (77.2s)
+2019-12-17T13:12:46.7480903+05:30:Thread#0:B:When navigate to products menu
+2019-12-17T13:12:57.0256792+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (10.3s)
+2019-12-17T13:12:57.0266783+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-17T13:12:57.0895784+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.1s)
+2019-12-17T13:12:57.0905854+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-17T13:13:05.3344711+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (8.2s)
+2019-12-17T13:13:05.3354732+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-17T13:14:19.2154405+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (73.9s)
+2019-12-17T13:14:19.2154405+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-17T13:14:38.9166546+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (19.7s)
+2019-12-17T13:14:38.9176578+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-17T13:15:06.9694393+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (28.1s)
+2019-12-17T13:15:06.9694393+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-17T13:16:09.4456460+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (62.5s)
+2019-12-17T13:16:09.4456460+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-17T13:16:11.6844022+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.2s)
+2019-12-17T13:16:11.6844022+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-17T13:16:13.9363349+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateEstimatedDeliveryAndCostSection() (2.3s)
+2019-12-17T13:16:13.9373400+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-17T13:16:26.4867095+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@data-level='Manage Product General Ledger Codes']//a[contains(text(),'Manage')]"}
+2019-12-17T13:16:26.4867095+05:30:Thread#0:T:  (Session info: chrome=78.0.3904.108)
+2019-12-17T13:16:26.4867095+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-12-17T13:16:26.4872090+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-17T13:16:26.4882119+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4882119+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-17T13:16:26.4887133+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4887133+05:30:Thread#0:B:Then Validate payment methods available
+2019-12-17T13:16:26.4887133+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4887133+05:30:Thread#0:B:Then Validate payment summary section
+2019-12-17T13:16:26.4892140+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4892140+05:30:Thread#0:B:When Fill one time payment Credit card details for payment
+2019-12-17T13:16:26.4892140+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4892140+05:30:Thread#0:B:When Fill billing information new Address
+2019-12-17T13:16:26.4897154+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4897154+05:30:Thread#0:B:Then Validate payment breakdown for CreditCard from summary
+2019-12-17T13:16:26.4897154+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4897154+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-17T13:16:26.4902168+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4902168+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-17T13:16:26.4902168+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4902168+05:30:Thread#0:B:Then Validate Order number link, thankyou message and disclaimer
+2019-12-17T13:16:26.4907183+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4907183+05:30:Thread#0:B:When Navigate from order confirmation page to Order details page
+2019-12-17T13:16:26.4907183+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4907183+05:30:Thread#0:B:Then Validate Order detail page elements from product section
+2019-12-17T13:16:26.4912193+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4912193+05:30:Thread#0:B:Then Validate Estimated delivery and its elements
+2019-12-17T13:16:26.4912193+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4912193+05:30:Thread#0:B:Then Validate payment breakdown modal under Estd delivery and Cost
+2019-12-17T13:16:26.4932246+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4932246+05:30:Thread#0:B:Then Validate the order details from order summary panel
+2019-12-17T13:16:26.4937264+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4937264+05:30:Thread#0:B:Then Cancel Delivery for estimated section
+2019-12-17T13:16:26.4937264+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.4937264+05:30:Thread#0:B:Then signout the application
+2019-12-17T13:16:26.4942275+05:30:Thread#0:T:skipped because of previous errors
+2019-12-17T13:16:26.6838899+05:30:Thread#0:TestItem#28:Scheduler: reschedule tests for testitem #28
+2019-12-17T13:16:26.6858944+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-17T13:16:26.6858944+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-17T13:16:26.6858944+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-17T13:16:26.6858944+05:30:Thread#0:Scheduler: No more tests for thread
+2019-12-17T13:16:26.9210009+05:30:Thread#0: Test #28/0 is finished on thread #0 as Failed within 311.0023908 seconds
+2019-12-17T13:16:26.9865003+05:30:Appdomain Disposed
+2019-12-17T13:16:26.9880050+05:30:Trying to cancel thread
+2019-12-17T13:16:26.9880050+05:30:Thread cancelled
+2019-12-17T13:16:26.9955249+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-12-17T13:16:26.9955249+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-17T13:16:26.9955249+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-17T13:16:26.9980316+05:30;Thread#13;Info;test run finished
+2019-12-17T13:16:26.9985334+05:30;Thread#13;Info;publishing test results
+2019-12-17T13:16:27.0347521+05:30;Thread#13;Info;test results published
+2019-12-17T13:16:27.0347521+05:30;Thread#13;Info;generating reports
+2019-12-17T13:16:27.1823010+05:30;Thread#13;Info;Starting external report generation process
+2019-12-17T13:16:30.7225912+05:30;Thread#13;Info;Successfully generated reports.
+2019-12-17T13:16:30.7245972+05:30;Thread#13;Info;Successfully generated reports
+2019-12-17T13:16:30.7336211+05:30:Total: 1
+2019-12-17T13:16:30.7356256+05:30:Succeeded: 0
+2019-12-17T13:16:30.7366292+05:30:Ignored: 0
+2019-12-17T13:16:30.7376325+05:30:Pending: 0
+2019-12-17T13:16:30.7376325+05:30:Skipped: 0
+2019-12-17T13:16:30.7376325+05:30:Failed: 1
+2019-12-17T13:16:30.7476576+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-17T13:16:30.7486616+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-17T131106.html'
+========== End of log file ==========

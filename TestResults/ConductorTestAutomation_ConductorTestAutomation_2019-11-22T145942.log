@@ -1,0 +1,53 @@
+﻿2019-11-22T14:59:42.3425135+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-11-22T14:59:42.3425135+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-11-22T14:59:42.3425135+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-11-22T14:59:42.4695960+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-11-22T14:59:42.4700974+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-11-22T14:59:42.4700974+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-11-22T14:59:42.5446168+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-11-22T145942.log
+2019-11-22T14:59:42.5526737+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-11-22T14:59:42.5626950+05:30;Thread#14;Info;Checking license
+2019-11-22T14:59:42.5792210+05:30;Thread#14;Info;Evaluation mode: test execution starts in 6 seconds... (this delay is removed in the registered version)
+2019-11-22T14:59:48.5816032+05:30;Thread#14;Info;Evaluation delay finished.
+2019-11-22T14:59:48.5961687+05:30;Thread#14;Info;License check completed
+2019-11-22T14:59:48.5961687+05:30;Thread#14;Info;starting test run
+2019-11-22T14:59:48.6454053+05:30;Thread#14;Info;Discovering target: Default
+2019-11-22T14:59:48.6464086+05:30;Thread#14;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-11-22T14:59:49.6981259+05:30:Appdomain Disposed
+2019-11-22T14:59:49.6981259+05:30;Thread#14;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-11-22T14:59:49.6981259+05:30:Test Suite Dump
+2019-11-22T14:59:49.7001308+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-11-22T14:59:49.7001308+05:30:#1: Default - 
+2019-11-22T14:59:49.7001308+05:30:#2: ConductorPOC - 
+2019-11-22T14:59:49.7001308+05:30:#20: StoreFront - Product Payment Page and Options - 
+2019-11-22T14:59:49.7582851+05:30:#22: Order Workflow -  Payment(Credit card - OneTime Payment) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Credit+card+-+OneTime+Payment)
+2019-11-22T14:59:49.7582851+05:30:End: Test Suite Dump
+2019-11-22T14:59:49.7797744+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-11-22T14:59:49.7812783+05:30:Thread#:Scheduler: testitem #22 from normal test queue 
+2019-11-22T14:59:49.7812783+05:30:Thread#0:Scheduler: considering testitem #22 for thread 0
+2019-11-22T14:59:49.7847875+05:30:Thread#0:TestItem#22:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-22T14:59:49.7852875+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadSpecific:False
+2019-11-22T14:59:49.7852875+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadUnspecific:False
+2019-11-22T14:59:49.7852875+05:30:Thread#0:Scheduler: using testitem #22 for thread 0
+2019-11-22T14:59:49.7862979+05:30:Thread#0:Scheduler: Test #22 is scheduled for thread
+2019-11-22T14:59:49.7872928+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-22T14:59:49.7908043+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-11-22T14:59:49.7918083+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-22T14:59:49.7928111+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-22T14:59:49.7938155+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-11-22T14:59:50.0893226+05:30:Thread#0: Test #22/0 is started on thread #0
+2019-11-22T14:59:50.4954263+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-11-22T14:59:50.5451994+05:30:Thread#0:T:-> Using default config
+2019-11-22T14:59:55.4308033+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-11-22T14:59:59.4171896+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.0s)
+2019-11-22T14:59:59.4181925+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-11-22T15:00:15.1688016+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (15.7s)
+2019-11-22T15:00:15.1688016+05:30:Thread#0:B:When navigate to products menu
+2019-11-22T15:00:22.4386207+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.3s)
+2019-11-22T15:00:22.4396202+05:30:Thread#0:B:Then search the product TESTAUTO3333
+2019-11-22T15:00:28.1179474+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TESTAUTO3333") (5.7s)
+2019-11-22T15:00:28.1189503+05:30:Thread#0:B:When Navigate to the product testAuto3333
+2019-11-22T15:00:37.1983160+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("testAuto3333") (9.1s)
+2019-11-22T15:00:37.1983160+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-11-22T15:00:47.4460202+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (10.2s)
+2019-11-22T15:00:47.4460202+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress

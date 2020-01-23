@@ -1,0 +1,1073 @@
+﻿2019-12-16T19:06:29.1895559+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-16T19:06:29.1895559+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-16T19:06:29.1895559+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-16T19:06:29.2923924+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-16T19:06:29.2923924+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-16T19:06:29.2923924+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-16T19:06:29.3114096+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-16T190629.log
+2019-12-16T19:06:29.3188699+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-16T19:06:29.3238838+05:30;Thread#13;Info;Checking license
+2019-12-16T19:06:29.3355525+05:30;Thread#13;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-12-16T19:06:41.3370440+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-16T19:06:41.3470695+05:30;Thread#13;Info;License check completed
+2019-12-16T19:06:41.3475524+05:30;Thread#13;Info;starting test run
+2019-12-16T19:06:41.3590894+05:30;Thread#13;Info;Discovering target: Default
+2019-12-16T19:06:41.3590894+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-16T19:06:41.7242604+05:30:Appdomain Disposed
+2019-12-16T19:06:41.7252640+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-16T19:06:41.7252640+05:30:Test Suite Dump
+2019-12-16T19:06:41.7272697+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-16T19:06:41.7272697+05:30:#1: Default - 
+2019-12-16T19:06:41.7272697+05:30:#2: ConductorPOC - 
+2019-12-16T19:06:41.7272697+05:30:#12: Product Catalog - Search a product, Validate filters and Sort - 
+2019-12-16T19:06:41.7272697+05:30:#18: Administration - Create Product - 
+2019-12-16T19:06:41.7272697+05:30:#21: Product Customization - verify customization fields, preview, approve and Continue - 
+2019-12-16T19:06:41.7272697+05:30:#23: StoreFront - Product Delivery Options - 
+2019-12-16T19:06:41.7272697+05:30:#27: StoreFront - Order Workflow - Order Confirmation - 
+2019-12-16T19:06:41.7272697+05:30:#29: StoreFront - Product Payment Page and Options - 
+2019-12-16T19:06:41.7272697+05:30:#37: StoreFront - Product Shopping Cart - 
+2019-12-16T19:06:41.7272697+05:30:#43: StoreFront Dashboard - 
+2019-12-16T19:06:41.7573580+05:30:#13: Product catalog - Validate filter and Sort by Name: A - Z - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Name%3a+A+-+Z
+2019-12-16T19:06:41.7573580+05:30:#14: Product catalog - Validate filter and Sort by Name: Z - A - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Name%3a+Z+-+A
+2019-12-16T19:06:41.7573580+05:30:#15: Product catalog - Validate filter and  Sort by Price: Low - High - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and++Sort+by+Price%3a+Low+-+High
+2019-12-16T19:06:41.7573580+05:30:#16: Product catalog - Validate filter and Sort by Price: High - Low - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+filter+and+Sort+by+Price%3a+High+-+Low
+2019-12-16T19:06:41.7573580+05:30:#17: Product catalog - Validate Grid, List view and product details - TestAssembly:ConductorPOC/Feature:Product+Catalog+-+Search+a+product%2c+Validate+filters+and+Sort/Scenario:Product+catalog+-+Validate+Grid%2c+List+view+and+product+details
+2019-12-16T19:06:41.7573580+05:30:#19: Create a product - TestAssembly:ConductorPOC/Feature:Administration+-+Create+Product/Scenario:Create+a+product
+2019-12-16T19:06:41.7573580+05:30:#20: Refresh and index a created product - TestAssembly:ConductorPOC/Feature:Administration+-+Create+Product/Scenario:Refresh+and+index+a+created+product
+2019-12-16T19:06:41.7573580+05:30:#22: Product Customization - Print Product verify customization fields - TestAssembly:ConductorPOC/Feature:Product+Customization+-+verify+customization+fields%2c+preview%2c+approve+and+Continue/Scenario:Product+Customization+-+Print+Product+verify+customization+fields
+2019-12-16T19:06:41.7573580+05:30:#24: Order Workflow - Delivery Options (Shipping to an Address) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Shipping+to+an+Address)
+2019-12-16T19:06:41.7573580+05:30:#25: Order Workflow - Delivery Options (Mail to Recipient List) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Mail+to+Recipient+List)
+2019-12-16T19:06:41.7573580+05:30:#26: Order Workflow - Delivery Options (Download) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Delivery+Options/Scenario:Order+Workflow+-+Delivery+Options+(Download)
+2019-12-16T19:06:41.7573580+05:30:#28: Order Workflow -  Order Confirmation, Order Detail - TestAssembly:ConductorPOC/Feature:StoreFront+-+Order+Workflow+-+Order+Confirmation/Scenario:Order+Workflow+-++Order+Confirmation%2c+Order+Detail
+2019-12-16T19:06:41.7573580+05:30:#30: Order Workflow -  Payment - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment
+2019-12-16T19:06:41.7573580+05:30:#31: Order Workflow -  Payment(Credit card - OneTime Payment) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Credit+card+-+OneTime+Payment)
+2019-12-16T19:06:41.7573580+05:30:#32: Order Workflow -  Payment(Existing Credit card Payment and billing address) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Existing+Credit+card+Payment+and+billing+address)
+2019-12-16T19:06:41.7573580+05:30:#33: Order Workflow -  Payment(Invoice) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(Invoice)
+2019-12-16T19:06:41.7573580+05:30:#34: Order Workflow -  Payment(CoFunding) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding)
+2019-12-16T19:06:41.7573580+05:30:#35: Order Workflow -  Payment(CoFunding with existing credit card and existing billing info) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding+with+existing+credit+card+and+existing+billing+info)
+2019-12-16T19:06:41.7573580+05:30:#36: Order Workflow -  Payment(CoFunding with Invoice) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Payment+Page+and+Options/Scenario:Order+Workflow+-++Payment(CoFunding+with+Invoice)
+2019-12-16T19:06:41.7573580+05:30:#38: Order Workflow -  Product Shopping Cart - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart
+2019-12-16T19:06:41.7573580+05:30:#39: Order Workflow -  Product Shopping Cart (Edit Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Edit+Button)
+2019-12-16T19:06:41.7573580+05:30:#40: Order Workflow -  Product Shopping Cart (Copy Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Copy+Button)
+2019-12-16T19:06:41.7573580+05:30:#41: Order Workflow -  Product Shopping Cart (Save for Later Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Save+for+Later+Button)
+2019-12-16T19:06:41.7573580+05:30:#42: Order Workflow -  Product Shopping Cart (Remove Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Remove+Button)
+2019-12-16T19:06:41.7573580+05:30:#44: Login and validate dashboard page - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+validate+dashboard+page
+2019-12-16T19:06:41.7573580+05:30:#45: Login and search a product - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+search+a+product
+2019-12-16T19:06:41.7583612+05:30:End: Test Suite Dump
+2019-12-16T19:06:41.7774566+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:06:41.7784595+05:30:Thread#:Scheduler: testitem #13 from normal test queue 
+2019-12-16T19:06:41.7784595+05:30:Thread#0:Scheduler: considering testitem #13 for thread 0
+2019-12-16T19:06:41.7836497+05:30:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:06:41.7836497+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:06:41.7836497+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:06:41.7836497+05:30:Thread#0:Scheduler: using testitem #13 for thread 0
+2019-12-16T19:06:41.7848115+05:30:Thread#0:Scheduler: Test #13 is scheduled for thread
+2019-12-16T19:06:41.7858023+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:06:41.7878072+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-16T19:06:41.7888116+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-16T19:06:41.7897797+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-16T19:06:41.7908173+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-16T19:06:41.8560508+05:30:Thread#0: Test #13/0 is started on thread #0
+2019-12-16T19:06:42.0687014+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-16T19:06:42.0736805+05:30:Thread#0:T:-> Using default config
+2019-12-16T19:06:46.4476291+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:06:52.2861023+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.8s)
+2019-12-16T19:06:52.2881015+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:07:09.2439891+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.9s)
+2019-12-16T19:07:09.2439891+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:07:16.4061401+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.2s)
+2019-12-16T19:07:16.4071434+05:30:Thread#0:B:Then Check Filter By catagories
+2019-12-16T19:07:16.7231910+05:30:Thread#0:T:error: Assert.IsTrue failed. Filter By catagories missing in product catalog page.
+2019-12-16T19:07:16.7241595+05:30:Thread#0:B:When Select the filter from catagory Email
+2019-12-16T19:07:16.7241595+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:07:16.7241595+05:30:Thread#0:B:When Sort the products by Name: A - Z
+2019-12-16T19:07:16.7291742+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:07:16.7291742+05:30:Thread#0:B:Then Assert the products sorted in Name: A - Z
+2019-12-16T19:07:16.7291742+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:07:16.7612663+05:30:Thread#0:TestItem#13:Scheduler: reschedule tests for testitem #13
+2019-12-16T19:07:16.7622692+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:07:16.7622692+05:30:Thread#:Scheduler: testitem #14 from normal test queue 
+2019-12-16T19:07:16.7622692+05:30:Thread#0:Scheduler: considering testitem #14 for thread 0
+2019-12-16T19:07:16.7622692+05:30:Thread#0:TestItem#14:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:07:16.7622692+05:30:Thread#0:TestItem#14:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:07:16.7622692+05:30:Thread#0:TestItem#14:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:07:16.7622692+05:30:Thread#0:Scheduler: using testitem #14 for thread 0
+2019-12-16T19:07:16.7622692+05:30:Thread#0:Scheduler: Test #14 is scheduled for thread
+2019-12-16T19:07:16.7622692+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:07:17.0216295+05:30:Thread#0: Test #13/0 is finished on thread #0 as Failed within 35.1655787 seconds
+2019-12-16T19:07:17.0226316+05:30:Thread#0: Test #14/0 is started on thread #0
+2019-12-16T19:07:17.0226316+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:07:20.7908339+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:07:25.1396447+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.3s)
+2019-12-16T19:07:25.1396447+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:07:41.2662102+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.1s)
+2019-12-16T19:07:41.2662102+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:07:49.4533034+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (8.2s)
+2019-12-16T19:07:49.4583539+05:30:Thread#0:B:Then Check Filter By catagories
+2019-12-16T19:07:49.5873933+05:30:Thread#0:T:error: Assert.IsTrue failed. Filter By catagories missing in product catalog page.
+2019-12-16T19:07:49.5873933+05:30:Thread#0:B:When Select the filter from catagory Email
+2019-12-16T19:07:49.5873933+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:07:49.5883943+05:30:Thread#0:B:When Sort the products by Name: Z - A
+2019-12-16T19:07:49.5883943+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:07:49.5883943+05:30:Thread#0:B:Then Assert the products sorted in Name: Z - A
+2019-12-16T19:07:49.5883943+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:07:49.5883943+05:30:Thread#0:TestItem#14:Scheduler: reschedule tests for testitem #14
+2019-12-16T19:07:49.5883943+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:07:49.5883943+05:30:Thread#:Scheduler: testitem #15 from normal test queue 
+2019-12-16T19:07:49.5883943+05:30:Thread#0:Scheduler: considering testitem #15 for thread 0
+2019-12-16T19:07:49.5883943+05:30:Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:07:49.5883943+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:07:49.5883943+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:07:49.5883943+05:30:Thread#0:Scheduler: using testitem #15 for thread 0
+2019-12-16T19:07:49.5883943+05:30:Thread#0:Scheduler: Test #15 is scheduled for thread
+2019-12-16T19:07:49.5883943+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:07:49.8286796+05:30:Thread#0: Test #14/0 is finished on thread #0 as Failed within 32.806048 seconds
+2019-12-16T19:07:49.8286796+05:30:Thread#0: Test #15/0 is started on thread #0
+2019-12-16T19:07:49.8286796+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:07:53.6929011+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:07:57.8943817+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.2s)
+2019-12-16T19:07:57.8943817+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:08:13.6549690+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (15.8s)
+2019-12-16T19:08:13.6549690+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:08:25.8813518+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (12.2s)
+2019-12-16T19:08:25.8813518+05:30:Thread#0:B:Then Check Filter By catagories
+2019-12-16T19:08:26.0068472+05:30:Thread#0:T:error: Assert.IsTrue failed. Filter By catagories missing in product catalog page.
+2019-12-16T19:08:26.0078497+05:30:Thread#0:B:When Select the filter from catagory Email
+2019-12-16T19:08:26.0078497+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:08:26.0078497+05:30:Thread#0:B:When Sort the products by Price: Low - High
+2019-12-16T19:08:26.0078497+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:08:26.0078497+05:30:Thread#0:B:Then Assert the products sorted in Price: Low - High
+2019-12-16T19:08:26.0078497+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:08:26.0088514+05:30:Thread#0:TestItem#15:Scheduler: reschedule tests for testitem #15
+2019-12-16T19:08:26.0088514+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:08:26.0088514+05:30:Thread#:Scheduler: testitem #16 from normal test queue 
+2019-12-16T19:08:26.0088514+05:30:Thread#0:Scheduler: considering testitem #16 for thread 0
+2019-12-16T19:08:26.0088514+05:30:Thread#0:TestItem#16:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:08:26.0088514+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:08:26.0088514+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:08:26.0088514+05:30:Thread#0:Scheduler: using testitem #16 for thread 0
+2019-12-16T19:08:26.0088514+05:30:Thread#0:Scheduler: Test #16 is scheduled for thread
+2019-12-16T19:08:26.0088514+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:08:26.2316098+05:30:Thread#0: Test #15/0 is finished on thread #0 as Failed within 36.4029302 seconds
+2019-12-16T19:08:26.2316098+05:30:Thread#0: Test #16/0 is started on thread #0
+2019-12-16T19:08:26.2321120+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:08:29.9766445+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:08:34.5319297+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.6s)
+2019-12-16T19:08:34.5319297+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:08:51.3165447+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.8s)
+2019-12-16T19:08:51.3175472+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:08:58.4145349+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-16T19:08:58.4155385+05:30:Thread#0:B:Then Check Filter By catagories
+2019-12-16T19:08:58.5510157+05:30:Thread#0:T:error: Assert.IsTrue failed. Filter By catagories missing in product catalog page.
+2019-12-16T19:08:58.5510157+05:30:Thread#0:B:When Select the filter from catagory Email
+2019-12-16T19:08:58.5520204+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:08:58.5520204+05:30:Thread#0:B:When Sort the products by Price: High - Low
+2019-12-16T19:08:58.5520204+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:08:58.5520204+05:30:Thread#0:B:Then Assert the products sorted in Price: High - Low
+2019-12-16T19:08:58.5520204+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:08:58.5530210+05:30:Thread#0:TestItem#16:Scheduler: reschedule tests for testitem #16
+2019-12-16T19:08:58.5530210+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:08:58.5530210+05:30:Thread#:Scheduler: testitem #17 from normal test queue 
+2019-12-16T19:08:58.5530210+05:30:Thread#0:Scheduler: considering testitem #17 for thread 0
+2019-12-16T19:08:58.5530210+05:30:Thread#0:TestItem#17:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:08:58.5530210+05:30:Thread#0:TestItem#17:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:08:58.5530210+05:30:Thread#0:TestItem#17:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:08:58.5530210+05:30:Thread#0:Scheduler: using testitem #17 for thread 0
+2019-12-16T19:08:58.5530210+05:30:Thread#0:Scheduler: Test #17 is scheduled for thread
+2019-12-16T19:08:58.5530210+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:08:58.7726810+05:30:Thread#0: Test #16/0 is finished on thread #0 as Failed within 32.5410712 seconds
+2019-12-16T19:08:58.7726810+05:30:Thread#0: Test #17/0 is started on thread #0
+2019-12-16T19:08:58.7726810+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:09:02.6757423+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:09:06.9588748+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.3s)
+2019-12-16T19:09:06.9588748+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:09:23.6145776+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.7s)
+2019-12-16T19:09:23.6145776+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:09:30.7579753+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-16T19:09:30.7589819+05:30:Thread#0:B:When Validate Grid view and List view icons
+2019-12-16T19:09:37.2230583+05:30:Thread#0:T:done: ProductCatalogSteps.WhenValidateGridViewAndListViewIcons() (6.5s)
+2019-12-16T19:09:37.2230583+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:09:44.3212229+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.1s)
+2019-12-16T19:09:44.3222273+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:10:52.8243691+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:10:52.8243691+05:30:Thread#0:B:Then Assert product details thumbnail, name, SKU, delivery methods and Price
+2019-12-16T19:10:52.8248706+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:10:52.8258783+05:30:Thread#0:TestItem#17:Scheduler: reschedule tests for testitem #17
+2019-12-16T19:10:52.8258783+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:10:52.8258783+05:30:Thread#:Scheduler: testitem #19 from normal test queue 
+2019-12-16T19:10:52.8258783+05:30:Thread#0:Scheduler: considering testitem #19 for thread 0
+2019-12-16T19:10:52.8258783+05:30:Thread#0:TestItem#19:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:10:52.8258783+05:30:Thread#0:TestItem#19:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:10:52.8258783+05:30:Thread#0:TestItem#19:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:10:52.8258783+05:30:Thread#0:Scheduler: using testitem #19 for thread 0
+2019-12-16T19:10:52.8258783+05:30:Thread#0:Scheduler: Test #19 is scheduled for thread
+2019-12-16T19:10:52.8258783+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:10:53.0536121+05:30:Thread#0: Test #17/0 is finished on thread #0 as Failed within 114.2809311 seconds
+2019-12-16T19:10:53.0536121+05:30:Thread#0: Test #19/0 is started on thread #0
+2019-12-16T19:10:56.8148586+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:11:01.4000056+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.6s)
+2019-12-16T19:11:01.4000056+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:11:18.0698232+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.7s)
+2019-12-16T19:11:18.0703242+05:30:Thread#0:B:When Navigate to Administration menu
+2019-12-16T19:11:38.5972905+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToAdministrationMenu() (20.5s)
+2019-12-16T19:11:38.5982929+05:30:Thread#0:B:Then Navigate to Add/Edit Products from Admin page
+2019-12-16T19:12:09.1996249+05:30:Thread#0:T:done: ProductCreationSteps.ThenNavigateToAddEditProductsFromAdminPage("Add/Edit Products") (30.6s)
+2019-12-16T19:12:09.1996249+05:30:Thread#0:B:When Add product for type Print
+2019-12-16T19:12:59.3034929+05:30:Thread#0:T:done: ProductCreationSteps.WhenAddProductForTypePrint("Print") (50.1s)
+2019-12-16T19:12:59.3034929+05:30:Thread#0:B:When Fill General details for Print product
+2019-12-16T19:13:11.6224007+05:30:Thread#0:T:New product name for creation is: TestAuto2876
+2019-12-16T19:13:22.0041898+05:30:Thread#0:T:done: ProductCreationSteps.WhenFillGeneralDetailsForProduct("Print") (22.7s)
+2019-12-16T19:13:22.0046908+05:30:Thread#0:B:When Navigate to Images tab
+2019-12-16T19:13:46.2208869+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToImagesTabAndUploadImagesForProduct() (24.2s)
+2019-12-16T19:13:46.2218999+05:30:Thread#0:B:When Navigate to Visibility tab
+2019-12-16T19:14:10.4987766+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToVisibilityTab() (24.3s)
+2019-12-16T19:14:10.4992788+05:30:Thread#0:B:Then Fill visiblity details for Print product
+2019-12-16T19:14:34.9554312+05:30:Thread#0:T:done: ProductCreationSteps.WhenSelectProductCatagoriesAsPrint("Print") (24.5s)
+2019-12-16T19:14:34.9559323+05:30:Thread#0:B:When Navigate to Pricing and Delivery tab
+2019-12-16T19:14:47.1149860+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToPricingAndDeliveryTab() (12.2s)
+2019-12-16T19:14:47.1149860+05:30:Thread#0:B:Then Fill Pricing and Delivery details for Print product
+2019-12-16T19:16:13.8891413+05:30:Thread#0:T:done: ProductCreationSteps.ThenFillPricingAndDeliveryDetailsForPrintProduct("Print") (86.8s)
+2019-12-16T19:16:13.8891413+05:30:Thread#0:B:When Navigate to Customization tab
+2019-12-16T19:16:26.0573592+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToCustomizationTab() (12.2s)
+2019-12-16T19:16:26.0583602+05:30:Thread#0:B:Then Fill Customization tab fields for Print product
+2019-12-16T19:17:57.5720201+05:30:Thread#0:T:done: ProductCreationSteps.ThenFillCustomizationTabFieldsForPrintProduct("Print") (91.5s)
+2019-12-16T19:17:57.5720201+05:30:Thread#0:B:Then Save and publish now the product
+2019-12-16T19:18:58.2901435+05:30:Thread#0:T:done: ProductCreationSteps.ThenSaveAndPublishNowTheProduct() (60.7s)
+2019-12-16T19:18:58.2911467+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:18:58.2911467+05:30:Thread#:Scheduler: testitem #20 from normal test queue 
+2019-12-16T19:18:58.2911467+05:30:Thread#0:Scheduler: considering testitem #20 for thread 0
+2019-12-16T19:18:58.2911467+05:30:Thread#0:TestItem#20:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:18:58.2911467+05:30:Thread#0:TestItem#20:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:18:58.2911467+05:30:Thread#0:TestItem#20:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:18:58.2911467+05:30:Thread#0:Scheduler: using testitem #20 for thread 0
+2019-12-16T19:18:58.2911467+05:30:Thread#0:Scheduler: Test #20 is scheduled for thread
+2019-12-16T19:18:58.2911467+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:18:58.5526336+05:30:Thread#0: Test #19/0 is finished on thread #0 as Succeeded within 485.4990215 seconds
+2019-12-16T19:18:58.5526336+05:30:Thread#0: Test #20/0 is started on thread #0
+2019-12-16T19:18:58.5526336+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:19:02.5269083+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:19:07.8867817+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.4s)
+2019-12-16T19:19:07.8867817+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:19:24.7745402+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.9s)
+2019-12-16T19:19:24.7745402+05:30:Thread#0:B:When Navigate to Administration menu
+2019-12-16T19:19:45.2589591+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToAdministrationMenu() (20.5s)
+2019-12-16T19:19:45.2589591+05:30:Thread#0:B:When Navigate to SOLR for index
+2019-12-16T19:20:13.7716600+05:30:Thread#0:T:done: ProductCreationSteps.WhenNavigateToSOLRForIndex() (28.5s)
+2019-12-16T19:20:13.7716600+05:30:Thread#0:B:Then Refresh the product TestAuto7315 for AdminUser
+2019-12-16T19:20:39.5228009+05:30:Thread#0:T:done: ProductCreationSteps.ThenRefreshTheProductCreatedProductForCurrentUser("TestAuto7315", "AdminUser") (25.7s)
+2019-12-16T19:20:39.5228009+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:20:39.5228009+05:30:Thread#:Scheduler: testitem #22 from normal test queue 
+2019-12-16T19:20:39.5228009+05:30:Thread#0:Scheduler: considering testitem #22 for thread 0
+2019-12-16T19:20:39.5228009+05:30:Thread#0:TestItem#22:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:20:39.5228009+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:20:39.5228009+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:20:39.5228009+05:30:Thread#0:Scheduler: using testitem #22 for thread 0
+2019-12-16T19:20:39.5228009+05:30:Thread#0:Scheduler: Test #22 is scheduled for thread
+2019-12-16T19:20:39.5228009+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:20:39.8912093+05:30:Thread#0: Test #20/0 is finished on thread #0 as Succeeded within 101.3385757 seconds
+2019-12-16T19:20:39.8922121+05:30:Thread#0: Test #22/0 is started on thread #0
+2019-12-16T19:20:45.6004791+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:20:50.1630048+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.6s)
+2019-12-16T19:20:50.1630048+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:21:07.2162921+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.1s)
+2019-12-16T19:21:07.2167920+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:21:18.4864036+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (11.3s)
+2019-12-16T19:21:18.4864036+05:30:Thread#0:B:When Select the filter from catagory Print
+2019-12-16T19:21:27.7058763+05:30:Thread#0:T:done: ProductCatalogSteps.WhenSelectTheFilterFromCatagory("Print") (9.2s)
+2019-12-16T19:21:27.7058763+05:30:Thread#0:B:When Navigate to the first product
+2019-12-16T19:22:35.8457716+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:22:35.8457716+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:22:35.8457716+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:22:35.8457716+05:30:Thread#0:B:When Fill product customization fields for Print
+2019-12-16T19:22:35.8457716+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:22:35.8457716+05:30:Thread#0:B:Then Preview and approve from customization
+2019-12-16T19:22:35.8457716+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:22:35.8457716+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:22:35.8457716+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:22:35.8477856+05:30:Thread#0:TestItem#22:Scheduler: reschedule tests for testitem #22
+2019-12-16T19:22:35.8477856+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:22:35.8477856+05:30:Thread#:Scheduler: testitem #24 from normal test queue 
+2019-12-16T19:22:35.8477856+05:30:Thread#0:Scheduler: considering testitem #24 for thread 0
+2019-12-16T19:22:35.8477856+05:30:Thread#0:TestItem#24:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:22:35.8477856+05:30:Thread#0:TestItem#24:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:22:35.8477856+05:30:Thread#0:TestItem#24:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:22:35.8477856+05:30:Thread#0:Scheduler: using testitem #24 for thread 0
+2019-12-16T19:22:35.8477856+05:30:Thread#0:Scheduler: Test #24 is scheduled for thread
+2019-12-16T19:22:35.8477856+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:22:36.0157906+05:30:Thread#0: Test #22/0 is finished on thread #0 as Failed within 116.1235785 seconds
+2019-12-16T19:22:36.0157906+05:30:Thread#0: Test #24/0 is started on thread #0
+2019-12-16T19:22:39.8129968+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:22:44.2638688+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.5s)
+2019-12-16T19:22:44.2648769+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:23:01.2832806+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.0s)
+2019-12-16T19:23:01.2842834+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:23:08.4083411+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-16T19:23:08.4093439+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:23:16.8114015+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (8.4s)
+2019-12-16T19:23:16.8124044+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:24:25.3181642+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:24:25.3191413+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:24:25.3191413+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:24:25.3191413+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:24:25.3211482+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:24:25.3211482+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:24:25.3221522+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:24:25.3221522+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:24:25.3221522+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:24:25.3671530+05:30:Thread#0:TestItem#24:Scheduler: reschedule tests for testitem #24
+2019-12-16T19:24:25.3671530+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:24:25.3671530+05:30:Thread#:Scheduler: testitem #25 from normal test queue 
+2019-12-16T19:24:25.3671530+05:30:Thread#0:Scheduler: considering testitem #25 for thread 0
+2019-12-16T19:24:25.3671530+05:30:Thread#0:TestItem#25:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:24:25.3671530+05:30:Thread#0:TestItem#25:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:24:25.3671530+05:30:Thread#0:TestItem#25:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:24:25.3671530+05:30:Thread#0:Scheduler: using testitem #25 for thread 0
+2019-12-16T19:24:25.3671530+05:30:Thread#0:Scheduler: Test #25 is scheduled for thread
+2019-12-16T19:24:25.3671530+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:24:25.5686260+05:30:Thread#0: Test #24/0 is finished on thread #0 as Failed within 109.5528354 seconds
+2019-12-16T19:24:25.5686260+05:30:Thread#0: Test #25/0 is started on thread #0
+2019-12-16T19:24:25.5696372+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:24:29.2759702+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:24:34.0238953+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.7s)
+2019-12-16T19:24:34.0238953+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:24:51.1047766+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.1s)
+2019-12-16T19:24:51.1047766+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:24:58.3633598+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.3s)
+2019-12-16T19:24:58.3633598+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:25:06.5502911+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (8.2s)
+2019-12-16T19:25:06.5543029+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:26:14.8510660+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:26:14.8510660+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:26:14.8510660+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:26:14.8510660+05:30:Thread#0:B:When Fill Delivery Options page details for MailToRecipientList
+2019-12-16T19:26:14.8520681+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:26:14.8520681+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:26:14.8520681+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:26:14.8520681+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:26:14.8520681+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:26:14.8530721+05:30:Thread#0:TestItem#25:Scheduler: reschedule tests for testitem #25
+2019-12-16T19:26:14.8530721+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:26:14.8530721+05:30:Thread#:Scheduler: testitem #26 from normal test queue 
+2019-12-16T19:26:14.8530721+05:30:Thread#0:Scheduler: considering testitem #26 for thread 0
+2019-12-16T19:26:14.8530721+05:30:Thread#0:TestItem#26:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:26:14.8530721+05:30:Thread#0:TestItem#26:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:26:14.8530721+05:30:Thread#0:TestItem#26:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:26:14.8530721+05:30:Thread#0:Scheduler: using testitem #26 for thread 0
+2019-12-16T19:26:14.8530721+05:30:Thread#0:Scheduler: Test #26 is scheduled for thread
+2019-12-16T19:26:14.8530721+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:26:15.0800341+05:30:Thread#0: Test #25/0 is finished on thread #0 as Failed within 109.5114081 seconds
+2019-12-16T19:26:15.0800341+05:30:Thread#0: Test #26/0 is started on thread #0
+2019-12-16T19:26:15.0800341+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:26:18.8292044+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:26:23.3464487+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.5s)
+2019-12-16T19:26:23.3464487+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:26:40.1802289+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.8s)
+2019-12-16T19:26:40.1802289+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:26:47.4131918+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.2s)
+2019-12-16T19:26:47.4136944+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:26:55.6952754+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (8.3s)
+2019-12-16T19:26:55.6962771+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:28:03.7232564+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:28:03.7242622+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:28:03.7242622+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:28:03.7242622+05:30:Thread#0:B:When Fill Delivery Options page details for Download
+2019-12-16T19:28:03.7242622+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:28:03.7252640+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:28:03.7252640+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:28:03.7252640+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:28:03.7252640+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:28:03.7262657+05:30:Thread#0:TestItem#26:Scheduler: reschedule tests for testitem #26
+2019-12-16T19:28:03.7262657+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:28:03.7262657+05:30:Thread#:Scheduler: testitem #28 from normal test queue 
+2019-12-16T19:28:03.7262657+05:30:Thread#0:Scheduler: considering testitem #28 for thread 0
+2019-12-16T19:28:03.7262657+05:30:Thread#0:TestItem#28:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:28:03.7262657+05:30:Thread#0:TestItem#28:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:28:03.7262657+05:30:Thread#0:TestItem#28:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:28:03.7262657+05:30:Thread#0:Scheduler: using testitem #28 for thread 0
+2019-12-16T19:28:03.7262657+05:30:Thread#0:Scheduler: Test #28 is scheduled for thread
+2019-12-16T19:28:03.7262657+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:28:03.8959487+05:30:Thread#0: Test #26/0 is finished on thread #0 as Failed within 108.8159146 seconds
+2019-12-16T19:28:03.8969508+05:30:Thread#0: Test #28/0 is started on thread #0
+2019-12-16T19:28:07.6274290+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:28:12.1411788+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.5s)
+2019-12-16T19:28:12.1411788+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:28:29.0341353+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.9s)
+2019-12-16T19:28:29.0351386+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:28:36.1660172+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-16T19:28:36.1660172+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:28:36.2306900+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.1s)
+2019-12-16T19:28:36.2311922+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:28:43.4875251+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.3s)
+2019-12-16T19:28:43.4875251+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:29:51.8797655+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:29:51.8797655+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:29:51.8807665+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8807665+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:29:51.8807665+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8807665+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:29:51.8827692+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8827692+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:29:51.8827692+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8827692+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-16T19:29:51.8827692+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8827692+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-16T19:29:51.8827692+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8827692+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-16T19:29:51.8838049+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8838049+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-16T19:29:51.8838049+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8838049+05:30:Thread#0:B:Then Validate payment methods available
+2019-12-16T19:29:51.8838049+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8847753+05:30:Thread#0:B:Then Validate payment summary section
+2019-12-16T19:29:51.8847753+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8847753+05:30:Thread#0:B:When Fill one time payment Credit card details for payment
+2019-12-16T19:29:51.8847753+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8847753+05:30:Thread#0:B:When Fill billing information new Address
+2019-12-16T19:29:51.8847753+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8847753+05:30:Thread#0:B:Then Validate payment breakdown for CreditCard from summary
+2019-12-16T19:29:51.8847753+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8858102+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-16T19:29:51.8858102+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8858102+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-16T19:29:51.8858102+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8858102+05:30:Thread#0:B:Then Validate Order number link, thankyou message and disclaimer
+2019-12-16T19:29:51.8858102+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8858102+05:30:Thread#0:B:When Navigate from order confirmation page to Order details page
+2019-12-16T19:29:51.8858102+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8858102+05:30:Thread#0:B:Then Validate Order detail page elements from product section
+2019-12-16T19:29:51.8868123+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8868123+05:30:Thread#0:B:Then Validate Estimated delivery and its elements
+2019-12-16T19:29:51.8868123+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8868123+05:30:Thread#0:B:Then Validate payment breakdown modal under Estd delivery and Cost
+2019-12-16T19:29:51.8868123+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8868123+05:30:Thread#0:B:Then Validate the order details from order summary panel
+2019-12-16T19:29:51.8868123+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8868123+05:30:Thread#0:B:Then Cancel Delivery for estimated section
+2019-12-16T19:29:51.8878141+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8878141+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:29:51.8878141+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:29:51.8887844+05:30:Thread#0:TestItem#28:Scheduler: reschedule tests for testitem #28
+2019-12-16T19:29:51.8887844+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:29:51.8887844+05:30:Thread#:Scheduler: testitem #30 from normal test queue 
+2019-12-16T19:29:51.8887844+05:30:Thread#0:Scheduler: considering testitem #30 for thread 0
+2019-12-16T19:29:51.8887844+05:30:Thread#0:TestItem#30:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:29:51.8887844+05:30:Thread#0:TestItem#30:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:29:51.8887844+05:30:Thread#0:TestItem#30:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:29:51.8887844+05:30:Thread#0:Scheduler: using testitem #30 for thread 0
+2019-12-16T19:29:51.8887844+05:30:Thread#0:Scheduler: Test #30 is scheduled for thread
+2019-12-16T19:29:51.8887844+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:29:52.0630962+05:30:Thread#0: Test #28/0 is finished on thread #0 as Failed within 108.1661454 seconds
+2019-12-16T19:29:52.0630962+05:30:Thread#0: Test #30/0 is started on thread #0
+2019-12-16T19:29:55.9030298+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:30:01.0954077+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.2s)
+2019-12-16T19:30:01.0954077+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:30:17.3236142+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.2s)
+2019-12-16T19:30:17.3236142+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:30:17.3848302+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.1s)
+2019-12-16T19:30:17.3858335+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:30:24.5241950+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-16T19:30:24.5241950+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:30:32.9263779+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (8.4s)
+2019-12-16T19:30:32.9273804+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:31:42.3185640+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:31:42.3185640+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:31:42.3185640+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3185640+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:31:42.3185640+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3185640+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:31:42.3185640+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3195661+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:31:42.3195661+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3195661+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-16T19:31:42.3195661+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3195661+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-16T19:31:42.3195661+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3195661+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-16T19:31:42.3195661+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3195661+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-16T19:31:42.3195661+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3195661+05:30:Thread#0:B:Then Validate payment methods available
+2019-12-16T19:31:42.3205682+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3205682+05:30:Thread#0:B:Then Validate payment summary section
+2019-12-16T19:31:42.3205682+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3205682+05:30:Thread#0:B:When Fill existing Credit card details for payment
+2019-12-16T19:31:42.3205682+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3205682+05:30:Thread#0:B:When Fill billing information exisiting Address
+2019-12-16T19:31:42.3205682+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3225728+05:30:Thread#0:B:Then Validate payment breakdown for CreditCard from summary
+2019-12-16T19:31:42.3225728+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3225728+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-16T19:31:42.3225728+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3225728+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-16T19:31:42.3225728+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3225728+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:31:42.3225728+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:31:42.3484416+05:30:Thread#0:TestItem#30:Scheduler: reschedule tests for testitem #30
+2019-12-16T19:31:42.3484416+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:31:42.3484416+05:30:Thread#:Scheduler: testitem #31 from normal test queue 
+2019-12-16T19:31:42.3484416+05:30:Thread#0:Scheduler: considering testitem #31 for thread 0
+2019-12-16T19:31:42.3484416+05:30:Thread#0:TestItem#31:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:31:42.3484416+05:30:Thread#0:TestItem#31:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:31:42.3484416+05:30:Thread#0:TestItem#31:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:31:42.3484416+05:30:Thread#0:Scheduler: using testitem #31 for thread 0
+2019-12-16T19:31:42.3484416+05:30:Thread#0:Scheduler: Test #31 is scheduled for thread
+2019-12-16T19:31:42.3484416+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:31:42.5215262+05:30:Thread#0: Test #30/0 is finished on thread #0 as Failed within 110.45843 seconds
+2019-12-16T19:31:42.5215262+05:30:Thread#0: Test #31/0 is started on thread #0
+2019-12-16T19:31:42.5215262+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:31:46.2451744+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:31:50.7471512+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.5s)
+2019-12-16T19:31:50.7471512+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:32:06.7173805+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.0s)
+2019-12-16T19:32:06.7183807+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:32:06.7554965+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-16T19:32:06.7554965+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:32:13.8561048+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-16T19:32:13.8561048+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:32:20.9073342+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.1s)
+2019-12-16T19:32:20.9083424+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:33:29.2686169+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:33:29.2696193+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:33:29.2696193+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2696193+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:33:29.2696193+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2696193+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:33:29.2696193+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2696193+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:33:29.2696193+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2706237+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-16T19:33:29.2706237+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2706237+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-16T19:33:29.2706237+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2706237+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-16T19:33:29.2706237+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2706237+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-16T19:33:29.2706237+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2706237+05:30:Thread#0:B:Then Validate payment methods available
+2019-12-16T19:33:29.2706237+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2706237+05:30:Thread#0:B:Then Validate payment summary section
+2019-12-16T19:33:29.2716322+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2716322+05:30:Thread#0:B:Then Validate security code message hint
+2019-12-16T19:33:29.2716322+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2716322+05:30:Thread#0:B:Then Validate Payment profile message hint
+2019-12-16T19:33:29.2716322+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2716322+05:30:Thread#0:B:When Fill one time payment Credit card details for payment
+2019-12-16T19:33:29.2716322+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2716322+05:30:Thread#0:B:When Fill billing information new Address
+2019-12-16T19:33:29.2716322+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2716322+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-16T19:33:29.2716322+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2716322+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-16T19:33:29.2726287+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2726287+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:33:29.2726287+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:33:29.2726287+05:30:Thread#0:TestItem#31:Scheduler: reschedule tests for testitem #31
+2019-12-16T19:33:29.2726287+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:33:29.2726287+05:30:Thread#:Scheduler: testitem #32 from normal test queue 
+2019-12-16T19:33:29.2726287+05:30:Thread#0:Scheduler: considering testitem #32 for thread 0
+2019-12-16T19:33:29.2726287+05:30:Thread#0:TestItem#32:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:33:29.2726287+05:30:Thread#0:TestItem#32:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:33:29.2726287+05:30:Thread#0:TestItem#32:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:33:29.2726287+05:30:Thread#0:Scheduler: using testitem #32 for thread 0
+2019-12-16T19:33:29.2726287+05:30:Thread#0:Scheduler: Test #32 is scheduled for thread
+2019-12-16T19:33:29.2726287+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:33:29.4398377+05:30:Thread#0: Test #31/0 is finished on thread #0 as Failed within 106.9183115 seconds
+2019-12-16T19:33:29.4398377+05:30:Thread#0: Test #32/0 is started on thread #0
+2019-12-16T19:33:29.4408402+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:33:33.2107862+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:33:37.7325584+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.5s)
+2019-12-16T19:33:37.7325584+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:33:55.9671861+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.2s)
+2019-12-16T19:33:55.9671861+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:33:56.0053682+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-16T19:33:56.0053682+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:34:02.9941979+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.0s)
+2019-12-16T19:34:02.9941979+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:34:10.1764275+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.2s)
+2019-12-16T19:34:10.1764275+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:35:18.7974695+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:35:18.7974695+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:35:18.7974695+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.7984731+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:35:18.7984731+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.7994760+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:35:18.7994760+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.7994760+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:35:18.7994760+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.7994760+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-16T19:35:18.8004792+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8004792+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-16T19:35:18.8004792+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8004792+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-16T19:35:18.8004792+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8014824+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-16T19:35:18.8014824+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8014824+05:30:Thread#0:B:Then Validate payment methods available
+2019-12-16T19:35:18.8014824+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8024849+05:30:Thread#0:B:Then Validate payment summary section
+2019-12-16T19:35:18.8024849+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8024849+05:30:Thread#0:B:Then Validate security code message hint
+2019-12-16T19:35:18.8024849+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8024849+05:30:Thread#0:B:Then Validate Payment profile message hint
+2019-12-16T19:35:18.8024849+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8024849+05:30:Thread#0:B:When Fill existing Credit card details for payment
+2019-12-16T19:35:18.8034870+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8034870+05:30:Thread#0:B:When Fill billing information exisiting Address
+2019-12-16T19:35:18.8034870+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8034870+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-16T19:35:18.8034870+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8034870+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-16T19:35:18.8034870+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8034870+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:35:18.8034870+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:35:18.8049973+05:30:Thread#0:TestItem#32:Scheduler: reschedule tests for testitem #32
+2019-12-16T19:35:18.8049973+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:35:18.8049973+05:30:Thread#:Scheduler: testitem #33 from normal test queue 
+2019-12-16T19:35:18.8049973+05:30:Thread#0:Scheduler: considering testitem #33 for thread 0
+2019-12-16T19:35:18.8049973+05:30:Thread#0:TestItem#33:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:35:18.8049973+05:30:Thread#0:TestItem#33:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:35:18.8049973+05:30:Thread#0:TestItem#33:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:35:18.8049973+05:30:Thread#0:Scheduler: using testitem #33 for thread 0
+2019-12-16T19:35:18.8049973+05:30:Thread#0:Scheduler: Test #33 is scheduled for thread
+2019-12-16T19:35:18.8049973+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:35:18.9641213+05:30:Thread#0: Test #32/0 is finished on thread #0 as Failed within 109.5242836 seconds
+2019-12-16T19:35:18.9641213+05:30:Thread#0: Test #33/0 is started on thread #0
+2019-12-16T19:35:18.9661398+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:35:22.6803975+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:35:27.9967677+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.3s)
+2019-12-16T19:35:27.9977705+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:35:45.4038573+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.4s)
+2019-12-16T19:35:45.4038573+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:35:52.7919497+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.4s)
+2019-12-16T19:35:52.7919497+05:30:Thread#0:B:Then search the product TESTAUTO3333
+2019-12-16T19:35:59.9629051+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TESTAUTO3333") (7.2s)
+2019-12-16T19:35:59.9629051+05:30:Thread#0:B:When Navigate to the product testAuto3333
+2019-12-16T19:36:12.0867935+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='productList']//a[text()='testAuto3333']"}
+2019-12-16T19:36:12.0867935+05:30:Thread#0:T:  (Session info: chrome=78.0.3904.108)
+2019-12-16T19:36:12.0867935+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-12-16T19:36:12.0872580+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:36:12.0872580+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0877586+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:36:12.0877586+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0877586+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:36:12.0882601+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0882601+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:36:12.0882601+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0882601+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-16T19:36:12.0887611+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0887611+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-16T19:36:12.0887611+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0892625+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-16T19:36:12.0892625+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0892625+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-16T19:36:12.0897640+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0897640+05:30:Thread#0:B:When Navigate to Invoice payment method
+2019-12-16T19:36:12.0897640+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0897640+05:30:Thread#0:B:Then Validate Invoice amount to be paid
+2019-12-16T19:36:12.0902654+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0902654+05:30:Thread#0:B:Then Validate payment breakdown for Invoice from summary
+2019-12-16T19:36:12.0902654+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0907664+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-16T19:36:12.0907664+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0912686+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-16T19:36:12.0912686+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0912686+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:36:12.0917693+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:36:12.0927744+05:30:Thread#0:TestItem#33:Scheduler: reschedule tests for testitem #33
+2019-12-16T19:36:12.0927744+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:36:12.0927744+05:30:Thread#:Scheduler: testitem #34 from normal test queue 
+2019-12-16T19:36:12.0927744+05:30:Thread#0:Scheduler: considering testitem #34 for thread 0
+2019-12-16T19:36:12.0927744+05:30:Thread#0:TestItem#34:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:36:12.0927744+05:30:Thread#0:TestItem#34:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:36:12.0927744+05:30:Thread#0:TestItem#34:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:36:12.0927744+05:30:Thread#0:Scheduler: using testitem #34 for thread 0
+2019-12-16T19:36:12.0927744+05:30:Thread#0:Scheduler: Test #34 is scheduled for thread
+2019-12-16T19:36:12.0927744+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:36:12.2723953+05:30:Thread#0: Test #33/0 is finished on thread #0 as Failed within 53.308274 seconds
+2019-12-16T19:36:12.2733933+05:30:Thread#0: Test #34/0 is started on thread #0
+2019-12-16T19:36:12.2733933+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:36:16.0081989+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:36:21.6817202+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.7s)
+2019-12-16T19:36:21.6827223+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:36:38.2567208+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.6s)
+2019-12-16T19:36:38.2577301+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:36:38.3081817+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-16T19:36:38.3081817+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:36:46.6596978+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (8.4s)
+2019-12-16T19:36:46.6596978+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:36:53.8569619+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.2s)
+2019-12-16T19:36:53.8579644+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:38:02.0558666+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:38:02.0568691+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:38:02.0568691+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0568691+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:38:02.0568691+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0568691+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:38:02.0568691+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0578720+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:38:02.0578720+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0578720+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-16T19:38:02.0578720+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0578720+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-16T19:38:02.0578720+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0588737+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-16T19:38:02.0588737+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0588737+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-16T19:38:02.0588737+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0588737+05:30:Thread#0:B:When Navigate to Cofunding payment method
+2019-12-16T19:38:02.0588737+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0588737+05:30:Thread#0:B:Then Validate Cofunding amount to be paid
+2019-12-16T19:38:02.0588737+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0599098+05:30:Thread#0:B:Then Validate payment breakdown for CoFunding from summary
+2019-12-16T19:38:02.0599098+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0599098+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-16T19:38:02.0599098+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0599098+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-16T19:38:02.0599098+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0599098+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:38:02.0599098+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:38:02.0608790+05:30:Thread#0:TestItem#34:Scheduler: reschedule tests for testitem #34
+2019-12-16T19:38:02.0608790+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:38:02.0608790+05:30:Thread#:Scheduler: testitem #35 from normal test queue 
+2019-12-16T19:38:02.0608790+05:30:Thread#0:Scheduler: considering testitem #35 for thread 0
+2019-12-16T19:38:02.0608790+05:30:Thread#0:TestItem#35:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:38:02.0608790+05:30:Thread#0:TestItem#35:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:38:02.0608790+05:30:Thread#0:TestItem#35:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:38:02.0608790+05:30:Thread#0:Scheduler: using testitem #35 for thread 0
+2019-12-16T19:38:02.0608790+05:30:Thread#0:Scheduler: Test #35 is scheduled for thread
+2019-12-16T19:38:02.0608790+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:38:02.2235918+05:30:Thread#0: Test #34/0 is finished on thread #0 as Failed within 109.9501985 seconds
+2019-12-16T19:38:02.2235918+05:30:Thread#0: Test #35/0 is started on thread #0
+2019-12-16T19:38:02.2245951+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:38:06.0066992+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:38:10.3666169+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.4s)
+2019-12-16T19:38:10.3666169+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:38:27.1285596+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.8s)
+2019-12-16T19:38:27.1285596+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:38:27.1686640+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-16T19:38:27.1686640+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:38:34.6157017+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.4s)
+2019-12-16T19:38:34.6167042+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:38:42.9703615+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (8.4s)
+2019-12-16T19:38:42.9713648+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:39:51.6356546+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:39:51.6366574+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:39:51.6366574+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6366574+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:39:51.6376592+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6376592+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:39:51.6376592+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6406655+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:39:51.6416676+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6416676+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-16T19:39:51.6416676+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6416676+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-16T19:39:51.6416676+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6416676+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-16T19:39:51.6426708+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6426708+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-16T19:39:51.6426708+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6426708+05:30:Thread#0:B:When Navigate to CofundingAndCreditCard payment method
+2019-12-16T19:39:51.6426708+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6426708+05:30:Thread#0:B:When Fill Cofunding amount with credit card payment
+2019-12-16T19:39:51.6426708+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6426708+05:30:Thread#0:B:When Fill existing Credit card details for payment
+2019-12-16T19:39:51.6436729+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6436729+05:30:Thread#0:B:When Fill billing information exisiting Address
+2019-12-16T19:39:51.6436729+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6436729+05:30:Thread#0:B:Then Validate payment breakdown for CoFundingAndCreditCard from summary
+2019-12-16T19:39:51.6436729+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6436729+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-16T19:39:51.6436729+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6436729+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-16T19:39:51.6436729+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6447112+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:39:51.6447112+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:39:51.6447112+05:30:Thread#0:TestItem#35:Scheduler: reschedule tests for testitem #35
+2019-12-16T19:39:51.6447112+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:39:51.6447112+05:30:Thread#:Scheduler: testitem #36 from normal test queue 
+2019-12-16T19:39:51.6447112+05:30:Thread#0:Scheduler: considering testitem #36 for thread 0
+2019-12-16T19:39:51.6447112+05:30:Thread#0:TestItem#36:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:39:51.6447112+05:30:Thread#0:TestItem#36:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:39:51.6447112+05:30:Thread#0:TestItem#36:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:39:51.6447112+05:30:Thread#0:Scheduler: using testitem #36 for thread 0
+2019-12-16T19:39:51.6447112+05:30:Thread#0:Scheduler: Test #36 is scheduled for thread
+2019-12-16T19:39:51.6447112+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:39:51.8167484+05:30:Thread#0: Test #35/0 is finished on thread #0 as Failed within 109.5931566 seconds
+2019-12-16T19:39:51.8177513+05:30:Thread#0: Test #36/0 is started on thread #0
+2019-12-16T19:39:51.8177513+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:39:55.6286346+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:40:00.0854403+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.5s)
+2019-12-16T19:40:00.0874543+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:40:16.2399437+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.2s)
+2019-12-16T19:40:16.2409504+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:40:16.2889198+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-16T19:40:16.2889198+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:40:24.6656942+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (8.4s)
+2019-12-16T19:40:24.6656942+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:40:32.9665064+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (8.3s)
+2019-12-16T19:40:32.9675036+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:41:42.4281984+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:41:42.4281984+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:41:42.4281984+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4292028+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:41:42.4292028+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4292028+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:41:42.4302034+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4302034+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:41:42.4302034+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4302034+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-16T19:41:42.4312058+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4312058+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-16T19:41:42.4312058+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4312058+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-16T19:41:42.4322098+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4322098+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-16T19:41:42.4322098+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4322098+05:30:Thread#0:B:When Navigate to CofundingAndInvoice payment method
+2019-12-16T19:41:42.4322098+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4322098+05:30:Thread#0:B:When Fill Cofunding amount with Invoice payment
+2019-12-16T19:41:42.4332108+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4332108+05:30:Thread#0:B:Then Validate payment breakdown for CoFundingAndInvoice from summary
+2019-12-16T19:41:42.4332108+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4332108+05:30:Thread#0:B:When check Terms of Use check box before placing order
+2019-12-16T19:41:42.4332108+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4332108+05:30:Thread#0:B:Then Place the order from payment page
+2019-12-16T19:41:42.4332108+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4332108+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:41:42.4332108+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:41:42.4342133+05:30:Thread#0:TestItem#36:Scheduler: reschedule tests for testitem #36
+2019-12-16T19:41:42.4342133+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:41:42.4342133+05:30:Thread#:Scheduler: testitem #38 from normal test queue 
+2019-12-16T19:41:42.4342133+05:30:Thread#0:Scheduler: considering testitem #38 for thread 0
+2019-12-16T19:41:42.4342133+05:30:Thread#0:TestItem#38:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:41:42.4342133+05:30:Thread#0:TestItem#38:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:41:42.4342133+05:30:Thread#0:TestItem#38:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:41:42.4342133+05:30:Thread#0:Scheduler: using testitem #38 for thread 0
+2019-12-16T19:41:42.4342133+05:30:Thread#0:Scheduler: Test #38 is scheduled for thread
+2019-12-16T19:41:42.4342133+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:41:42.6329798+05:30:Thread#0: Test #36/0 is finished on thread #0 as Failed within 110.8152285 seconds
+2019-12-16T19:41:42.6329798+05:30:Thread#0: Test #38/0 is started on thread #0
+2019-12-16T19:41:46.3157280+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:41:51.3305749+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.0s)
+2019-12-16T19:41:51.3305749+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:42:09.1943969+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.9s)
+2019-12-16T19:42:09.1943969+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:42:09.2475399+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.1s)
+2019-12-16T19:42:09.2485398+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:42:17.4390878+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (8.2s)
+2019-12-16T19:42:17.4390878+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:42:24.4844138+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.0s)
+2019-12-16T19:42:24.4844138+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:43:32.9549223+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:43:32.9549223+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:43:32.9549223+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9549223+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:43:32.9549223+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9549223+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:43:32.9549223+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9559244+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:43:32.9559244+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9559244+05:30:Thread#0:B:Then Validate product details from cart section
+2019-12-16T19:43:32.9559244+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9559244+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-12-16T19:43:32.9559244+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9559244+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-12-16T19:43:32.9559244+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9559244+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-12-16T19:43:32.9569268+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9569268+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-12-16T19:43:32.9569268+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9569268+05:30:Thread#0:B:Then signout the application
+2019-12-16T19:43:32.9569268+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:43:32.9831423+05:30:Thread#0:TestItem#38:Scheduler: reschedule tests for testitem #38
+2019-12-16T19:43:32.9831423+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:43:32.9831423+05:30:Thread#:Scheduler: testitem #39 from normal test queue 
+2019-12-16T19:43:32.9831423+05:30:Thread#0:Scheduler: considering testitem #39 for thread 0
+2019-12-16T19:43:32.9831423+05:30:Thread#0:TestItem#39:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:43:32.9831423+05:30:Thread#0:TestItem#39:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:43:32.9831423+05:30:Thread#0:TestItem#39:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:43:32.9831423+05:30:Thread#0:Scheduler: using testitem #39 for thread 0
+2019-12-16T19:43:32.9831423+05:30:Thread#0:Scheduler: Test #39 is scheduled for thread
+2019-12-16T19:43:32.9831423+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:43:33.1590417+05:30:Thread#0: Test #38/0 is finished on thread #0 as Failed within 110.5260619 seconds
+2019-12-16T19:43:33.1590417+05:30:Thread#0: Test #39/0 is started on thread #0
+2019-12-16T19:43:33.1590417+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:43:36.9014058+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:43:41.5714232+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.7s)
+2019-12-16T19:43:41.5714232+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:43:58.4070524+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.8s)
+2019-12-16T19:43:58.4070524+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:43:58.4451997+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-16T19:43:58.4451997+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:44:05.1182977+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.7s)
+2019-12-16T19:44:05.1182977+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:44:13.4386993+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (8.3s)
+2019-12-16T19:44:13.4397044+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:45:21.6175643+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:45:21.6175643+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:45:21.6175643+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6175643+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:45:21.6185656+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6185656+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:45:21.6185656+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6185656+05:30:Thread#0:B:When Get current item count from cart
+2019-12-16T19:45:21.6185656+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6195681+05:30:Thread#0:B:When Edit product from the shopping cart page
+2019-12-16T19:45:21.6195681+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6195681+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:45:21.6195681+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6195681+05:30:Thread#0:B:When Update Delivery Options page details for MailToRecipientList
+2019-12-16T19:45:21.6205714+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6205714+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:45:21.6205714+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6205714+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:45:21.6205714+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6205714+05:30:Thread#0:B:Then Validate product details from cart section
+2019-12-16T19:45:21.6205714+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6215761+05:30:Thread#0:B:Then Validate cart count after edit product
+2019-12-16T19:45:21.6215761+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:45:21.6225767+05:30:Thread#0:TestItem#39:Scheduler: reschedule tests for testitem #39
+2019-12-16T19:45:21.6225767+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:45:21.6225767+05:30:Thread#:Scheduler: testitem #40 from normal test queue 
+2019-12-16T19:45:21.6225767+05:30:Thread#0:Scheduler: considering testitem #40 for thread 0
+2019-12-16T19:45:21.6225767+05:30:Thread#0:TestItem#40:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:45:21.6225767+05:30:Thread#0:TestItem#40:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:45:21.6225767+05:30:Thread#0:TestItem#40:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:45:21.6225767+05:30:Thread#0:Scheduler: using testitem #40 for thread 0
+2019-12-16T19:45:21.6225767+05:30:Thread#0:Scheduler: Test #40 is scheduled for thread
+2019-12-16T19:45:21.6225767+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:45:21.7978316+05:30:Thread#0: Test #39/0 is finished on thread #0 as Failed within 108.6387899 seconds
+2019-12-16T19:45:21.7978316+05:30:Thread#0: Test #40/0 is started on thread #0
+2019-12-16T19:45:21.7988356+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:45:25.5547590+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:45:29.8129428+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.3s)
+2019-12-16T19:45:29.8129428+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:45:47.7115970+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.9s)
+2019-12-16T19:45:47.7115970+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:45:47.7707602+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.1s)
+2019-12-16T19:45:47.7707602+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:45:54.8471705+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-16T19:45:54.8481696+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:46:03.0734679+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (8.2s)
+2019-12-16T19:46:03.0734679+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:47:12.6041224+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:47:12.6041224+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:47:12.6041224+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6051264+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:47:12.6051264+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6051264+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:47:12.6051264+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6061285+05:30:Thread#0:B:When Get current item count from cart
+2019-12-16T19:47:12.6061285+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6061285+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:47:12.6061285+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6061285+05:30:Thread#0:B:When Copy product from the shopping cart page
+2019-12-16T19:47:12.6071302+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6071302+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:47:12.6071302+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6081327+05:30:Thread#0:B:When Update Delivery Options page details for ShipToAnAddress
+2019-12-16T19:47:12.6081327+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6081327+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:47:12.6081327+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6081327+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:47:12.6091359+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6091359+05:30:Thread#0:B:Then Validate product details from cart section
+2019-12-16T19:47:12.6091359+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6091359+05:30:Thread#0:B:Then Validate cart items after copy the product
+2019-12-16T19:47:12.6091359+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:47:12.6101380+05:30:Thread#0:TestItem#40:Scheduler: reschedule tests for testitem #40
+2019-12-16T19:47:12.6101380+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:47:12.6101380+05:30:Thread#:Scheduler: testitem #41 from normal test queue 
+2019-12-16T19:47:12.6101380+05:30:Thread#0:Scheduler: considering testitem #41 for thread 0
+2019-12-16T19:47:12.6101380+05:30:Thread#0:TestItem#41:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:47:12.6101380+05:30:Thread#0:TestItem#41:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:47:12.6101380+05:30:Thread#0:TestItem#41:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:47:12.6101380+05:30:Thread#0:Scheduler: using testitem #41 for thread 0
+2019-12-16T19:47:12.6101380+05:30:Thread#0:Scheduler: Test #41 is scheduled for thread
+2019-12-16T19:47:12.6101380+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:47:12.7827767+05:30:Thread#0: Test #40/0 is finished on thread #0 as Failed within 110.9849451 seconds
+2019-12-16T19:47:12.7827767+05:30:Thread#0: Test #41/0 is started on thread #0
+2019-12-16T19:47:12.7827767+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:47:16.4738023+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:47:21.3342778+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.9s)
+2019-12-16T19:47:21.3342778+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:47:39.2271264+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.9s)
+2019-12-16T19:47:39.2276267+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:47:39.3040283+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.1s)
+2019-12-16T19:47:39.3040283+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:47:46.4188061+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.1s)
+2019-12-16T19:47:46.4198101+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:47:53.4724649+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.1s)
+2019-12-16T19:47:53.4724649+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:49:01.8509369+05:30:Thread#0:T:error: Timed out after 60 seconds
+2019-12-16T19:49:01.8509369+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:49:01.8514402+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:49:01.8514402+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:49:01.8524725+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:49:01.8524725+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:49:01.8529414+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:49:01.8529414+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:49:01.8529414+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:49:01.8529414+05:30:Thread#0:B:When Get current item count from cart
+2019-12-16T19:49:01.8529414+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:49:01.8534421+05:30:Thread#0:B:When Save for Later product from the shopping cart page
+2019-12-16T19:49:01.8534421+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:49:01.8534421+05:30:Thread#0:B:Then Validate copy, remove, add to cart button of Save Later section
+2019-12-16T19:49:01.8534421+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:49:01.8534421+05:30:Thread#0:B:Then Validate cart count after Save a product for Later
+2019-12-16T19:49:01.8534421+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:49:01.8539439+05:30:Thread#0:TestItem#41:Scheduler: reschedule tests for testitem #41
+2019-12-16T19:49:01.8539439+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:49:01.8539439+05:30:Thread#:Scheduler: testitem #42 from normal test queue 
+2019-12-16T19:49:01.8539439+05:30:Thread#0:Scheduler: considering testitem #42 for thread 0
+2019-12-16T19:49:01.8544453+05:30:Thread#0:TestItem#42:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:49:01.8544453+05:30:Thread#0:TestItem#42:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:49:01.8544453+05:30:Thread#0:TestItem#42:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:49:01.8544453+05:30:Thread#0:Scheduler: using testitem #42 for thread 0
+2019-12-16T19:49:01.8544453+05:30:Thread#0:Scheduler: Test #42 is scheduled for thread
+2019-12-16T19:49:01.8544453+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:49:02.0207410+05:30:Thread#0: Test #41/0 is finished on thread #0 as Failed within 109.2379643 seconds
+2019-12-16T19:49:02.0207410+05:30:Thread#0: Test #42/0 is started on thread #0
+2019-12-16T19:49:02.0217450+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-16T19:49:05.7990708+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T19:49:10.0858318+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.3s)
+2019-12-16T19:49:10.0858318+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T19:49:27.0502260+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.0s)
+2019-12-16T19:49:27.0512333+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T19:49:27.0904568+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-16T19:49:27.0904568+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T19:49:34.3300232+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.2s)
+2019-12-16T19:49:34.3305258+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T19:49:41.4103996+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.1s)
+2019-12-16T19:49:41.4103996+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T19:50:48.5083181+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (67.1s)
+2019-12-16T19:50:48.5083181+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T19:50:59.8998041+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (11.4s)
+2019-12-16T19:50:59.9008093+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T19:51:10.1664854+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"name","selector":"deliveryOptions"}
+2019-12-16T19:51:10.1664854+05:30:Thread#0:T:  (Session info: chrome=78.0.3904.108)
+2019-12-16T19:51:10.1674875+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-12-16T19:51:10.1674875+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-16T19:51:10.1674875+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:51:10.1684907+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-16T19:51:10.1684907+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:51:10.1684907+05:30:Thread#0:B:When Get current item count from cart
+2019-12-16T19:51:10.1694936+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:51:10.1694936+05:30:Thread#0:B:When Remove the product from the cart
+2019-12-16T19:51:10.1694936+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:51:10.1694936+05:30:Thread#0:B:Then Validate cart count after removing a product
+2019-12-16T19:51:10.1704972+05:30:Thread#0:T:skipped because of previous errors
+2019-12-16T19:51:10.1755148+05:30:Thread#0:TestItem#42:Scheduler: reschedule tests for testitem #42
+2019-12-16T19:51:10.1755148+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:51:10.1755148+05:30:Thread#:Scheduler: testitem #44 from normal test queue 
+2019-12-16T19:51:10.1755148+05:30:Thread#0:Scheduler: considering testitem #44 for thread 0
+2019-12-16T19:51:10.1760159+05:30:Thread#0:TestItem#44:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T19:51:10.1760159+05:30:Thread#0:TestItem#44:runsOnOneOtherThreadSpecific:False
+2019-12-16T19:51:10.1760159+05:30:Thread#0:TestItem#44:runsOnOneOtherThreadUnspecific:False
+2019-12-16T19:51:10.1760159+05:30:Thread#0:Scheduler: using testitem #44 for thread 0
+2019-12-16T19:51:10.1760159+05:30:Thread#0:Scheduler: Test #44 is scheduled for thread
+2019-12-16T19:51:10.1760159+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T19:51:11.4067254+05:30:Thread#0: Test #42/0 is finished on thread #0 as Failed within 129.3859844 seconds
+2019-12-16T19:51:11.4067254+05:30:Thread#0: Test #44/0 is started on thread #0
+2019-12-16T19:51:15.2450743+05:30:Thread#0:B:Given I have launched the KLIC test site

@@ -1,0 +1,84 @@
+﻿2019-12-05T19:46:27.9835975+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-05T19:46:27.9835975+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-05T19:46:27.9835975+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-05T19:46:28.0837636+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-05T19:46:28.0837636+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-05T19:46:28.0847668+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-05T19:46:28.1117370+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-05T194628.log
+2019-12-05T19:46:28.1210916+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-05T19:46:28.1266100+05:30;Thread#13;Info;Checking license
+2019-12-05T19:46:28.1380461+05:30;Thread#13;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-12-05T19:46:38.1394031+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-05T19:46:38.1481336+05:30;Thread#13;Info;License check completed
+2019-12-05T19:46:38.1503016+05:30;Thread#13;Info;starting test run
+2019-12-05T19:46:38.1676923+05:30;Thread#13;Info;Discovering target: Default
+2019-12-05T19:46:38.1686691+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-05T19:46:38.8853793+05:30:Appdomain Disposed
+2019-12-05T19:46:38.8853793+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-05T19:46:38.8865271+05:30:Test Suite Dump
+2019-12-05T19:46:38.8893760+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-05T19:46:38.8893760+05:30:#1: Default - 
+2019-12-05T19:46:38.8893760+05:30:#2: ConductorPOC - 
+2019-12-05T19:46:38.8893760+05:30:#3: Storefront: Corporate Funding - 
+2019-12-05T19:46:38.9809706+05:30:#10: Manage Funding tab - Add balance to user - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Add+balance+to+user
+2019-12-05T19:46:38.9809706+05:30:End: Test Suite Dump
+2019-12-05T19:46:39.0601690+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T19:46:39.0626674+05:30:Thread#:Scheduler: testitem #10 from normal test queue 
+2019-12-05T19:46:39.0631854+05:30:Thread#0:Scheduler: considering testitem #10 for thread 0
+2019-12-05T19:46:39.0711902+05:30:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-05T19:46:39.0711902+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2019-12-05T19:46:39.0711902+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2019-12-05T19:46:39.0711902+05:30:Thread#0:Scheduler: using testitem #10 for thread 0
+2019-12-05T19:46:39.0716927+05:30:Thread#0:Scheduler: Test #10 is scheduled for thread
+2019-12-05T19:46:39.0731928+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-05T19:46:39.0791786+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-05T19:46:39.0811794+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-05T19:46:39.0821936+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-05T19:46:39.0841865+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-05T19:46:39.3064785+05:30:Thread#0: Test #10/0 is started on thread #0
+2019-12-05T19:46:40.0367876+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-05T19:46:40.0593560+05:30:Thread#0:T:-> Using default config
+2019-12-05T19:46:50.0816756+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-05T19:46:58.8886280+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (8.8s)
+2019-12-05T19:46:58.8901319+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-05T19:47:30.2786225+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (31.4s)
+2019-12-05T19:47:30.2786225+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-05T19:47:38.3923101+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (8.1s)
+2019-12-05T19:47:38.3923101+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-05T19:47:44.8250766+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (6.4s)
+2019-12-05T19:47:44.8260836+05:30:Thread#0:B:Then Validate Name search field and label
+2019-12-05T19:47:44.9352547+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.1s)
+2019-12-05T19:47:44.9352547+05:30:Thread#0:B:Then Search for a name Chris Steffen in manage individual funding accounts
+2019-12-05T19:47:45.2943540+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Chris Steffen") (0.4s)
+2019-12-05T19:47:45.2943540+05:30:Thread#0:B:Then Validate Add and Reset links available
+2019-12-05T19:47:46.7277049+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateAddAndResetLinksAvailable() (1.4s)
+2019-12-05T19:47:46.7282071+05:30:Thread#0:B:When Add balance 10 to first user record
+2019-12-05T19:47:49.8152523+05:30:Thread#0:T:error: Input string was not in a correct format.
+2019-12-05T19:47:50.0630714+05:30:Thread#0:TestItem#10:Scheduler: reschedule tests for testitem #10
+2019-12-05T19:47:50.0680846+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T19:47:50.0690878+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-05T19:47:50.0690878+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-05T19:47:50.0690878+05:30:Thread#0:Scheduler: No more tests for thread
+2019-12-05T19:47:50.3942913+05:30:Thread#0: Test #10/0 is finished on thread #0 as Failed within 71.0868538 seconds
+2019-12-05T19:47:50.5109060+05:30:Appdomain Disposed
+2019-12-05T19:47:50.5130941+05:30:Trying to cancel thread
+2019-12-05T19:47:50.5130941+05:30:Thread cancelled
+2019-12-05T19:47:50.5284257+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-12-05T19:47:50.5284257+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-05T19:47:50.5284257+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-05T19:47:50.5304299+05:30;Thread#13;Info;test run finished
+2019-12-05T19:47:50.5309314+05:30;Thread#13;Info;publishing test results
+2019-12-05T19:47:50.5369795+05:30;Thread#13;Info;test results published
+2019-12-05T19:47:50.5374480+05:30;Thread#13;Info;generating reports
+2019-12-05T19:47:50.7065559+05:30;Thread#13;Info;Starting external report generation process
+2019-12-05T19:47:55.2085235+05:30;Thread#13;Info;Successfully generated reports.
+2019-12-05T19:47:55.2115324+05:30;Thread#13;Info;Successfully generated reports
+2019-12-05T19:47:55.2316129+05:30:Total: 1
+2019-12-05T19:47:55.2346094+05:30:Succeeded: 0
+2019-12-05T19:47:55.2350980+05:30:Ignored: 0
+2019-12-05T19:47:55.2361004+05:30:Pending: 0
+2019-12-05T19:47:55.2361004+05:30:Skipped: 0
+2019-12-05T19:47:55.2366026+05:30:Failed: 1
+2019-12-05T19:47:55.2676889+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-05T19:47:55.2676889+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-05T194628.html'
+========== End of log file ==========

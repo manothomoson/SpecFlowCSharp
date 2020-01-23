@@ -1,0 +1,114 @@
+﻿2019-11-22T18:34:11.7602485+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-11-22T18:34:11.7602485+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-11-22T18:34:11.7602485+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-11-22T18:34:11.9154261+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-11-22T18:34:11.9154261+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-11-22T18:34:11.9154261+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-11-22T18:34:11.9404922+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-11-22T183411.log
+2019-11-22T18:34:11.9515206+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-11-22T18:34:11.9585395+05:30;Thread#13;Info;Checking license
+2019-11-22T18:34:11.9735842+05:30;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-11-22T18:34:25.9764530+05:30;Thread#13;Info;Evaluation delay finished.
+2019-11-22T18:34:25.9835021+05:30;Thread#13;Info;License check completed
+2019-11-22T18:34:25.9835021+05:30;Thread#13;Info;starting test run
+2019-11-22T18:34:26.0165975+05:30;Thread#13;Info;Discovering target: Default
+2019-11-22T18:34:26.0176158+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-11-22T18:34:26.3879184+05:30:Appdomain Disposed
+2019-11-22T18:34:26.3879184+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-11-22T18:34:26.3888869+05:30:Test Suite Dump
+2019-11-22T18:34:26.3898890+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-11-22T18:34:26.3898890+05:30:#1: Default - 
+2019-11-22T18:34:26.3898890+05:30:#2: ConductorPOC - 
+2019-11-22T18:34:26.3898890+05:30:#34: StoreFront Dashboard - 
+2019-11-22T18:34:26.4212139+05:30:#35: Login and validate dashboard page - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+validate+dashboard+page
+2019-11-22T18:34:26.4212139+05:30:#36: Login and search a product - TestAssembly:ConductorPOC/Feature:StoreFront+Dashboard/Scenario:Login+and+search+a+product
+2019-11-22T18:34:26.4212139+05:30:End: Test Suite Dump
+2019-11-22T18:34:26.4429576+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-11-22T18:34:26.4449917+05:30:Thread#:Scheduler: testitem #35 from normal test queue 
+2019-11-22T18:34:26.4449917+05:30:Thread#0:Scheduler: considering testitem #35 for thread 0
+2019-11-22T18:34:26.4479987+05:30:Thread#0:TestItem#35:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-22T18:34:26.4479987+05:30:Thread#0:TestItem#35:runsOnOneOtherThreadSpecific:False
+2019-11-22T18:34:26.4479987+05:30:Thread#0:TestItem#35:runsOnOneOtherThreadUnspecific:False
+2019-11-22T18:34:26.4479987+05:30:Thread#0:Scheduler: using testitem #35 for thread 0
+2019-11-22T18:34:26.4489714+05:30:Thread#0:Scheduler: Test #35 is scheduled for thread
+2019-11-22T18:34:26.4499735+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-22T18:34:26.4520090+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-11-22T18:34:26.4540147+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-22T18:34:26.4540147+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-22T18:34:26.4549862+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-11-22T18:34:26.8711109+05:30:Thread#0: Test #35/0 is started on thread #0
+2019-11-22T18:34:27.2786105+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-11-22T18:34:27.2966559+05:30:Thread#0:T:-> Using default config
+2019-11-22T18:34:35.8681665+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-11-22T18:34:41.4712135+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.6s)
+2019-11-22T18:34:41.4722149+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-11-22T18:34:59.9297183+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.5s)
+2019-11-22T18:34:59.9297183+05:30:Thread#0:B:And assert KLIC logo on upper left corner of the page
+2019-11-22T18:35:02.0532810+05:30:Thread#0:T:done: SF_DashboardSteps.AssertLogo() (2.1s)
+2019-11-22T18:35:02.0542831+05:30:Thread#0:B:Then assert upper right for shoppingCart, CoFund, Profile icons
+2019-11-22T18:35:02.1330073+05:30:Thread#0:T:done: SF_DashboardSteps.AssertIcons() (0.1s)
+2019-11-22T18:35:02.1340097+05:30:Thread#0:B:When assert the main menu widgets and product search form
+2019-11-22T18:35:02.3211900+05:30:Thread#0:T:done: SF_DashboardSteps.AssertMainMenuWidgets() (0.2s)
+2019-11-22T18:35:02.3211900+05:30:Thread#0:B:When assert home page layer
+2019-11-22T18:35:02.4618027+05:30:Thread#0:T:done: SF_DashboardSteps.AssertHomePageLayer() (0.1s)
+2019-11-22T18:35:02.4618027+05:30:Thread#0:B:When assert the footer sections
+2019-11-22T18:35:02.5641808+05:30:Thread#0:T:done: SF_DashboardSteps.AssertFooterSections() (0.1s)
+2019-11-22T18:35:02.5691932+05:30:Thread#0:B:When assert MyTools footer section links
+2019-11-22T18:35:02.6961859+05:30:Thread#0:T:done: SF_DashboardSteps.AssertMyToolsFooterSections() (0.1s)
+2019-11-22T18:35:02.6961859+05:30:Thread#0:B:When assert Products footer section links
+2019-11-22T18:35:02.7990318+05:30:Thread#0:T:done: SF_DashboardSteps.AssertProductsFooterSections() (0.1s)
+2019-11-22T18:35:02.7990318+05:30:Thread#0:B:When assert Compaigns footer section links
+2019-11-22T18:35:02.8512135+05:30:Thread#0:T:done: SF_DashboardSteps.AssertCompaignsFooterSections() (0.1s)
+2019-11-22T18:35:02.8512135+05:30:Thread#0:B:When assert Contacts footer section links
+2019-11-22T18:35:02.9293200+05:30:Thread#0:T:done: SF_DashboardSteps.AssertContactsFooterSections() (0.1s)
+2019-11-22T18:35:02.9293200+05:30:Thread#0:B:Then signout the application
+2019-11-22T18:35:11.7641327+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (8.8s)
+2019-11-22T18:35:11.7711527+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-11-22T18:35:11.7711527+05:30:Thread#:Scheduler: testitem #36 from normal test queue 
+2019-11-22T18:35:11.7721552+05:30:Thread#0:Scheduler: considering testitem #36 for thread 0
+2019-11-22T18:35:11.7721552+05:30:Thread#0:TestItem#36:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-22T18:35:11.7721552+05:30:Thread#0:TestItem#36:runsOnOneOtherThreadSpecific:False
+2019-11-22T18:35:11.7721552+05:30:Thread#0:TestItem#36:runsOnOneOtherThreadUnspecific:False
+2019-11-22T18:35:11.7721552+05:30:Thread#0:Scheduler: using testitem #36 for thread 0
+2019-11-22T18:35:11.7721552+05:30:Thread#0:Scheduler: Test #36 is scheduled for thread
+2019-11-22T18:35:11.7721552+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-22T18:35:12.0335127+05:30:Thread#0: Test #35/0 is finished on thread #0 as Succeeded within 45.1624018 seconds
+2019-11-22T18:35:12.0355177+05:30:Thread#0: Test #36/0 is started on thread #0
+2019-11-22T18:35:12.0360184+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-11-22T18:35:15.6752494+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-11-22T18:35:19.2994081+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (3.6s)
+2019-11-22T18:35:19.2994081+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-11-22T18:35:36.9353760+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (17.6s)
+2019-11-22T18:35:36.9353760+05:30:Thread#0:B:When navigate to products menu
+2019-11-22T18:36:01.2866458+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (24.4s)
+2019-11-22T18:36:01.2876483+05:30:Thread#0:B:Then search the product 000 PR - Greeting Card
+2019-11-22T18:36:19.1343688+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("000 PR - Greeting...") (17.8s)
+2019-11-22T18:36:19.1353713+05:30:Thread#0:B:Then signout the application
+2019-11-22T18:36:28.1614278+05:30:Thread#0:T:done: SF_DashboardSteps.Signout() (9.0s)
+2019-11-22T18:36:28.1614278+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-11-22T18:36:28.1614278+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-11-22T18:36:28.1614278+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-11-22T18:36:28.1614278+05:30:Thread#0:Scheduler: No more tests for thread
+2019-11-22T18:36:28.3794473+05:30:Thread#0: Test #36/0 is finished on thread #0 as Succeeded within 76.3439296 seconds
+2019-11-22T18:36:28.4499852+05:30:Appdomain Disposed
+2019-11-22T18:36:28.4519894+05:30:Trying to cancel thread
+2019-11-22T18:36:28.4519894+05:30:Thread cancelled
+2019-11-22T18:36:28.4590078+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-11-22T18:36:28.4590078+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-11-22T18:36:28.4590078+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-11-22T18:36:28.4610136+05:30;Thread#13;Info;test run finished
+2019-11-22T18:36:28.4610136+05:30;Thread#13;Info;publishing test results
+2019-11-22T18:36:28.4987600+05:30;Thread#13;Info;test results published
+2019-11-22T18:36:28.4987600+05:30;Thread#13;Info;generating reports
+2019-11-22T18:36:28.7252362+05:30;Thread#13;Info;Starting external report generation process
+2019-11-22T18:36:32.3860814+05:30;Thread#13;Info;Successfully generated reports.
+2019-11-22T18:36:32.3885886+05:30;Thread#13;Info;Successfully generated reports
+2019-11-22T18:36:32.3971106+05:30:Total: 2
+2019-11-22T18:36:32.3981153+05:30:Succeeded: 2
+2019-11-22T18:36:32.3991189+05:30:Ignored: 0
+2019-11-22T18:36:32.3991189+05:30:Pending: 0
+2019-11-22T18:36:32.3991189+05:30:Skipped: 0
+2019-11-22T18:36:32.4001218+05:30:Failed: 0
+2019-11-22T18:36:32.4111827+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-11-22T18:36:32.4121538+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-11-22T183411.html'
+========== End of log file ==========

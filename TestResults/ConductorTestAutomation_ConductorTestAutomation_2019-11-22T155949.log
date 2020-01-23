@@ -1,0 +1,150 @@
+﻿2019-11-22T15:59:49.7172534+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-11-22T15:59:49.7172534+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-11-22T15:59:49.7172534+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-11-22T15:59:49.8173717+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-11-22T15:59:49.8179056+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-11-22T15:59:49.8179056+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-11-22T15:59:49.8364259+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-11-22T155949.log
+2019-11-22T15:59:49.8434436+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-11-22T15:59:49.8511191+05:30;Thread#13;Info;Checking license
+2019-11-22T15:59:49.8661589+05:30;Thread#13;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-11-22T15:59:59.8674340+05:30;Thread#13;Info;Evaluation delay finished.
+2019-11-22T15:59:59.8864713+05:30;Thread#13;Info;License check completed
+2019-11-22T15:59:59.8864713+05:30;Thread#13;Info;starting test run
+2019-11-22T15:59:59.9045208+05:30;Thread#13;Info;Discovering target: Default
+2019-11-22T15:59:59.9045208+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-11-22T16:00:00.2548180+05:30:Appdomain Disposed
+2019-11-22T16:00:00.2548180+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-11-22T16:00:00.2558189+05:30:Test Suite Dump
+2019-11-22T16:00:00.2568226+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-11-22T16:00:00.2568226+05:30:#1: Default - 
+2019-11-22T16:00:00.2568226+05:30:#2: ConductorPOC - 
+2019-11-22T16:00:00.2568226+05:30:#28: StoreFront - Product Shopping Cart - 
+2019-11-22T16:00:00.2848957+05:30:#29: Order Workflow -  Product Shopping Cart - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart
+2019-11-22T16:00:00.2848957+05:30:#30: Order Workflow -  Product Shopping Cart (Edit Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Edit+Button)
+2019-11-22T16:00:00.2848957+05:30:#31: Order Workflow -  Product Shopping Cart (Copy Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Copy+Button)
+2019-11-22T16:00:00.2848957+05:30:#32: Order Workflow -  Product Shopping Cart (Save for Later Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Save+for+Later+Button)
+2019-11-22T16:00:00.2848957+05:30:#33: Order Workflow -  Product Shopping Cart (Remove Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Remove+Button)
+2019-11-22T16:00:00.2848957+05:30:End: Test Suite Dump
+2019-11-22T16:00:00.3029445+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-11-22T16:00:00.3049502+05:30:Thread#:Scheduler: testitem #29 from normal test queue 
+2019-11-22T16:00:00.3049502+05:30:Thread#0:Scheduler: considering testitem #29 for thread 0
+2019-11-22T16:00:00.3079580+05:30:Thread#0:TestItem#29:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-22T16:00:00.3079580+05:30:Thread#0:TestItem#29:runsOnOneOtherThreadSpecific:False
+2019-11-22T16:00:00.3079580+05:30:Thread#0:TestItem#29:runsOnOneOtherThreadUnspecific:False
+2019-11-22T16:00:00.3079580+05:30:Thread#0:Scheduler: using testitem #29 for thread 0
+2019-11-22T16:00:00.3089646+05:30:Thread#0:Scheduler: Test #29 is scheduled for thread
+2019-11-22T16:00:00.3099637+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-22T16:00:00.3119687+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-11-22T16:00:00.3139748+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-22T16:00:00.3149787+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-22T16:00:00.3159793+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-11-22T16:00:00.3748325+05:30:Thread#0: Test #29/0 is started on thread #0
+2019-11-22T16:00:00.5799373+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-11-22T16:00:00.5844407+05:30:Thread#0:T:-> Using default config
+2019-11-22T16:00:05.2222576+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-11-22T16:00:09.2309888+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.0s)
+2019-11-22T16:00:09.2319909+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-11-22T16:00:24.8883509+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (15.7s)
+2019-11-22T16:00:24.8883509+05:30:Thread#0:B:When navigate to products menu
+2019-11-22T16:00:33.1930774+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (8.3s)
+2019-11-22T16:00:33.1950827+05:30:Thread#0:B:Then search the product TESTAUTO3333
+2019-11-22T16:00:39.0820704+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TESTAUTO3333") (5.9s)
+2019-11-22T16:00:39.0820704+05:30:Thread#0:B:When Navigate to the product testAuto3333
+2019-11-22T16:00:46.5864706+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("testAuto3333") (7.5s)
+2019-11-22T16:00:46.5864706+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-11-22T16:00:55.4566838+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (8.9s)
+2019-11-22T16:00:55.4576871+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-11-22T16:01:23.5497825+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (28.1s)
+2019-11-22T16:01:23.5497825+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-11-22T16:01:29.5548206+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (6.0s)
+2019-11-22T16:01:29.5548206+05:30:Thread#0:B:Then Validate cart summary section
+2019-11-22T16:01:31.7885365+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.2s)
+2019-11-22T16:01:31.7895402+05:30:Thread#0:B:Then Validate product details from cart section
+2019-11-22T16:01:44.0717847+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"id","selector":"prev_Pageflex"}
+2019-11-22T16:01:44.0717847+05:30:Thread#0:T:  (Session info: chrome=78.0.3904.108)
+2019-11-22T16:01:44.0717847+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-11-22T16:01:44.0717847+05:30:Thread#0:B:Then Validate estimated Delivery and Cost section
+2019-11-22T16:01:44.0717847+05:30:Thread#0:T:skipped because of previous errors
+2019-11-22T16:01:44.0717847+05:30:Thread#0:B:When Add General Ledger code to the product
+2019-11-22T16:01:44.0727876+05:30:Thread#0:T:skipped because of previous errors
+2019-11-22T16:01:44.0727876+05:30:Thread#0:B:When Add Product NickName TestNickName to the product
+2019-11-22T16:01:44.0727876+05:30:Thread#0:T:skipped because of previous errors
+2019-11-22T16:01:44.0727876+05:30:Thread#0:B:Then Navigate from Shopping cart page to Payment page
+2019-11-22T16:01:44.0727876+05:30:Thread#0:T:skipped because of previous errors
+2019-11-22T16:01:44.0727876+05:30:Thread#0:B:Then signout the application
+2019-11-22T16:01:44.0727876+05:30:Thread#0:T:skipped because of previous errors
+2019-11-22T16:01:44.1089995+05:30:Thread#0:TestItem#29:Scheduler: reschedule tests for testitem #29
+2019-11-22T16:01:44.1089995+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-11-22T16:01:44.1089995+05:30:Thread#:Scheduler: testitem #30 from normal test queue 
+2019-11-22T16:01:44.1089995+05:30:Thread#0:Scheduler: considering testitem #30 for thread 0
+2019-11-22T16:01:44.1089995+05:30:Thread#0:TestItem#30:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-22T16:01:44.1089995+05:30:Thread#0:TestItem#30:runsOnOneOtherThreadSpecific:False
+2019-11-22T16:01:44.1089995+05:30:Thread#0:TestItem#30:runsOnOneOtherThreadUnspecific:False
+2019-11-22T16:01:44.1089995+05:30:Thread#0:Scheduler: using testitem #30 for thread 0
+2019-11-22T16:01:44.1089995+05:30:Thread#0:Scheduler: Test #30 is scheduled for thread
+2019-11-22T16:01:44.1089995+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-22T16:01:44.3387471+05:30:Thread#0: Test #29/0 is finished on thread #0 as Failed within 103.9619085 seconds
+2019-11-22T16:01:44.3397500+05:30:Thread#0: Test #30/0 is started on thread #0
+2019-11-22T16:01:44.3397500+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-11-22T16:01:48.2231627+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-11-22T16:01:51.6735759+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (3.5s)
+2019-11-22T16:01:51.6735759+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-11-22T16:02:08.4634527+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.8s)
+2019-11-22T16:02:08.4639519+05:30:Thread#0:B:When navigate to products menu
+2019-11-22T16:02:15.9085228+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.4s)
+2019-11-22T16:02:15.9095358+05:30:Thread#0:B:Then search the product TESTAUTO3333
+2019-11-22T16:02:25.7889338+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TESTAUTO3333") (9.9s)
+2019-11-22T16:02:25.7894371+05:30:Thread#0:B:When Navigate to the product testAuto3333
+2019-11-22T16:02:38.5842285+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("testAuto3333") (12.8s)
+2019-11-22T16:02:38.5852302+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-11-22T16:02:49.8149151+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (11.2s)
+2019-11-22T16:02:49.8149151+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-11-22T16:03:17.7639560+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.9s)
+2019-11-22T16:03:17.7639560+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-11-22T16:03:27.1626187+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (9.4s)
+2019-11-22T16:03:27.1813075+05:30:Thread#0:B:When Get current item count from cart
+2019-11-22T16:03:27.2199174+05:30:Thread#0:T:item count..2
+2019-11-22T16:03:27.2209210+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenGetCurrentItemCountFromCart() (0.0s)
+2019-11-22T16:03:27.2209210+05:30:Thread#0:B:When Edit product from the shopping cart page
+2019-11-22T16:03:32.9325709+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenEditProductFromTheShoppingCartPage() (5.7s)
+2019-11-22T16:03:32.9325709+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-11-22T16:03:42.3749602+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (9.4s)
+2019-11-22T16:03:42.3749602+05:30:Thread#0:B:When Update Delivery Options page details for MailToRecipientList
+2019-11-22T16:04:26.9023984+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenUpdateDeliveryOptionsPageDetailsForShipToAnAddress("MailToRecipientList") (44.5s)
+2019-11-22T16:04:26.9023984+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-11-22T16:04:33.5144651+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (6.6s)
+2019-11-22T16:04:33.5144651+05:30:Thread#0:B:Then Validate cart summary section
+2019-11-22T16:04:35.7852875+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.3s)
+2019-11-22T16:04:35.7852875+05:30:Thread#0:B:Then Validate product details from cart section
+2019-11-22T16:04:47.9490474+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"id","selector":"prev_Pageflex"}
+2019-11-22T16:04:47.9490474+05:30:Thread#0:T:  (Session info: chrome=78.0.3904.108)
+2019-11-22T16:04:47.9490474+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-11-22T16:04:47.9490474+05:30:Thread#0:B:Then Validate cart count after edit product
+2019-11-22T16:04:47.9490474+05:30:Thread#0:T:skipped because of previous errors
+2019-11-22T16:04:47.9500424+05:30:Thread#0:TestItem#30:Scheduler: reschedule tests for testitem #30
+2019-11-22T16:04:47.9500424+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-11-22T16:04:47.9500424+05:30:Thread#:Scheduler: testitem #31 from normal test queue 
+2019-11-22T16:04:47.9500424+05:30:Thread#0:Scheduler: considering testitem #31 for thread 0
+2019-11-22T16:04:47.9500424+05:30:Thread#0:TestItem#31:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-22T16:04:47.9500424+05:30:Thread#0:TestItem#31:runsOnOneOtherThreadSpecific:False
+2019-11-22T16:04:47.9500424+05:30:Thread#0:TestItem#31:runsOnOneOtherThreadUnspecific:False
+2019-11-22T16:04:47.9500424+05:30:Thread#0:Scheduler: using testitem #31 for thread 0
+2019-11-22T16:04:47.9500424+05:30:Thread#0:Scheduler: Test #31 is scheduled for thread
+2019-11-22T16:04:47.9500424+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-22T16:04:48.1672796+05:30:Thread#0: Test #30/0 is finished on thread #0 as Failed within 183.8275296 seconds
+2019-11-22T16:04:48.1672796+05:30:Thread#0: Test #31/0 is started on thread #0
+2019-11-22T16:04:48.1672796+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-11-22T16:04:52.2753641+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-11-22T16:04:55.6272818+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (3.4s)
+2019-11-22T16:04:55.6272818+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-11-22T16:05:11.1795426+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (15.6s)
+2019-11-22T16:05:11.1795426+05:30:Thread#0:B:When navigate to products menu
+2019-11-22T16:05:18.9251722+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.7s)
+2019-11-22T16:05:18.9261743+05:30:Thread#0:B:Then search the product TESTAUTO3333
+2019-11-22T16:05:24.7898464+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TESTAUTO3333") (5.9s)
+2019-11-22T16:05:24.7898464+05:30:Thread#0:B:When Navigate to the product testAuto3333
+2019-11-22T16:05:32.5766134+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("testAuto3333") (7.8s)
+2019-11-22T16:05:32.5766134+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-11-22T16:05:41.5331973+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (9.0s)
+2019-11-22T16:05:41.5342009+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress

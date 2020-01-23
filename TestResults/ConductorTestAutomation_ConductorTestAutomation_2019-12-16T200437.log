@@ -1,0 +1,57 @@
+﻿2019-12-16T20:04:36.7369999+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-16T20:04:36.7369999+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-16T20:04:36.7369999+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-16T20:04:37.4469177+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-16T20:04:37.4469177+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-16T20:04:37.4469177+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-16T20:04:37.4719842+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-16T200437.log
+2019-12-16T20:04:37.4840196+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-16T20:04:37.4915414+05:30;Thread#14;Info;Checking license
+2019-12-16T20:04:37.5055787+05:30;Thread#14;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-12-16T20:04:47.5081334+05:30;Thread#14;Info;Evaluation delay finished.
+2019-12-16T20:04:47.5231766+05:30;Thread#14;Info;License check completed
+2019-12-16T20:04:47.5231766+05:30;Thread#14;Info;starting test run
+2019-12-16T20:04:47.5649650+05:30;Thread#14;Info;Discovering target: Default
+2019-12-16T20:04:47.5657802+05:30;Thread#14;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-16T20:04:48.9923137+05:30:Appdomain Disposed
+2019-12-16T20:04:48.9923137+05:30;Thread#14;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-16T20:04:48.9933166+05:30:Test Suite Dump
+2019-12-16T20:04:48.9953219+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-16T20:04:48.9953219+05:30:#1: Default - 
+2019-12-16T20:04:48.9953219+05:30:#2: ConductorPOC - 
+2019-12-16T20:04:48.9953219+05:30:#27: StoreFront - Order Workflow - Order Confirmation - 
+2019-12-16T20:04:49.0311638+05:30:#28: Order Workflow -  Order Confirmation, Order Detail - TestAssembly:ConductorPOC/Feature:StoreFront+-+Order+Workflow+-+Order+Confirmation/Scenario:Order+Workflow+-++Order+Confirmation%2c+Order+Detail
+2019-12-16T20:04:49.0311638+05:30:End: Test Suite Dump
+2019-12-16T20:04:49.0522200+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T20:04:49.0532224+05:30:Thread#:Scheduler: testitem #28 from normal test queue 
+2019-12-16T20:04:49.0532224+05:30:Thread#0:Scheduler: considering testitem #28 for thread 0
+2019-12-16T20:04:49.0572331+05:30:Thread#0:TestItem#28:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-16T20:04:49.0572331+05:30:Thread#0:TestItem#28:runsOnOneOtherThreadSpecific:False
+2019-12-16T20:04:49.0572331+05:30:Thread#0:TestItem#28:runsOnOneOtherThreadUnspecific:False
+2019-12-16T20:04:49.0572331+05:30:Thread#0:Scheduler: using testitem #28 for thread 0
+2019-12-16T20:04:49.0582360+05:30:Thread#0:Scheduler: Test #28 is scheduled for thread
+2019-12-16T20:04:49.0582360+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-16T20:04:49.0612438+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-16T20:04:49.0622817+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-16T20:04:49.0632495+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-16T20:04:49.0652544+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-16T20:04:49.2425604+05:30:Thread#0: Test #28/0 is started on thread #0
+2019-12-16T20:04:49.6523085+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-16T20:04:49.6612867+05:30:Thread#0:T:-> Using default config
+2019-12-16T20:04:54.2695204+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-16T20:04:58.9008206+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.6s)
+2019-12-16T20:04:58.9018238+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-16T20:05:16.8989263+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (18.0s)
+2019-12-16T20:05:16.8989263+05:30:Thread#0:B:When navigate to products menu
+2019-12-16T20:05:26.2725935+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (9.4s)
+2019-12-16T20:05:26.2725935+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-16T20:05:26.3370372+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.1s)
+2019-12-16T20:05:26.3380389+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-16T20:05:33.4504730+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.1s)
+2019-12-16T20:05:33.4514774+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-16T20:06:41.2735802+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (67.8s)
+2019-12-16T20:06:41.2735802+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-16T20:07:01.6664353+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (20.4s)
+2019-12-16T20:07:01.6664353+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-16T20:07:29.8677781+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (28.2s)
+2019-12-16T20:07:29.8677781+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page

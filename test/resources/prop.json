@@ -1,0 +1,180 @@
+{
+  "Host": "https://conductorbase-stg.azurewebsites.net/",
+  "RedirectHost": "https://conductorreg4131to414.azurewebsites.net/",
+  "Tester": {
+    "Email": "manothomsonf@nltechdev.com\", // change to your own email",
+    "DownloadsPath": "C:\\Users\\MTFrancis\\Downloads" // change to your own path to your downloads location
+  },
+  "Users": {
+    "AdminUser": {
+      "UserName": "admin",
+      "Password": "P@ssword06"
+    },
+    "AdminUserInt": {
+      "UserName": "pandiya",
+      "Password": "Password@02"
+    },
+    "AdminUserBackUP": {
+      "UserName": "admin",
+      "Password": "P@ssword06"
+    },
+
+    "FundAdministrator": {
+      "UserName": "FundAdminTestAuto",
+      "Password": "Nltd@789"
+    },
+
+    "NonFundingUser": {
+      "UserName": "NonFundAutoAdmin",
+      "Password": "Nltd@789"
+    }
+  },
+
+  "ProductGeneralTabDetails": {
+    "Print": {
+      "ProductName": "TestAuto",
+      "ProductDescription": "TestAuto",
+      "UnitWeight": "15"
+    }
+  },
+
+  "ProductImagesTabDetails": {
+
+  },
+
+  "ProductVisibilityTabDetails": {
+    "Print": {
+      "VisibilityOptions": {
+        "RequireOrderApproval": "Yes",
+        "AppearProductCatalog": "Yes",
+        "AppearCampaignCatalog": "No"
+      },
+      "ProductCatagories": {
+        "ProductCatagory": "Print"
+      }
+    }
+  },
+
+  "ProductPricingAndDeliveryTabDetails": {
+    "Print": {
+
+      "StandardOptions": {
+        "ProductMailed": "Yes",
+        "ProductShipped": "Yes",
+        "ProductDownloaded": "Yes"
+      },
+
+      "Fulfillment": {
+        "CreateProductionReadyfiles": "No"
+      },
+
+      "Postage": {
+        "UseUSPSPublishedRate": "Yes",
+        "UseCustomPostageRate": "Yes",
+        "UseAdvancedPostageRates": "No"
+      },
+
+      "Shipping": {
+        "Freeshipping": "Yes",
+        "ShipToMultipleAddresses": "Yes"
+      },
+
+      "Pricing": {
+        "SimplePricing": "Yes",
+        "UnitPrice": "15",
+        "DiscountUnitPrice": "0",
+        "AdvancedPricing": "No"
+      },
+
+      "CoFunding": {
+        "CofundingAmount": "0"
+      }
+    }
+  },
+
+  "ProductCustomizationTabDetails": {
+    "Print": {
+      "FieldName": "FirstName",
+      "DisplayText": "FirstName",
+      "TargetFieldSelection": "Profile",
+      "TargetField": "Profile - First Name",
+      "FieldType": "Text",
+      "Required": "No"
+
+    }
+  },
+
+  "SFProductCustomizationDetails": {
+    "Print": {
+      "Address1": "1 Hardman Dr",
+      "Address2": "",
+      "City": "Bloomington",
+      "FirstName": "Chris",
+      "LastName": "Steffen",
+      "MobilePhone": "(222)222-2222",
+      "OfficePhone": "(309)684-6051",
+      "State": "IL",
+      "Website": "www.nltd.com",
+      "Zip": "61701"
+    }
+  },
+
+  "SFProductDeliveryOptionsDetails": {
+    "ShipToAnAddress": {
+      "PreferredDeliveryMethod": "Ship to an Address",
+      "Quantity": "1",
+      "ShipDateFrequency": "Weekly",
+      "StartShipDate": "",
+      "EndShipDate": "",
+      "DeliveryMethod": "FedEx",
+      "DeliveryType": "FedEx Ground"
+    },
+    "MailToRecipientList": {
+      "PreferredDeliveryMethod": "Mail to Recipient List",
+      "Quantity": "1",
+      "ShipDateFrequency": "Weekly",
+      "StartShipDate": "",
+      "EndShipDate": "",
+      "DeliveryMethod": "USPS",
+      "DeliveryType": "PRESORTED CLASS"
+    },
+    "Download": {
+      "PreferredDeliveryMethod": "Download"
+    }
+  },
+
+  "SFGeneralLedgerCode": {
+    "ProductGLCode": "Test GLProduct",
+    "UserGLCode": "Test GL User",
+    "OrderGLCode": "Test GLOrder"
+  },
+
+  "SFPaymentMethods": {
+    "CreditCard": {
+      "PaymentType": "One-time payment",
+      "CardType": "visa",
+      "NameOnCard": "Test Automation",
+      "CardNumber": "5454545454545454",
+      "ExpiryDate": "12/2020",
+      "SecurityCode": "123",
+      "SaveToPaymentProfile": "Yes"
+    },
+    "ExistingCreditCard": "visa ending in 5454",
+
+
+    "BillingInformation": {
+      "NewAddress": {
+        "Address1": "5 Hardman",
+        "Address2": "Dr Bloom",
+        "City": "Bloomington",
+        "State": "Illinois",
+        "ZIP": "61701",
+        "Country": "United States",
+        "SaveToProfile": "Yes"
+      }
+    },
+    "ExistingBillingAddress": "FirstAvailableAddress"
+
+  }
+
+}

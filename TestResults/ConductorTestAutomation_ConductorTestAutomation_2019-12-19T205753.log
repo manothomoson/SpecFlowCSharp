@@ -1,0 +1,87 @@
+﻿2019-12-19T20:57:53.2440764+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-19T20:57:53.2440764+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-19T20:57:53.2440764+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-19T20:57:53.3534993+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T20:57:53.3545025+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-19T20:57:53.3545025+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-19T20:57:53.4023134+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-19T205753.log
+2019-12-19T20:57:53.4102931+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-19T20:57:53.4153486+05:30;Thread#13;Info;Checking license
+2019-12-19T20:57:53.4266934+05:30;Thread#13;Info;Evaluation mode: test execution starts in 13 seconds... (this delay is removed in the registered version)
+2019-12-19T20:58:06.4278680+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-19T20:58:06.4479278+05:30;Thread#13;Info;License check completed
+2019-12-19T20:58:06.4484292+05:30;Thread#13;Info;starting test run
+2019-12-19T20:58:06.4654758+05:30;Thread#13;Info;Discovering target: Default
+2019-12-19T20:58:06.4664783+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T20:58:06.8738545+05:30:Appdomain Disposed
+2019-12-19T20:58:06.8738545+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T20:58:06.8748559+05:30:Test Suite Dump
+2019-12-19T20:58:06.8792864+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-19T20:58:06.8792864+05:30:#1: Default - 
+2019-12-19T20:58:06.8792864+05:30:#2: ConductorPOC - 
+2019-12-19T20:58:06.8792864+05:30:#21: Product Customization - verify customization fields, preview, approve and Continue - 
+2019-12-19T20:58:06.9249688+05:30:#22: Product Customization - Print Product verify customization fields - TestAssembly:ConductorPOC/Feature:Product+Customization+-+verify+customization+fields%2c+preview%2c+approve+and+Continue/Scenario:Product+Customization+-+Print+Product+verify+customization+fields
+2019-12-19T20:58:06.9249688+05:30:End: Test Suite Dump
+2019-12-19T20:58:06.9530457+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-19T20:58:06.9555528+05:30:Thread#:Scheduler: testitem #22 from normal test queue 
+2019-12-19T20:58:06.9555528+05:30:Thread#0:Scheduler: considering testitem #22 for thread 0
+2019-12-19T20:58:06.9630773+05:30:Thread#0:TestItem#22:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-19T20:58:06.9630773+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadSpecific:False
+2019-12-19T20:58:06.9630773+05:30:Thread#0:TestItem#22:runsOnOneOtherThreadUnspecific:False
+2019-12-19T20:58:06.9630773+05:30:Thread#0:Scheduler: using testitem #22 for thread 0
+2019-12-19T20:58:06.9650826+05:30:Thread#0:Scheduler: Test #22 is scheduled for thread
+2019-12-19T20:58:06.9660843+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-19T20:58:06.9700946+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-19T20:58:06.9720996+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-19T20:58:06.9731028+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-19T20:58:06.9761113+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-19T20:58:07.8296666+05:30:Thread#0: Test #22/0 is started on thread #0
+2019-12-19T20:58:08.1124709+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-19T20:58:08.1164808+05:30:Thread#0:T:-> Using default config
+2019-12-19T20:58:13.8150021+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-19T20:58:19.1826760+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.3s)
+2019-12-19T20:58:19.1841807+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-19T20:58:35.6096842+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.4s)
+2019-12-19T20:58:35.6096842+05:30:Thread#0:B:When navigate to products menu
+2019-12-19T20:58:43.3370776+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (7.7s)
+2019-12-19T20:58:43.3380804+05:30:Thread#0:B:Then search the product TestAuto
+2019-12-19T20:58:50.4755720+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto") (7.1s)
+2019-12-19T20:58:50.4765737+05:30:Thread#0:B:When Navigate to the first product
+2019-12-19T20:59:00.0582922+05:30:Thread#0:T:done: ProductCustomizationSteps.WhenNavigateToTheFirstProduct() (9.6s)
+2019-12-19T20:59:00.0582922+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-19T20:59:11.0534244+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (11.0s)
+2019-12-19T20:59:11.0534244+05:30:Thread#0:B:When Fill product customization fields for Print
+2019-12-19T20:59:11.1843555+05:30:Thread#0:T:json data..1 Hardman Dr
+2019-12-19T20:59:11.2801436+05:30:Thread#0:T:done: ProductCustomizationSteps.WhenFillProductCustomizationFields("Print") (0.2s)
+2019-12-19T20:59:11.2806447+05:30:Thread#0:B:Then Preview and approve from customization
+2019-12-19T20:59:14.2317298+05:30:Thread#0:T:error: Assert.IsFalse failed. Error in Preview
+2019-12-19T20:59:14.2542575+05:30:Thread#0:B:Then signout the application
+2019-12-19T20:59:14.2551644+05:30:Thread#0:T:skipped because of previous errors
+2019-12-19T20:59:14.6389607+05:30:Thread#0:TestItem#22:Scheduler: reschedule tests for testitem #22
+2019-12-19T20:59:14.6419606+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-19T20:59:14.6419606+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-19T20:59:14.6419606+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-19T20:59:14.6419606+05:30:Thread#0:Scheduler: No more tests for thread
+2019-12-19T20:59:15.1017688+05:30:Thread#0: Test #22/0 is finished on thread #0 as Failed within 67.2721022 seconds
+2019-12-19T20:59:15.2103746+05:30:Appdomain Disposed
+2019-12-19T20:59:15.2143906+05:30:Trying to cancel thread
+2019-12-19T20:59:15.2143906+05:30:Thread cancelled
+2019-12-19T20:59:15.2309407+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-12-19T20:59:15.2309407+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-19T20:59:15.2309407+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-19T20:59:15.2339481+05:30;Thread#13;Info;test run finished
+2019-12-19T20:59:15.2339481+05:30;Thread#13;Info;publishing test results
+2019-12-19T20:59:15.3085117+05:30;Thread#13;Info;test results published
+2019-12-19T20:59:15.3095157+05:30;Thread#13;Info;generating reports
+2019-12-19T20:59:15.6320230+05:30;Thread#13;Info;Starting external report generation process
+2019-12-19T20:59:21.0126555+05:30;Thread#13;Info;Successfully generated reports.
+2019-12-19T20:59:21.0156652+05:30;Thread#13;Info;Successfully generated reports
+2019-12-19T20:59:21.0247245+05:30:Total: 1
+2019-12-19T20:59:21.0266978+05:30:Succeeded: 0
+2019-12-19T20:59:21.0271992+05:30:Ignored: 0
+2019-12-19T20:59:21.0277002+05:30:Pending: 0
+2019-12-19T20:59:21.0277002+05:30:Skipped: 0
+2019-12-19T20:59:21.0282013+05:30:Failed: 1
+2019-12-19T20:59:21.0377307+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-19T20:59:21.0387320+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-19T205753.html'
+========== End of log file ==========

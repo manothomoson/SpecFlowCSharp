@@ -1,0 +1,103 @@
+﻿2019-12-20T19:34:04.7503304+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-20T19:34:04.7503304+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-20T19:34:04.7503304+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-20T19:34:04.8583858+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-20T19:34:04.8583858+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-20T19:34:04.8583858+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-20T19:34:04.8764341+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-20T193404.log
+2019-12-20T19:34:04.8844536+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-20T19:34:04.8894667+05:30;Thread#13;Info;Checking license
+2019-12-20T19:34:04.9015335+05:30;Thread#13;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-12-20T19:34:15.9025997+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-20T19:34:15.9236967+05:30;Thread#13;Info;License check completed
+2019-12-20T19:34:15.9241974+05:30;Thread#13;Info;starting test run
+2019-12-20T19:34:15.9518080+05:30;Thread#13;Info;Discovering target: Default
+2019-12-20T19:34:15.9518080+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-20T19:34:16.2811382+05:30:Appdomain Disposed
+2019-12-20T19:34:16.2811382+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-20T19:34:16.2821418+05:30:Test Suite Dump
+2019-12-20T19:34:16.2831447+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-20T19:34:16.2831447+05:30:#1: Default - 
+2019-12-20T19:34:16.2831447+05:30:#2: ConductorPOC - 
+2019-12-20T19:34:16.2831447+05:30:#37: StoreFront - Product Shopping Cart - 
+2019-12-20T19:34:16.3142218+05:30:#39: Order Workflow -  Product Shopping Cart (Edit Button) - TestAssembly:ConductorPOC/Feature:StoreFront+-+Product+Shopping+Cart/Scenario:Order+Workflow+-++Product+Shopping+Cart+(Edit+Button)
+2019-12-20T19:34:16.3142218+05:30:End: Test Suite Dump
+2019-12-20T19:34:16.3342793+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T19:34:16.3362850+05:30:Thread#:Scheduler: testitem #39 from normal test queue 
+2019-12-20T19:34:16.3362850+05:30:Thread#0:Scheduler: considering testitem #39 for thread 0
+2019-12-20T19:34:16.3392932+05:30:Thread#0:TestItem#39:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-20T19:34:16.3392932+05:30:Thread#0:TestItem#39:runsOnOneOtherThreadSpecific:False
+2019-12-20T19:34:16.3392932+05:30:Thread#0:TestItem#39:runsOnOneOtherThreadUnspecific:False
+2019-12-20T19:34:16.3392932+05:30:Thread#0:Scheduler: using testitem #39 for thread 0
+2019-12-20T19:34:16.3402949+05:30:Thread#0:Scheduler: Test #39 is scheduled for thread
+2019-12-20T19:34:16.3420786+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-20T19:34:16.3445910+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-20T19:34:16.3466289+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-20T19:34:16.3466289+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-20T19:34:16.3475981+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-20T19:34:16.4112522+05:30:Thread#0: Test #39/0 is started on thread #0
+2019-12-20T19:34:16.6229879+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-20T19:34:16.6275343+05:30:Thread#0:T:-> Using default config
+2019-12-20T19:34:20.9656172+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-20T19:34:27.2478167+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (6.2s)
+2019-12-20T19:34:27.2488282+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-20T19:34:43.2225799+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (16.0s)
+2019-12-20T19:34:43.2225799+05:30:Thread#0:B:When Remove existing items from shopping cart
+2019-12-20T19:34:43.2692104+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenRemoveExistingItemsFromShoppingCart() (0.0s)
+2019-12-20T19:34:43.2692104+05:30:Thread#0:B:When navigate to products menu
+2019-12-20T19:34:49.9249514+05:30:Thread#0:T:done: SF_DashboardSteps.NavigateToProducts() (6.7s)
+2019-12-20T19:34:49.9259550+05:30:Thread#0:B:Then search the product TestAuto7315
+2019-12-20T19:34:56.9057333+05:30:Thread#0:T:done: SF_DashboardSteps.ThenSearchTheProduct("TestAuto7315") (7.0s)
+2019-12-20T19:34:56.9067365+05:30:Thread#0:B:When Navigate to the product TestAuto7315
+2019-12-20T19:35:06.0824653+05:30:Thread#0:T:done: ProductCatalogSteps.WhenNavigateToTheProduct("TestAuto7315") (9.2s)
+2019-12-20T19:35:06.0824653+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T19:35:19.2455652+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (13.2s)
+2019-12-20T19:35:19.2455652+05:30:Thread#0:B:When Fill Delivery Options page details for ShipToAnAddress
+2019-12-20T19:35:47.1580076+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.WhenFillDeliveryOptionsPageDetails("ShipToAnAddress") (27.9s)
+2019-12-20T19:35:47.1580076+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T19:35:55.8666661+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.7s)
+2019-12-20T19:35:55.8666661+05:30:Thread#0:B:When Get current item count from cart
+2019-12-20T19:35:55.9044854+05:30:Thread#0:T:item count..1
+2019-12-20T19:35:55.9054879+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenGetCurrentItemCountFromCart() (0.0s)
+2019-12-20T19:35:55.9054879+05:30:Thread#0:B:When Edit product from the shopping cart page
+2019-12-20T19:36:04.2683571+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenEditProductFromTheShoppingCartPage() (8.4s)
+2019-12-20T19:36:04.2683571+05:30:Thread#0:B:Then Navigate from Produt details page to product Customization page
+2019-12-20T19:36:14.1537466+05:30:Thread#0:T:done: ProductCustomizationSteps.ThenNavigateFromProdutDetailsPageToProductCustomizationPage() (9.9s)
+2019-12-20T19:36:14.1547453+05:30:Thread#0:B:When Update Delivery Options page details for MailToRecipientList
+2019-12-20T19:36:58.4128890+05:30:Thread#0:T:done: ProductShoppingCartSteps.WhenUpdateDeliveryOptionsPageDetailsForShipToAnAddress("MailToRecipientList") (44.3s)
+2019-12-20T19:36:58.4128890+05:30:Thread#0:B:Then Navigate from Delivery Options page to Shopping cart page
+2019-12-20T19:37:06.6123994+05:30:Thread#0:T:done: ProductDeliveryOptionsSteps.ThenNavigateFromDeliveryOptionsPageToShoppingCartPage() (8.2s)
+2019-12-20T19:37:06.6134041+05:30:Thread#0:B:Then Validate cart summary section
+2019-12-20T19:37:08.9292105+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartSummarySection() (2.3s)
+2019-12-20T19:37:08.9297101+05:30:Thread#0:B:Then Validate product details from cart section
+2019-12-20T19:37:11.1943033+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateProductDetailsFromCartSection() (2.3s)
+2019-12-20T19:37:11.1953107+05:30:Thread#0:B:Then Validate cart count after edit product
+2019-12-20T19:37:11.2253959+05:30:Thread#0:T:item count..1
+2019-12-20T19:37:11.2253959+05:30:Thread#0:T:done: ProductShoppingCartSteps.ThenValidateCartCountAfterEditProduct() (0.0s)
+2019-12-20T19:37:11.2854045+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-20T19:37:11.2854045+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-20T19:37:11.2854045+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-20T19:37:11.2854045+05:30:Thread#0:Scheduler: No more tests for thread
+2019-12-20T19:37:11.6159890+05:30:Thread#0: Test #39/0 is finished on thread #0 as Succeeded within 175.2047368 seconds
+2019-12-20T19:37:11.6744016+05:30:Appdomain Disposed
+2019-12-20T19:37:11.6764394+05:30:Trying to cancel thread
+2019-12-20T19:37:11.6764394+05:30:Thread cancelled
+2019-12-20T19:37:11.6970145+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-12-20T19:37:11.6970145+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-20T19:37:11.6970145+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-20T19:37:11.6989874+05:30;Thread#13;Info;test run finished
+2019-12-20T19:37:11.6999872+05:30;Thread#13;Info;publishing test results
+2019-12-20T19:37:11.7395758+05:30;Thread#13;Info;test results published
+2019-12-20T19:37:11.7395758+05:30;Thread#13;Info;generating reports
+2019-12-20T19:37:11.8829799+05:30;Thread#13;Info;Starting external report generation process
+2019-12-20T19:37:15.1611660+05:30;Thread#13;Info;Successfully generated reports.
+2019-12-20T19:37:15.1651771+05:30;Thread#13;Info;Successfully generated reports
+2019-12-20T19:37:15.1742024+05:30:Total: 1
+2019-12-20T19:37:15.1762383+05:30:Succeeded: 1
+2019-12-20T19:37:15.1772091+05:30:Ignored: 0
+2019-12-20T19:37:15.1772091+05:30:Pending: 0
+2019-12-20T19:37:15.1772091+05:30:Skipped: 0
+2019-12-20T19:37:15.1782115+05:30:Failed: 0
+2019-12-20T19:37:15.1882382+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-20T19:37:15.1882382+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-20T193404.html'
+========== End of log file ==========

@@ -1,0 +1,181 @@
+﻿2019-12-19T18:55:45.8830248+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-19T18:55:45.8830248+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-12-19T18:55:45.8830248+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\ConductorTestAutomation\test\ConductorTest\packages\SpecRun.Runner.3.0.377\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-19T18:55:45.9828334+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T18:55:45.9838808+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\ConductorTestAutomation\test\ConductorTest\TestResults" (default)
+2019-12-19T18:55:45.9838808+05:30;VSTestExecutionThread;Info;Profile: ConductorTestAutomation
+2019-12-19T18:55:46.0018862+05:30;VSTestExecutionThread;Info;Log file path: D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-19T185545.log
+2019-12-19T18:55:46.0119449+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-19T18:55:46.0179265+05:30;Thread#13;Info;Checking license
+2019-12-19T18:55:46.0279559+05:30;Thread#13;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2019-12-19T18:55:51.0294692+05:30;Thread#13;Info;Evaluation delay finished.
+2019-12-19T18:55:51.0375245+05:30;Thread#13;Info;License check completed
+2019-12-19T18:55:51.0375245+05:30;Thread#13;Info;starting test run
+2019-12-19T18:55:51.0698617+05:30;Thread#13;Info;Discovering target: Default
+2019-12-19T18:55:51.0698617+05:30;Thread#13;Info;Discovering tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T18:55:51.7237695+05:30:Appdomain Disposed
+2019-12-19T18:55:51.7237695+05:30;Thread#13;Info;Discovered tests from assembly: D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\ConductorPOC.dll
+2019-12-19T18:55:51.7247414+05:30:Test Suite Dump
+2019-12-19T18:55:51.7257431+05:30:#0: ConductorTestAutomation/ConductorTestAutomation - 
+2019-12-19T18:55:51.7257431+05:30:#1: Default - 
+2019-12-19T18:55:51.7257431+05:30:#2: ConductorPOC - 
+2019-12-19T18:55:51.7257431+05:30:#3: Storefront: Corporate Funding - 
+2019-12-19T18:55:51.7567788+05:30:#6: Corporate Funding - Validate default view and Total funds Allocated to users - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Corporate+Funding+-+Validate+default+view+and+Total+funds+Allocated+to+users
+2019-12-19T18:55:51.7567788+05:30:#9: Manage Funding tab - Check Indicator for User Activity in search result table - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Indicator+for+User+Activity+in+search+result+table
+2019-12-19T18:55:51.7567788+05:30:#10: Manage Funding tab - Check Add action and add balance to user - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Add+action+and+add+balance+to+user
+2019-12-19T18:55:51.7567788+05:30:#11: Manage Funding tab - Check Reset action and reset balance to user - TestAssembly:ConductorPOC/Feature:Storefront%3a+Corporate+Funding/Scenario:Manage+Funding+tab+-+Check+Reset+action+and+reset+balance+to+user
+2019-12-19T18:55:51.7567788+05:30:End: Test Suite Dump
+2019-12-19T18:55:51.8310784+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-19T18:55:51.8330852+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-12-19T18:55:51.8330852+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-12-19T18:55:51.8381312+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-19T18:55:51.8381312+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-12-19T18:55:51.8381312+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-12-19T18:55:51.8381312+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-12-19T18:55:51.8391023+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-12-19T18:55:51.8838574+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-19T18:55:51.8858627+05:30:Thread #0: creating new test thread executor for ConductorPOC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-19T18:55:51.8878684+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-19T18:55:51.8883695+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-19T18:55:51.8898730+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-19T18:55:52.3569825+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-12-19T18:55:52.7686616+05:30:Thread#0:T:-> Loading plugin D:\ConductorTestAutomation\test\ConductorTest\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-19T18:55:52.8017403+05:30:Thread#0:T:-> Using default config
+2019-12-19T18:56:01.0567830+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-19T18:56:09.1025587+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (8.0s)
+2019-12-19T18:56:09.1040626+05:30:Thread#0:B:When I have logged in with AdminUser
+2019-12-19T18:56:28.5675767+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("AdminUser") (19.5s)
+2019-12-19T18:56:28.5675767+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-19T18:56:37.8630232+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (9.3s)
+2019-12-19T18:56:37.8635247+05:30:Thread#0:B:Then Validate the new tabs in CoFunding page
+2019-12-19T18:56:37.9392776+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheNewTabsInCoFundingPage() (0.1s)
+2019-12-19T18:56:37.9392776+05:30:Thread#0:B:When Validate MyFunding Account tab as default view for Non Fund Administrator
+2019-12-19T18:56:50.3068930+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='row hidden-xs hidden-sm']//a[contains(@href,'AccountSummary')]/parent::li[contains(@class,'active')]"}
+2019-12-19T18:56:50.3068930+05:30:Thread#0:T:  (Session info: chrome=79.0.3945.88)
+2019-12-19T18:56:50.3068930+05:30:Thread#0:T:  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64)
+2019-12-19T18:56:50.3078966+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-19T18:56:50.3088987+05:30:Thread#0:T:skipped because of previous errors
+2019-12-19T18:56:50.3088987+05:30:Thread#0:B:Then Validate the sections in manage funding tab
+2019-12-19T18:56:50.3098997+05:30:Thread#0:T:skipped because of previous errors
+2019-12-19T18:56:50.3098997+05:30:Thread#0:B:When Validate Total funds Allocated to users in CoFunding Balance section
+2019-12-19T18:56:50.3098997+05:30:Thread#0:T:skipped because of previous errors
+2019-12-19T18:56:50.4745461+05:30:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2019-12-19T18:56:50.4755153+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-19T18:56:50.4755153+05:30:Thread#:Scheduler: testitem #9 from normal test queue 
+2019-12-19T18:56:50.4755153+05:30:Thread#0:Scheduler: considering testitem #9 for thread 0
+2019-12-19T18:56:50.4755153+05:30:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-19T18:56:50.4755153+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2019-12-19T18:56:50.4755153+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2019-12-19T18:56:50.4755153+05:30:Thread#0:Scheduler: using testitem #9 for thread 0
+2019-12-19T18:56:50.4755153+05:30:Thread#0:Scheduler: Test #9 is scheduled for thread
+2019-12-19T18:56:50.4755153+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-19T18:56:50.8881048+05:30:Thread#0: Test #6/0 is finished on thread #0 as Failed within 58.5311223 seconds
+2019-12-19T18:56:50.8906112+05:30:Thread#0: Test #9/0 is started on thread #0
+2019-12-19T18:56:50.8911130+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-19T18:56:54.5983647+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-19T18:56:59.3916701+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.8s)
+2019-12-19T18:56:59.3916701+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-19T18:57:16.6238914+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (17.2s)
+2019-12-19T18:57:16.6238914+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-19T18:57:27.1820972+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (10.6s)
+2019-12-19T18:57:27.1825994+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-19T18:57:36.3289392+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (9.1s)
+2019-12-19T18:57:36.3289392+05:30:Thread#0:B:Then Validate Name search field and label
+2019-12-19T18:57:36.5456808+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.2s)
+2019-12-19T18:57:36.5456808+05:30:Thread#0:B:When Assert column names and tooltips in manage individual funding table
+2019-12-19T18:57:36.7416525+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenAssertColumnNamesAndTooltipMessages() (0.2s)
+2019-12-19T18:57:36.7416525+05:30:Thread#0:B:Then Validate Username AvailableBalance and CurrentBalance columns and hovers
+2019-12-19T18:57:39.7059077+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateUsernameAvailableBalanceAndCurrentBalanceColumnsAndHovers() (3.0s)
+2019-12-19T18:57:39.7059077+05:30:Thread#0:B:Then Search for a name Mano in manage individual funding accounts
+2019-12-19T18:57:39.9474220+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano") (0.2s)
+2019-12-19T18:57:39.9474220+05:30:Thread#0:B:When Check indicator column for activity of the each user
+2019-12-19T18:57:42.0325091+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenCheckIndicatorColumnForActivityOfTheEachUser() (2.1s)
+2019-12-19T18:57:42.0335104+05:30:Thread#0:B:When Click on the indicator and drilldown to first record of the table
+2019-12-19T18:57:44.1653945+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenClickOnTheIndicatorAndDrilldownToFirstRecordOfTheTable() (2.1s)
+2019-12-19T18:57:44.1664034+05:30:Thread#0:B:Then Validate the row expaned in light blue and its row details wih dark blue border
+2019-12-19T18:57:44.2716296+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheRowExpanedInLightBlueAndItsRowDetailsWihDarkBlueBorder() (0.1s)
+2019-12-19T18:57:44.2716296+05:30:Thread#0:B:Then Validate the Indicator table columns for user activity
+2019-12-19T18:57:44.4715647+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateTheIndicatorTableColumnsForUserActivity() (0.2s)
+2019-12-19T18:57:44.4715647+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-19T18:57:44.4715647+05:30:Thread#:Scheduler: testitem #10 from normal test queue 
+2019-12-19T18:57:44.4715647+05:30:Thread#0:Scheduler: considering testitem #10 for thread 0
+2019-12-19T18:57:44.4715647+05:30:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-19T18:57:44.4715647+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2019-12-19T18:57:44.4715647+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2019-12-19T18:57:44.4715647+05:30:Thread#0:Scheduler: using testitem #10 for thread 0
+2019-12-19T18:57:44.4715647+05:30:Thread#0:Scheduler: Test #10 is scheduled for thread
+2019-12-19T18:57:44.4715647+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-19T18:57:44.7596876+05:30:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 53.8690764 seconds
+2019-12-19T18:57:44.7596876+05:30:Thread#0: Test #10/0 is started on thread #0
+2019-12-19T18:57:44.7606909+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-19T18:57:48.4672052+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-19T18:57:53.8101653+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (5.3s)
+2019-12-19T18:57:53.8101653+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-19T18:58:10.9046900+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (17.1s)
+2019-12-19T18:58:10.9051907+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-19T18:58:20.7866605+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (9.9s)
+2019-12-19T18:58:20.7866605+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-19T18:58:29.8821469+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (9.1s)
+2019-12-19T18:58:29.8821469+05:30:Thread#0:B:Then Validate Name search field and label
+2019-12-19T18:58:30.0506319+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.2s)
+2019-12-19T18:58:30.0506319+05:30:Thread#0:B:Then Search for a name Mano Thomson in manage individual funding accounts
+2019-12-19T18:58:30.3330208+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano Thomson") (0.3s)
+2019-12-19T18:58:30.3335223+05:30:Thread#0:B:Then Validate Add and Reset links available
+2019-12-19T18:58:30.7244914+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateAddAndResetLinksAvailable() (0.4s)
+2019-12-19T18:58:30.7244914+05:30:Thread#0:B:When Add balance 10 to first user record and assert
+2019-12-19T18:58:35.5729633+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenAddBalanceToFirstUserRecord("10") (4.8s)
+2019-12-19T18:58:35.5729633+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-19T18:58:35.5729633+05:30:Thread#:Scheduler: testitem #11 from normal test queue 
+2019-12-19T18:58:35.5729633+05:30:Thread#0:Scheduler: considering testitem #11 for thread 0
+2019-12-19T18:58:35.5729633+05:30:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-19T18:58:35.5729633+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2019-12-19T18:58:35.5729633+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2019-12-19T18:58:35.5729633+05:30:Thread#0:Scheduler: using testitem #11 for thread 0
+2019-12-19T18:58:35.5729633+05:30:Thread#0:Scheduler: Test #11 is scheduled for thread
+2019-12-19T18:58:35.5729633+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-19T18:58:35.8197672+05:30:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 51.0600796 seconds
+2019-12-19T18:58:35.8202679+05:30:Thread#0: Test #11/0 is started on thread #0
+2019-12-19T18:58:35.8202679+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-12-19T18:58:39.5178271+05:30:Thread#0:B:Given I have launched the KLIC test site
+2019-12-19T18:58:44.3146798+05:30:Thread#0:T:done: SF_DashboardSteps.LaunchConductorSite() (4.8s)
+2019-12-19T18:58:44.3146798+05:30:Thread#0:B:When I have logged in with FundAdministrator
+2019-12-19T18:59:01.2437301+05:30:Thread#0:T:done: SF_DashboardSteps.LogginValidUser("FundAdministrator") (16.9s)
+2019-12-19T18:59:01.2437301+05:30:Thread#0:B:When Navigate to Corporate Funding page
+2019-12-19T18:59:11.4794139+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToCorporateFundingSection() (10.2s)
+2019-12-19T18:59:11.4794139+05:30:Thread#0:B:When Navigate to Manage Funding tab
+2019-12-19T18:59:20.2879962+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenNavigateToManageFundingTab() (8.8s)
+2019-12-19T18:59:20.2879962+05:30:Thread#0:B:Then Validate Name search field and label
+2019-12-19T18:59:20.4450548+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateNameSearchFieldAndLabel() (0.2s)
+2019-12-19T18:59:20.4450548+05:30:Thread#0:B:Then Search for a name Mano Thomson in manage individual funding accounts
+2019-12-19T18:59:20.8791931+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenSearchForANameInManageIndividualFundingAccounts("Mano Thomson") (0.4s)
+2019-12-19T18:59:20.8791931+05:30:Thread#0:B:Then Validate Add and Reset links available
+2019-12-19T18:59:20.9493495+05:30:Thread#0:T:done: CorporateFundingManageSteps.ThenValidateAddAndResetLinksAvailable() (0.1s)
+2019-12-19T18:59:20.9503509+05:30:Thread#0:B:When Reset balance 5 to first user record and assert
+2019-12-19T18:59:26.2593926+05:30:Thread#0:T:done: CorporateFundingManageSteps.WhenResetBalanceToFirstUserRecordAndAssert("5") (5.3s)
+2019-12-19T18:59:26.2593926+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-19T18:59:26.2593926+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-19T18:59:26.2593926+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-19T18:59:26.2593926+05:30:Thread#0:Scheduler: No more tests for thread
+2019-12-19T18:59:26.4977356+05:30:Thread#0: Test #11/0 is finished on thread #0 as Succeeded within 50.6774677 seconds
+2019-12-19T18:59:26.5717947+05:30:Appdomain Disposed
+2019-12-19T18:59:26.5748029+05:30:Trying to cancel thread
+2019-12-19T18:59:26.5748029+05:30:Thread cancelled
+2019-12-19T18:59:26.5818214+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-12-19T18:59:26.5818214+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-19T18:59:26.5818214+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-19T18:59:26.5848303+05:30;Thread#13;Info;test run finished
+2019-12-19T18:59:26.5848303+05:30;Thread#13;Info;publishing test results
+2019-12-19T18:59:26.6266840+05:30;Thread#13;Info;test results published
+2019-12-19T18:59:26.6266840+05:30;Thread#13;Info;generating reports
+2019-12-19T18:59:26.7884959+05:30;Thread#13;Info;Starting external report generation process
+2019-12-19T18:59:30.9873180+05:30;Thread#13;Info;Successfully generated reports.
+2019-12-19T18:59:30.9893233+05:30;Thread#13;Info;Successfully generated reports
+2019-12-19T18:59:30.9993541+05:30:Total: 4
+2019-12-19T18:59:31.0013866+05:30:Succeeded: 3
+2019-12-19T18:59:31.0023578+05:30:Ignored: 0
+2019-12-19T18:59:31.0023578+05:30:Pending: 0
+2019-12-19T18:59:31.0023578+05:30:Skipped: 0
+2019-12-19T18:59:31.0033614+05:30:Failed: 1
+2019-12-19T18:59:31.0286638+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-19T18:59:31.0286638+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'D:\ConductorTestAutomation\test\ConductorTest\TestResults\ConductorTestAutomation_ConductorTestAutomation_2019-12-19T185545.html'
+========== End of log file ==========
